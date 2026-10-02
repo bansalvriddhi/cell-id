@@ -1,0 +1,78 @@
+{
+  "title": "How Many Experiments Does a Virtual Cell Need?",
+  "subtitle": "CELL-ID: Probe-efficient identification of unseen cellular contexts",
+  "sections": [
+    {
+      "number": "01",
+      "title": "Abstract",
+      "paragraphs": [
+        "Virtual-cell models must predict perturbation responses in biological contexts that were absent during training. CELL-ID investigates whether carefully chosen calibration experiments can improve this transfer more efficiently than random experiments. We implemented a retrospective, leakage-controlled pilot using author-released Tahoe-100M drug-response signatures from ten cancer cell lines and 58 shared drugs at 0.05 µM on one experimental plate. This summary describes the completed pilot. Each evaluation fold withheld an entire cell line. Twenty-nine drugs formed a probe pool, while twenty-nine separate drugs remained fixed evaluation targets. Training-only gene selection and nested context validation defined a low-rank Gaussian response model. Acquired signatures updated its latent context estimate. We compared random probes, uncertainty sampling, D-optimal information gain and V-optimal predictive-variance reduction across budgets from zero to twenty probes. Missing estimates were preserved and excluded only through documented observation masks. Five V-optimal probes produced mean normalized prediction error of 0.99497, compared with 0.99405 for random probes and 1.00000 without adaptation. The three informed designs selected identical five-probe sets in all ten contexts. An exploratory context-offset predictor, using the same random probes, achieved 0.96753 at five probes and 0.84500 at twenty, although it worsened performance at lower budgets. These results favor improving the transferable predictor before asserting benefits from optimized acquisition. This pilot establishes neither dramatic experimental savings nor a complete virtual cell. Shared experimental structure, limited context coverage and unverified source preprocessing restrict interpretation. Future PRISM models require rigorous independent-dataset replication and reliable uncertainty calibration, with simple adaptation baselines retained throughout future method development."
+      ]
+    },
+    {
+      "number": "02",
+      "title": "Introduction & Objective",
+      "paragraphs": [
+        "A drug can produce different molecular responses in different cellular contexts. Predicting those responses for a previously unprofiled cell line therefore requires more than memorizing average drug effects. Large perturbation atlases such as Tahoe-100M make this problem experimentally testable [1], while benchmarking studies show why sophisticated models must be compared against simple alternatives [2].",
+        "CELL-ID asks whether a small, deliberately selected panel of measured responses can identify an unseen context well enough to predict its remaining responses. The objective is to compare probe-selection strategies under a fixed experimental budget, holding the predictor and evaluation targets constant. The fixed-panel design permits direct comparison. This pilot focuses on published transcriptomic signatures in cancer cell lines; it does not evaluate patient treatment outcomes or reconstruct a complete living cell."
+      ]
+    },
+    {
+      "number": "03",
+      "title": "Innovation",
+      "paragraphs": [
+        "The contribution is an evaluation-centered formulation: choose experiments for their expected value to an entire prediction panel, then test that value against hidden measurements. A transferable response basis links a new context’s acquired signatures to unmeasured drug responses. V-optimal selection targets total predictive-variance reduction, whereas D-optimal selection targets latent information. Few-shot context transfer and biological active learning already have precedents [3,4]; this pilot tests their intersection without claiming either as new. The proposed nonlinear PRISM architecture remains a future extension."
+      ]
+    },
+    {
+      "number": "04",
+      "title": "Methodology",
+      "paragraphs": [
+        "We extracted Tahoe-100M’s author-released log2 fold-change signatures for ten cell lines and 58 shared drugs at 0.05 µM on plate 1. Each retained profile had at least 50 treatment and control cells. We preserved missing estimates. Exact source preprocessing and exposure duration remain unverified, so the task is completion of published signatures rather than independently reconstructed expression changes.",
+        "Each outer fold withheld one complete cell context. An identifier-only split reserved 29 drugs as candidate probes and 29 as fixed evaluation targets. Within training contexts, we selected up to 1,000 consistently observed, variable genes and fitted a low-rank Gaussian response model. Inner context holdouts selected rank and regularization. Acquired signatures updated the latent context estimate using observed genes only.",
+        "We compared random acquisition, uncertainty sampling, D-optimal design and V-optimal predictive-variance reduction at budgets of zero to twenty probes. Random acquisition used twenty seeds. Primary performance was target-entry mean squared error normalized to the unadapted training-context mean; signature Pearson correlation was secondary. Budget curves summarize the complete comparison. Context-level bootstrap intervals are descriptive because folds share training data. Covariance-based selection can respond to acquired missingness, but not response magnitudes; it is not a learned adaptive policy. A subsequent exploratory baseline added the mean acquired gene-wise residual to each target’s training mean, using matched random probes without tuning."
+      ]
+    },
+    {
+      "number": "05",
+      "title": "Results & Conclusions",
+      "paragraphs": [
+        "Five V-optimal probes yielded normalized error of 0.99497 versus 0.99405 for random acquisition. The paired random-minus-V-optimal difference was −0.00091 (descriptive 95% bootstrap interval, −0.00165 to −0.00029). Thus, informed selection offered no advantage. All three informed policies selected identical five-drug sets in every context.",
+        "An exploratory context-offset baseline performed better: normalized error was 0.96753 at five probes and 0.84500 at twenty. However, its unregularized correction worsened performance with one to three probes. These results make simple adaptation an essential comparator and suggest improving the response model before adding selection complexity. They do not establish a universal experiment budget or rule out nonlinear approaches. Unknown source preprocessing, one plate, ten contexts and low primary-model correlations prevent broader biological or clinical conclusions."
+      ]
+    },
+    {
+      "number": "06",
+      "title": "Acknowledgement & References",
+      "paragraphs": [
+        "We acknowledge Tahoe Bio and the dataset authors for openly releasing perturbation data. AI assisted coding, writing and conceptual figures; numerical plots use measured-data outputs. Full references and reproducibility details appear in the project paper.",
+        "[1] Zhang et al. Tahoe-100M. Cell (2026). https://doi.org/10.1016/j.cell.2026.08.035",
+        "[2] Ahlmann-Eltze et al. Gene perturbation prediction and linear baselines. Nature Methods (2025). https://doi.org/10.1038/s41592-025-02772-6",
+        "[3] Scholkemper and Mukherjee. C3TL. Preprint (2026). https://arxiv.org/abs/2603.13051",
+        "[4] Qin et al. NAIAD. Workshop preprint (2024). https://arxiv.org/abs/2411.12010"
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/concept.png",
+      "label": "Figure 1",
+      "caption": "Measure a few, predict the rest. Selected perturbations reveal response signatures that constrain a context-specific model. Symbols and counts are illustrative. AI-generated conceptual graphic; no measured performance is represented."
+    },
+    {
+      "path": "figures/method_corrected.png",
+      "label": "Figure 2",
+      "caption": "A fixed target panel makes policies comparable. Training contexts define the response prior; only acquired probe signatures update the held-out context. Target measurements remain hidden until evaluation. In this linear pilot, selection depends on covariance and revealed availability, not response magnitudes. AI-generated method schematic."
+    },
+    {
+      "path": "figures/paper/budget_curves.png",
+      "label": "Figure 3",
+      "caption": "Calibration gains are small. Means over ten held-out contexts; random averages twenty seeds. Shading for random and V-optimal shows descriptive 95% context-bootstrap intervals. Note the narrow error scale and overlapping informed-policy curves. The dotted reference is the unadapted mean; targets remain fixed."
+    },
+    {
+      "path": "figures/paper/simple_baseline.png",
+      "label": "Figure 4",
+      "caption": "A simple predictor changes the budget curve. Exploratory context offsets and the primary latent model use identical random probe orders. Means over ten contexts after averaging twenty seeds; shading is a descriptive 95% context-bootstrap interval. Offsets hurt at low budgets but improve higher-budget completion."
+    }
+  ]
+}

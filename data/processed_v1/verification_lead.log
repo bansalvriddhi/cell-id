@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "exit_status": 0,
+  "command": "/Users/aayambansal/.config/openscience/data-root/conda/envs/python/bin/python /Users/aayambansal/Desktop/bullshit-goofy/iris-vriddhi/scripts/prepare_data.py --verify-only --verification-name verification_lead",
+  "shape": [
+    10,
+    58,
+    62710
+  ],
+  "source_bytes": 1723649452,
+  "source_checksums_verified": 27,
+  "independently_rechecked_gene_profile_rows": 36371800,
+  "compared_columns": [
+    "log2FoldChange",
+    "lfcSE"
+  ],
+  "finite_lfc_values": 16447466,
+  "missing_lfc_values": 19924334,
+  "no_imputation": true,
+  "complete_context_drug_panel": true,
+  "all_retained_profiles_min_50_cells_per_arm": true,
+  "plate1_vehicle_samples_in_sample_metadata": [
+    {
+      "sample": "smp_1589",
+      "plate": "plate1",
+      "drug": "DMSO_TF",
+      "drugname_drugconc": "[('DMSO_TF', 0.0, 'uM')]"
+    },
+    {
+      "sample": "smp_1590",
+      "plate": "plate1",
+      "drug": "DMSO_TF",
+      "drugname_drugconc": "[('DMSO_TF', 0.0, 'uM')]"
+    }
+  ],
+  "sample_metadata_agrees_with_every_retained_drug_dose": true,
+  "public_viewer_TSPAN6_4EGI1_A549_log2fc": -0.27955949306488037,
+  "responses_npz_bytes": 126307181,
+  "per_context_missing_lfc_fraction": {
+    "CVCL_0023": 0.5464906878405797,
+    "CVCL_0218": 0.5829301821741019,
+    "CVCL_0320": 0.5378705480619601,
+    "CVCL_0332": 0.556182537020439,
+    "CVCL_0399": 0.49959061690650447,
+    "CVCL_0504": 0.569656162191588,
+    "CVCL_0546": 0.4827704430355385,
+    "CVCL_1693": 0.6023009584348313,
+    "CVCL_1717": 0.5347557723291121,
+    "CVCL_1731": 0.5654141395256765
+  }
+}

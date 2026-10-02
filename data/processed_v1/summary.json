@@ -1,0 +1,179 @@
+{
+  "source_revision": "2dc57900b7981cfcf5e211527169a0b006546a95",
+  "source_bytes": 1723649452,
+  "source_files": 27,
+  "source_shards": 19,
+  "source_rows": 75737429,
+  "shape": [
+    10,
+    58,
+    62710
+  ],
+  "dtype": "float32",
+  "gene_names_unique": 62710,
+  "contexts": [
+    {
+      "context_index": 0,
+      "Cell_ID_Cellosaur": "CVCL_0023",
+      "cell_name": "A549",
+      "Organ": "Lung"
+    },
+    {
+      "context_index": 1,
+      "Cell_ID_Cellosaur": "CVCL_0218",
+      "cell_name": "COLO 205",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 2,
+      "Cell_ID_Cellosaur": "CVCL_0320",
+      "cell_name": "HT-29",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 3,
+      "Cell_ID_Cellosaur": "CVCL_0332",
+      "cell_name": "HS-578T",
+      "Organ": "Breast"
+    },
+    {
+      "context_index": 4,
+      "Cell_ID_Cellosaur": "CVCL_0399",
+      "cell_name": "LoVo",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 5,
+      "Cell_ID_Cellosaur": "CVCL_0504",
+      "cell_name": "RKO",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 6,
+      "Cell_ID_Cellosaur": "CVCL_0546",
+      "cell_name": "SW480",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 7,
+      "Cell_ID_Cellosaur": "CVCL_1693",
+      "cell_name": "SHP-77",
+      "Organ": "Lung"
+    },
+    {
+      "context_index": 8,
+      "Cell_ID_Cellosaur": "CVCL_1717",
+      "cell_name": "SW1417",
+      "Organ": "Bowel"
+    },
+    {
+      "context_index": 9,
+      "Cell_ID_Cellosaur": "CVCL_1731",
+      "cell_name": "SW 900",
+      "Organ": "Lung"
+    }
+  ],
+  "drugs": [
+    "4EGI-1",
+    "9-ING-41",
+    "APTO-253",
+    "AT7519",
+    "AZD-7648",
+    "AZD-8055",
+    "AZD1390",
+    "AZD2858",
+    "Adagrasib",
+    "Afatinib",
+    "Alpelisib",
+    "Anastrozole",
+    "BAY1125976",
+    "BI-3406",
+    "BI-78D3",
+    "Belumosudil (mesylate)",
+    "Bentamapimod",
+    "Bimiralisib",
+    "Binimetinib",
+    "Bortezomib",
+    "Brivudine",
+    "CP21R7",
+    "Capivasertib",
+    "Capmatinib",
+    "Celecoxib",
+    "DT-061",
+    "Dabrafenib",
+    "ERK5-IN-2",
+    "ETC-206",
+    "EX229",
+    "Elimusertib hydrochloride",
+    "Encorafenib",
+    "Erdafitinib",
+    "Everolimus",
+    "Futibatinib",
+    "GSK1059615",
+    "Gemcitabine",
+    "HI-TOPK-032",
+    "IQ 1",
+    "Infigratinib",
+    "Ipatasertib",
+    "Irinotecan",
+    "Ixazomib",
+    "LB-100",
+    "LJI308",
+    "LY-2584702 (tosylate salt)",
+    "LY2090314",
+    "Lapatinib ditosylate",
+    "Lonafarnib",
+    "MK-3903",
+    "MK-8353",
+    "ML264",
+    "Minodronic acid",
+    "NG25",
+    "NVP-BHG712",
+    "OTS514",
+    "Oleic acid",
+    "Oxaliplatin"
+  ],
+  "plate": "1",
+  "concentration": 0.05,
+  "concentration_unit": "uM",
+  "exposure_time_hours": null,
+  "time_status": "Not specified in acquired source metadata; not inferred",
+  "candidate_profiles": 819,
+  "complete_candidate_profiles": 814,
+  "qc_pass_candidate_profiles": 750,
+  "retained_profiles": 580,
+  "low_cell_candidate_profiles": 64,
+  "incomplete_candidate_profiles": 5,
+  "finite_lfc_values": 16447466,
+  "missing_lfc_values": 19924334,
+  "missing_lfc_fraction": 0.5477962047520332,
+  "genes_finite_in_all_profiles": 14894,
+  "genes_finite_in_at_least_one_profile": 48791,
+  "treatment_cells_min": 295,
+  "treatment_cells_max": 10286,
+  "control_cells_min": 1805,
+  "control_cells_max": 10609,
+  "gene_mapping_missing": 0,
+  "metadata_shapes": {
+    "sample_metadata.parquet": [
+      1344,
+      8
+    ],
+    "cell_line_metadata.parquet": [
+      1000,
+      10
+    ],
+    "gene_metadata.parquet": [
+      62710,
+      3
+    ],
+    "drug_metadata.parquet": [
+      379,
+      9
+    ]
+  },
+  "numpy_version": "2.4.6",
+  "pandas_version": "2.3.3",
+  "pyarrow_version": "25.0.1",
+  "method": "Source log2FoldChange unchanged; plate1, 0.05uM, >=50 cells per arm, complete profiles and common drugs; no gene filtering"
+}

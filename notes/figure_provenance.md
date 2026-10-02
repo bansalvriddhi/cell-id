@@ -1,0 +1,10 @@
+# Figure provenance
+
+The submission paper embeds four final figures:
+
+1. `figures/concept.png`, a conceptual CELL-ID illustration generated with Nano Banana Pro via the native image tool. It shows selected probes, symbolic measured responses and predicted response glyphs. Its labels are exactly “SELECT PROBES”, “MEASURE RESPONSES” and “PREDICT THE REST”. Neither the four icons nor the number of glyphs depicts a measured experiment count. The accepted native image was trimmed from 2752 × 1536 to 2558 × 1073 pixels; page-level inspection confirmed legibility.
+2. `figures/method_corrected.png`, an AI-generated method schematic with four stages—LEARN A PRIOR; HOLD OUT A CONTEXT; SELECT · REVEAL · UPDATE; EVALUATE. The held-out target panel is locked during acquisition. The final corrected image removes a duplicated word seen in an earlier render. The caption notes that this pilot's selection depends on covariance and revealed gene availability, not measured response magnitudes.
+3. `figures/paper/budget_curves.png`, a colorblind-friendly plot of measured normalized MSE and signature correlation versus number of acquired probes. It is produced by `figures/plot_paper_figures.py` from saved `results/pilot/main/per_context.csv` only.
+4. `figures/paper/simple_baseline.png`, a plot of the primary random-probe predictor beside the exploratory matched-probe context-offset predictor. Its script additionally reads `results/pilot/context_shift/per_context.csv`.
+
+The original 1K artwork drafts and redundant plot exports were deleted during the IRIS submission cleanup; the final artwork and source-data tables were retained. The plotting script recomputes the exact means and seed-77, 2,000-resample percentile intervals for all ten held-out contexts. `figures/paper/provenance.json` holds data, script and final plot hashes. Generated graphics are conceptual, and plots are based exclusively on measured experimental ground truth and the completed saved analysis. The source PDF captions clarify which is which.

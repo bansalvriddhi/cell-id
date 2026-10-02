@@ -1,0 +1,8 @@
+# Figure exports use Matplotlib's multiline path formatting; measured CSV outputs
+# preserve their original CRLF line endings and numeric bytes.
+*.svg whitespace=-blank-at-eol
+*.csv whitespace=cr-at-eol
+*.tsv whitespace=cr-at-eol
+*.pdf binary
+*.npz binary
+*.png binary

@@ -1,0 +1,22 @@
+{
+  "status": "PASS",
+  "exit_status": 0,
+  "command": "/Users/aayambansal/.config/openscience/data-root/conda/envs/python/bin/python /Users/aayambansal/Desktop/bullshit-goofy/iris-vriddhi/scripts/prepare_data.py",
+  "shape": [
+    10,
+    58,
+    62710
+  ],
+  "source_bytes": 1723649452,
+  "source_checksums_verified": 27,
+  "independently_rechecked_gene_profile_rows": 36371800,
+  "compared_columns": [
+    "log2FoldChange",
+    "lfcSE"
+  ],
+  "finite_lfc_values": 16447466,
+  "missing_lfc_values": 19924334,
+  "no_imputation": true,
+  "complete_context_drug_panel": true,
+  "all_retained_profiles_min_50_cells_per_arm": true
+}

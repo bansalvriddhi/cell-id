@@ -1,0 +1,9 @@
+{
+  "status": "pass",
+  "metric_rows": 1400,
+  "full_checkpoint_checks": 30,
+  "k0_all_seeds_equal": true,
+  "k1_direct_observed_residual": true,
+  "maximum_absolute_mse_discrepancy": 4.440892098500626e-16,
+  "primary_hashes_unchanged": true
+}

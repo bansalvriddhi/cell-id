@@ -1,0 +1,630 @@
+{
+  "status": "pass",
+  "contexts": 10,
+  "metrics_rows": 1680,
+  "input_sha256": "afbc9c8ba914d49603b45b34b1c71784539b90365403a4bee650846e62fba750",
+  "full_prediction_policy_context_checks": 40,
+  "mask_aware_acquisition_replays": 230,
+  "maximum_absolute_mse_reconstruction_discrepancy": 4.440892098500626e-16,
+  "target_coverage": [
+    {
+      "context": "CVCL_0023",
+      "observed_target_entries": 28882,
+      "possible_target_entries": 29000,
+      "coverage": 0.9959310344827587
+    },
+    {
+      "context": "CVCL_0218",
+      "observed_target_entries": 28386,
+      "possible_target_entries": 29000,
+      "coverage": 0.9788275862068966
+    },
+    {
+      "context": "CVCL_0320",
+      "observed_target_entries": 28953,
+      "possible_target_entries": 29000,
+      "coverage": 0.9983793103448276
+    },
+    {
+      "context": "CVCL_0332",
+      "observed_target_entries": 28792,
+      "possible_target_entries": 29000,
+      "coverage": 0.9928275862068966
+    },
+    {
+      "context": "CVCL_0399",
+      "observed_target_entries": 28992,
+      "possible_target_entries": 29000,
+      "coverage": 0.9997241379310344
+    },
+    {
+      "context": "CVCL_0504",
+      "observed_target_entries": 28750,
+      "possible_target_entries": 29000,
+      "coverage": 0.9913793103448276
+    },
+    {
+      "context": "CVCL_0546",
+      "observed_target_entries": 29000,
+      "possible_target_entries": 29000,
+      "coverage": 1.0
+    },
+    {
+      "context": "CVCL_1693",
+      "observed_target_entries": 27199,
+      "possible_target_entries": 29000,
+      "coverage": 0.9378965517241379
+    },
+    {
+      "context": "CVCL_1717",
+      "observed_target_entries": 28937,
+      "possible_target_entries": 29000,
+      "coverage": 0.9978275862068966
+    },
+    {
+      "context": "CVCL_1731",
+      "observed_target_entries": 28843,
+      "possible_target_entries": 29000,
+      "coverage": 0.9945862068965517
+    }
+  ],
+  "fitted_hyperparameters": [
+    {
+      "context": "CVCL_0023",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14956,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0218",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 15249,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0320",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14925,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0332",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 15023,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0399",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14900,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0504",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 15064,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_0546",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14895,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_1693",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 15866,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_1717",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14944,
+      "selected_genes": 1000
+    },
+    {
+      "context": "CVCL_1731",
+      "rank": 7,
+      "noise_multiplier": 10.0,
+      "eligible_genes": 14973,
+      "selected_genes": 1000
+    }
+  ],
+  "key_scores": [
+    {
+      "budget": 5,
+      "mse": {
+        "context_max": 2.631248379619345,
+        "context_min": 0.8039236705157565,
+        "mean": 1.769047146646025,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4490560276932778,
+          2.094005896024721
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 1.0,
+        "context_min": 1.0,
+        "mean": 1.0,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.0,
+          1.0
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.20972768521729804,
+        "context_min": 0.08463813145822355,
+        "mean": 0.1301674364648518,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11098963175700938,
+          0.15247874988745908
+        ]
+      },
+      "policy": "unadapted"
+    },
+    {
+      "budget": 5,
+      "mse": {
+        "context_max": 2.6185916480402125,
+        "context_min": 0.8010653280091414,
+        "mean": 1.7585622141378312,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4409516216009173,
+          2.0831330442617455
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 0.9990317935324283,
+        "context_min": 0.9890265466897021,
+        "mean": 0.994054748021391,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9922099029959824,
+          0.9956943511038251
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.2110524688234004,
+        "context_min": 0.08579052195848977,
+        "mean": 0.1333250598600697,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11413897045400072,
+          0.15545471215242046
+        ]
+      },
+      "policy": "random"
+    },
+    {
+      "budget": 5,
+      "mse": {
+        "context_max": 2.6240620002941792,
+        "context_min": 0.8016709818021409,
+        "mean": 1.760448441402047,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4421501875393457,
+          2.086360378538451
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 1.0026917027744822,
+        "context_min": 0.9891687585014518,
+        "mean": 0.9949672557213292,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9926689050586891,
+          0.9971639389860852
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21083432099579952,
+        "context_min": 0.08566294261595546,
+        "mean": 0.13328981064309317,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11404770963196592,
+          0.1553830915132734
+        ]
+      },
+      "policy": "trace-uncertainty"
+    },
+    {
+      "budget": 5,
+      "mse": {
+        "context_max": 2.6240620002941792,
+        "context_min": 0.8016709818021409,
+        "mean": 1.760448441402047,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4421501875393457,
+          2.086360378538451
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 1.0026917027744822,
+        "context_min": 0.9891687585014518,
+        "mean": 0.9949672557213292,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9926689050586891,
+          0.9971639389860852
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21083432099579952,
+        "context_min": 0.08566294261595546,
+        "mean": 0.13328981064309317,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11404770963196592,
+          0.1553830915132734
+        ]
+      },
+      "policy": "D-optimal"
+    },
+    {
+      "budget": 5,
+      "mse": {
+        "context_max": 2.6240620002941792,
+        "context_min": 0.8016709818021409,
+        "mean": 1.760448441402047,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4421501875393457,
+          2.086360378538451
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 1.0026917027744822,
+        "context_min": 0.9891687585014518,
+        "mean": 0.9949672557213292,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9926689050586891,
+          0.9971639389860852
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21083432099579952,
+        "context_min": 0.08566294261595546,
+        "mean": 0.13328981064309317,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11404770963196592,
+          0.1553830915132734
+        ]
+      },
+      "policy": "V-optimal"
+    },
+    {
+      "budget": 20,
+      "mse": {
+        "context_max": 2.631248379619345,
+        "context_min": 0.8039236705157565,
+        "mean": 1.769047146646025,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4490560276932778,
+          2.094005896024721
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 1.0,
+        "context_min": 1.0,
+        "mean": 1.0,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.0,
+          1.0
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.20972768521729804,
+        "context_min": 0.08463813145822355,
+        "mean": 0.1301674364648518,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11098963175700938,
+          0.15247874988745908
+        ]
+      },
+      "policy": "unadapted"
+    },
+    {
+      "budget": 20,
+      "mse": {
+        "context_max": 2.6147567042999835,
+        "context_min": 0.7998911982737671,
+        "mean": 1.756297029190773,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.43890645323382,
+          2.0803113590970526
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 0.9976878173760984,
+        "context_min": 0.9879327314247937,
+        "mean": 0.9927700693538094,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9909805346042141,
+          0.994375404350114
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21165027454090962,
+        "context_min": 0.08631978058312087,
+        "mean": 0.13393694164960473,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.1147187487594164,
+          0.15602863129072916
+        ]
+      },
+      "policy": "random"
+    },
+    {
+      "budget": 20,
+      "mse": {
+        "context_max": 2.6153552390089443,
+        "context_min": 0.8000510762179147,
+        "mean": 1.7565990150421242,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4390684148282356,
+          2.0808312928542554
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 0.9976897010756817,
+        "context_min": 0.9881359319911239,
+        "mean": 0.9929335841452606,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9911912776575138,
+          0.9944738212683345
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21147119580157753,
+        "context_min": 0.08608456398560954,
+        "mean": 0.13376333997094256,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11446019306032332,
+          0.1559487470428101
+        ]
+      },
+      "policy": "trace-uncertainty"
+    },
+    {
+      "budget": 20,
+      "mse": {
+        "context_max": 2.6153552390089443,
+        "context_min": 0.8000510762179147,
+        "mean": 1.7565990150421242,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4390684148282356,
+          2.0808312928542554
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 0.9976897010756817,
+        "context_min": 0.9881359319911239,
+        "mean": 0.9929335841452606,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9911912776575138,
+          0.9944738212683345
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21147119580157753,
+        "context_min": 0.08608456398560954,
+        "mean": 0.13376333997094256,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11446019306032332,
+          0.1559487470428101
+        ]
+      },
+      "policy": "D-optimal"
+    },
+    {
+      "budget": 20,
+      "mse": {
+        "context_max": 2.6153552390089443,
+        "context_min": 0.8000510762179147,
+        "mean": 1.7566194878188301,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.4390684148282356,
+          2.080851765630961
+        ]
+      },
+      "normalized_mse": {
+        "context_max": 0.9976897010756817,
+        "context_min": 0.9881359319911239,
+        "mean": 0.992946552278932,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9912107867766511,
+          0.9944794612042726
+        ]
+      },
+      "pearson_mean": {
+        "context_max": 0.21147119580157753,
+        "context_min": 0.08608456398560954,
+        "mean": 0.1337578829782956,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.11446005663550715,
+          0.1559432900501631
+        ]
+      },
+      "policy": "V-optimal"
+    }
+  ],
+  "key_paired_comparisons": [
+    {
+      "budget": 5,
+      "gain_reference_minus_policy": {
+        "context_max": -0.0009682064675716751,
+        "context_min": -0.010973453310297865,
+        "mean": -0.005945251978608878,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          -0.0077900970040176345,
+          -0.004305648896174996
+        ]
+      },
+      "policy": "unadapted",
+      "reference": "random"
+    },
+    {
+      "budget": 5,
+      "gain_reference_minus_policy": {
+        "context_max": 0.00032109986612716135,
+        "context_min": -0.003659909242053838,
+        "mean": -0.0009125076999379811,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          -0.001646702132430414,
+          -0.00028505106478289805
+        ]
+      },
+      "policy": "trace-uncertainty",
+      "reference": "random"
+    },
+    {
+      "budget": 5,
+      "gain_reference_minus_policy": {
+        "context_max": 0.00032109986612716135,
+        "context_min": -0.003659909242053838,
+        "mean": -0.0009125076999379811,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          -0.001646702132430414,
+          -0.00028505106478289805
+        ]
+      },
+      "policy": "D-optimal",
+      "reference": "random"
+    },
+    {
+      "budget": 5,
+      "gain_reference_minus_policy": {
+        "context_max": 0.00032109986612716135,
+        "context_min": -0.003659909242053838,
+        "mean": -0.0009125076999379811,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          -0.001646702132430414,
+          -0.00028505106478289805
+        ]
+      },
+      "policy": "V-optimal",
+      "reference": "random"
+    }
+  ],
+  "auc": [
+    {
+      "normalized_auc": {
+        "context_max": 1.0,
+        "context_min": 1.0,
+        "mean": 1.0,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          1.0,
+          1.0
+        ]
+      },
+      "policy": "unadapted"
+    },
+    {
+      "normalized_auc": {
+        "context_max": 0.9989046430713266,
+        "context_min": 0.9893747088583194,
+        "mean": 0.9940730624579798,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9922814871251626,
+          0.9956408698442906
+        ]
+      },
+      "policy": "random"
+    },
+    {
+      "normalized_auc": {
+        "context_max": 1.0010914184500788,
+        "context_min": 0.9895168690353284,
+        "mean": 0.9947207882809149,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.992725804461186,
+          0.9966170891078394
+        ]
+      },
+      "policy": "trace-uncertainty"
+    },
+    {
+      "normalized_auc": {
+        "context_max": 1.0010914184500788,
+        "context_min": 0.9895168690353284,
+        "mean": 0.9947207882809149,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.992725804461186,
+          0.9966170891078394
+        ]
+      },
+      "policy": "D-optimal"
+    },
+    {
+      "normalized_auc": {
+        "context_max": 1.0007414640480632,
+        "context_min": 0.9895168690353284,
+        "mean": 0.9946778741123774,
+        "n_contexts": 10,
+        "paired_context_bootstrap_95pct": [
+          0.9927123532717963,
+          0.9965142256695609
+        ]
+      },
+      "policy": "V-optimal"
+    }
+  ],
+  "checks": [
+    "input/output hashes",
+    "fixed metadata-only split",
+    "all acquisition counts",
+    "training-only finite-gene selection/means",
+    "direct SVD covariance cross-check",
+    "common k0",
+    "masked full k5 MSE/Pearson/posteriors",
+    "covariance monotonicity",
+    "acquired-mask-only covariance replay and nominal candidate design scores",
+    "target coverage/missing probe counts",
+    "numeric-and-missingness sentinel recorded",
+    "random-seed/context aggregation",
+    "paired bootstrap or min/max",
+    "AUC"
+  ]
+}

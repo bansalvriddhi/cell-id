@@ -1,0 +1,20 @@
+# Upstream Tahoe source data and locally extracted response tensor exceed GitHub's
+# ordinary file-size limit. Fetch from pinned public URLs in the manifest.
+data/source/
+data/processed_v1/responses.npz
+data/source_manifest.tsv
+data/processed_v1/source_manifest.tsv
+
+# Machine-specific outputs
+.DS_Store
+.openscience-trash/
+.AppleDouble
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+!*.env.example

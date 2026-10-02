@@ -1,0 +1,164 @@
+{
+  "contexts": [
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0023",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1406768,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0218",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1441449,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0320",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1398623,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0332",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1416732,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0399",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1364499,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0504",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1427949,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_0546",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1347751,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_1693",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1458931,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_1717",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1395834,
+        "target_values_changed": 1818590
+      }
+    },
+    {
+      "acquisition_counts_distinct": true,
+      "context": "CVCL_1731",
+      "covariance_psd_and_monotone": true,
+      "k0_identical": true,
+      "minimum_covariance_reduction_eigenvalue": 0.0,
+      "probe_target_disjoint": true,
+      "sentinel": {
+        "all_deterministic_and_random0_orders_unchanged": true,
+        "fit_unchanged": true,
+        "k5_predictions_unchanged": true,
+        "posterior_means_all_steps_unchanged": true,
+        "target_mask_entries_changed": 1423748,
+        "target_values_changed": 1818590
+      }
+    }
+  ]
+}

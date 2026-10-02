@@ -1,0 +1,220 @@
+{
+  "script": "figures/plot_paper_figures.py",
+  "script_sha256": "e91f28c7f3b558eb24eb868dafe28c3fae330001c9ca6d68741bf3d2c77704bd",
+  "command": "/Users/aayambansal/.config/openscience/data-root/conda/envs/python/bin/python figures/plot_paper_figures.py --overwrite",
+  "source_sha256": {
+    "results/pilot/main/per_context.csv": "b398e45443a57b878574766ad9406e619c84065754e6e400c6307bba4515255d",
+    "results/pilot/context_shift/per_context.csv": "91245dcc8eedb9edc0ec08019b4bf5ac8134c737a1e5de5dd781503f546d730f",
+    "figures/figstyle.py": "47fcca9890d00f0a70239338585a84e08a6c71830ec18de7db2d9d96be2b24ca"
+  },
+  "aggregation": {
+    "contexts": [
+      "CVCL_0023",
+      "CVCL_0218",
+      "CVCL_0320",
+      "CVCL_0332",
+      "CVCL_0399",
+      "CVCL_0504",
+      "CVCL_0546",
+      "CVCL_1693",
+      "CVCL_1717",
+      "CVCL_1731"
+    ],
+    "budgets": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      10,
+      20
+    ],
+    "bootstrap_resamples": 2000,
+    "bootstrap_seed": 77,
+    "context_order": "sorted identifier",
+    "interval": "95% percentile bootstrap over held-out contexts; descriptive because training folds overlap",
+    "random": "20 seeds already averaged per context in source CSVs",
+    "main_bands": [
+      "random",
+      "V-optimal"
+    ],
+    "simple_bands": "both methods",
+    "exclusions": "none within plotted policies/metrics; unadapted policy is a reference line only",
+    "rounding_smoothing_jitter": "none"
+  },
+  "presentation": {
+    "width_inches": 6.6,
+    "minimum_plot_font_pt": 8,
+    "background": "white",
+    "text": "black",
+    "titles_captions": "none in plots",
+    "line_styles": {
+      "random": {
+        "color": "#777777",
+        "marker": "o",
+        "linestyle": [
+          0,
+          [
+            5,
+            2
+          ]
+        ],
+        "markersize": 3.6
+      },
+      "trace-uncertainty": {
+        "color": "#E69F00",
+        "marker": "^",
+        "linestyle": [
+          0,
+          [
+            1,
+            1.4
+          ]
+        ],
+        "markersize": 5.2
+      },
+      "D-optimal": {
+        "color": "#0072B2",
+        "marker": "s",
+        "linestyle": [
+          0,
+          [
+            4,
+            1.4,
+            1,
+            1.4
+          ]
+        ],
+        "markersize": 4.2
+      },
+      "V-optimal": {
+        "color": "#009E73",
+        "marker": "D",
+        "linestyle": "-",
+        "markersize": 3.0
+      }
+    },
+    "context_offset_style": {
+      "color": "#CC79A7",
+      "marker": "s",
+      "linestyle": "-",
+      "markersize": 3.8
+    },
+    "overlap": "retained at exact measured coordinates",
+    "conceptual_images": "not generated, converted, read or hashed by this plot renderer"
+  },
+  "versions": {
+    "python": "3.11.16",
+    "numpy": "2.4.6",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.1",
+    "pillow": "12.3.0",
+    "pymupdf": "1.28.2"
+  },
+  "verification": {
+    "source_tables": {
+      "curve_source_data.csv": {
+        "rows": 56,
+        "columns": [
+          "metric",
+          "policy",
+          "budget",
+          "mean",
+          "lo",
+          "hi"
+        ],
+        "reference": "recomputed directly from measured per-context result CSVs",
+        "exact_match": true,
+        "byte_identical": true,
+        "max_abs_numeric_difference": 0.0
+      },
+      "simple_baseline_source_data.csv": {
+        "rows": 14,
+        "columns": [
+          "method",
+          "budget",
+          "mean",
+          "lo",
+          "hi"
+        ],
+        "reference": "recomputed directly from measured per-context result CSVs",
+        "exact_match": true,
+        "byte_identical": true,
+        "max_abs_numeric_difference": 0.0
+      }
+    },
+    "plots": {
+      "budget_curves": {
+        "inches": [
+          6.6,
+          2.6
+        ],
+        "pixels": [
+          3960,
+          1560
+        ],
+        "png_mode": "RGBA",
+        "dpi": 600,
+        "required_colors_in_png_pdf_svg": [
+          "#777777",
+          "#E69F00",
+          "#0072B2",
+          "#009E73"
+        ],
+        "png_exact_color_pixel_counts": {
+          "#777777": 12159,
+          "#E69F00": 4117,
+          "#0072B2": 8264,
+          "#009E73": 32736
+        },
+        "pdf_color_audit": "RGB vector strokes and non-grayscale rendered pixels; ICC disabled",
+        "minimum_pdf_font_pt": 8.0,
+        "minimum_svg_font_pt": 8.0,
+        "pdf_text_black": true,
+        "svg_text_black": true,
+        "pdf_fonts": [
+          "HelveticaNeue",
+          "HelveticaNeue-Bold"
+        ]
+      },
+      "simple_baseline": {
+        "inches": [
+          6.6,
+          2.2
+        ],
+        "pixels": [
+          3960,
+          1320
+        ],
+        "png_mode": "RGBA",
+        "dpi": 600,
+        "required_colors_in_png_pdf_svg": [
+          "#777777",
+          "#CC79A7"
+        ],
+        "png_exact_color_pixel_counts": {
+          "#777777": 23966,
+          "#CC79A7": 42886
+        },
+        "pdf_color_audit": "RGB vector strokes and non-grayscale rendered pixels; ICC disabled",
+        "minimum_pdf_font_pt": 8.0,
+        "minimum_svg_font_pt": 8.0,
+        "pdf_text_black": true,
+        "svg_text_black": true,
+        "pdf_fonts": [
+          "HelveticaNeue"
+        ]
+      }
+    }
+  },
+  "output_sha256": {
+    "figures/paper/budget_curves.pdf": "cff9d12933f2bcb36b12df5fc7814f68dd5d683c09dea33dbd404fcb45936766",
+    "figures/paper/budget_curves.png": "680a6b91efea2e47692600f5fa5f1b54e88603f1863592e09d16bdf754132304",
+    "figures/paper/budget_curves.svg": "f52e9e5b44fff8bde9c01a17dc531d4b46958a10bf14c17319ef3f5d519aa8c7",
+    "figures/paper/curve_source_data.csv": "4b9435052b270d03107c195c78dd90b06d6a9404f5a0db52c1ba139812329d32",
+    "figures/paper/simple_baseline.pdf": "3062410ebce158af67f983c870830c8e29471a47bb71a1258aa5253001a0a3d4",
+    "figures/paper/simple_baseline.png": "34120491f819a33b8523ce5cd399541aaa8633f0e2fc6aacea29441341952031",
+    "figures/paper/simple_baseline.svg": "c650870c9f1af734e79f70f0dc720f906343582ce43c7c7a12233c94bb326884",
+    "figures/paper/simple_baseline_source_data.csv": "c59c79d218850fea6713ad7572ac033a5eb3ba7333eda043ef4730bcfcd750b7"
+  }
+}

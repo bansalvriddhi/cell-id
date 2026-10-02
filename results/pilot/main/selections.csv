@@ -1,0 +1,4601 @@
+context,policy,seed,step,perturbation,observed_genes,missing_genes
+CVCL_0023,random,0,1,IQ 1,996,4
+CVCL_0023,random,0,2,AZD2858,998,2
+CVCL_0023,random,0,3,Binimetinib,993,7
+CVCL_0023,random,0,4,Everolimus,997,3
+CVCL_0023,random,0,5,Bimiralisib,999,1
+CVCL_0023,random,0,6,AZD-7648,999,1
+CVCL_0023,random,0,7,Oleic acid,994,6
+CVCL_0023,random,0,8,OTS514,996,4
+CVCL_0023,random,0,9,Alpelisib,994,6
+CVCL_0023,random,0,10,Infigratinib,997,3
+CVCL_0023,random,0,11,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,0,12,AZD1390,996,4
+CVCL_0023,random,0,13,Ixazomib,997,3
+CVCL_0023,random,0,14,BI-3406,993,7
+CVCL_0023,random,0,15,APTO-253,994,6
+CVCL_0023,random,0,16,Gemcitabine,999,1
+CVCL_0023,random,0,17,Bortezomib,996,4
+CVCL_0023,random,0,18,HI-TOPK-032,994,6
+CVCL_0023,random,0,19,CP21R7,995,5
+CVCL_0023,random,0,20,Anastrozole,998,2
+CVCL_0023,random,1,1,Infigratinib,997,3
+CVCL_0023,random,1,2,Everolimus,997,3
+CVCL_0023,random,1,3,Anastrozole,998,2
+CVCL_0023,random,1,4,AT7519,997,3
+CVCL_0023,random,1,5,AZD1390,996,4
+CVCL_0023,random,1,6,OTS514,996,4
+CVCL_0023,random,1,7,Encorafenib,994,6
+CVCL_0023,random,1,8,Binimetinib,993,7
+CVCL_0023,random,1,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,1,10,IQ 1,996,4
+CVCL_0023,random,1,11,LJI308,994,6
+CVCL_0023,random,1,12,Oleic acid,994,6
+CVCL_0023,random,1,13,NG25,999,1
+CVCL_0023,random,1,14,Ixazomib,997,3
+CVCL_0023,random,1,15,AZD-7648,999,1
+CVCL_0023,random,1,16,Futibatinib,996,4
+CVCL_0023,random,1,17,Bortezomib,996,4
+CVCL_0023,random,1,18,Bimiralisib,999,1
+CVCL_0023,random,1,19,AZD2858,998,2
+CVCL_0023,random,1,20,Adagrasib,999,1
+CVCL_0023,random,2,1,Everolimus,997,3
+CVCL_0023,random,2,2,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,2,3,Bortezomib,996,4
+CVCL_0023,random,2,4,OTS514,996,4
+CVCL_0023,random,2,5,Bimiralisib,999,1
+CVCL_0023,random,2,6,Anastrozole,998,2
+CVCL_0023,random,2,7,Ixazomib,997,3
+CVCL_0023,random,2,8,Gemcitabine,999,1
+CVCL_0023,random,2,9,LJI308,994,6
+CVCL_0023,random,2,10,IQ 1,996,4
+CVCL_0023,random,2,11,Alpelisib,994,6
+CVCL_0023,random,2,12,Oleic acid,994,6
+CVCL_0023,random,2,13,Encorafenib,994,6
+CVCL_0023,random,2,14,Capmatinib,996,4
+CVCL_0023,random,2,15,Irinotecan,999,1
+CVCL_0023,random,2,16,AZD-7648,999,1
+CVCL_0023,random,2,17,Binimetinib,993,7
+CVCL_0023,random,2,18,CP21R7,995,5
+CVCL_0023,random,2,19,APTO-253,994,6
+CVCL_0023,random,2,20,NG25,999,1
+CVCL_0023,random,3,1,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,3,2,OTS514,996,4
+CVCL_0023,random,3,3,Oleic acid,994,6
+CVCL_0023,random,3,4,AZD1390,996,4
+CVCL_0023,random,3,5,NG25,999,1
+CVCL_0023,random,3,6,Bortezomib,996,4
+CVCL_0023,random,3,7,IQ 1,996,4
+CVCL_0023,random,3,8,Encorafenib,994,6
+CVCL_0023,random,3,9,Futibatinib,996,4
+CVCL_0023,random,3,10,Bimiralisib,999,1
+CVCL_0023,random,3,11,APTO-253,994,6
+CVCL_0023,random,3,12,CP21R7,995,5
+CVCL_0023,random,3,13,Binimetinib,993,7
+CVCL_0023,random,3,14,BI-3406,993,7
+CVCL_0023,random,3,15,BI-78D3,997,3
+CVCL_0023,random,3,16,Gemcitabine,999,1
+CVCL_0023,random,3,17,Alpelisib,994,6
+CVCL_0023,random,3,18,AT7519,997,3
+CVCL_0023,random,3,19,AZD-7648,999,1
+CVCL_0023,random,3,20,Ixazomib,997,3
+CVCL_0023,random,4,1,Binimetinib,993,7
+CVCL_0023,random,4,2,Gemcitabine,999,1
+CVCL_0023,random,4,3,APTO-253,994,6
+CVCL_0023,random,4,4,BI-3406,993,7
+CVCL_0023,random,4,5,Anastrozole,998,2
+CVCL_0023,random,4,6,AT7519,997,3
+CVCL_0023,random,4,7,LJI308,994,6
+CVCL_0023,random,4,8,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,4,9,Encorafenib,994,6
+CVCL_0023,random,4,10,Bimiralisib,999,1
+CVCL_0023,random,4,11,BI-78D3,997,3
+CVCL_0023,random,4,12,IQ 1,996,4
+CVCL_0023,random,4,13,CP21R7,995,5
+CVCL_0023,random,4,14,Adagrasib,999,1
+CVCL_0023,random,4,15,NG25,999,1
+CVCL_0023,random,4,16,Everolimus,997,3
+CVCL_0023,random,4,17,Futibatinib,996,4
+CVCL_0023,random,4,18,Ixazomib,997,3
+CVCL_0023,random,4,19,AZD-7648,999,1
+CVCL_0023,random,4,20,Alpelisib,994,6
+CVCL_0023,random,5,1,Gemcitabine,999,1
+CVCL_0023,random,5,2,BI-78D3,997,3
+CVCL_0023,random,5,3,AZD-7648,999,1
+CVCL_0023,random,5,4,Anastrozole,998,2
+CVCL_0023,random,5,5,Ixazomib,997,3
+CVCL_0023,random,5,6,NG25,999,1
+CVCL_0023,random,5,7,Binimetinib,993,7
+CVCL_0023,random,5,8,Alpelisib,994,6
+CVCL_0023,random,5,9,Bortezomib,996,4
+CVCL_0023,random,5,10,Futibatinib,996,4
+CVCL_0023,random,5,11,AZD1390,996,4
+CVCL_0023,random,5,12,IQ 1,996,4
+CVCL_0023,random,5,13,Oleic acid,994,6
+CVCL_0023,random,5,14,Everolimus,997,3
+CVCL_0023,random,5,15,AT7519,997,3
+CVCL_0023,random,5,16,LJI308,994,6
+CVCL_0023,random,5,17,HI-TOPK-032,994,6
+CVCL_0023,random,5,18,OTS514,996,4
+CVCL_0023,random,5,19,AZD2858,998,2
+CVCL_0023,random,5,20,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,6,1,Infigratinib,997,3
+CVCL_0023,random,6,2,AZD-7648,999,1
+CVCL_0023,random,6,3,Ixazomib,997,3
+CVCL_0023,random,6,4,AT7519,997,3
+CVCL_0023,random,6,5,Gemcitabine,999,1
+CVCL_0023,random,6,6,Capmatinib,996,4
+CVCL_0023,random,6,7,Binimetinib,993,7
+CVCL_0023,random,6,8,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,6,9,Irinotecan,999,1
+CVCL_0023,random,6,10,NG25,999,1
+CVCL_0023,random,6,11,OTS514,996,4
+CVCL_0023,random,6,12,AZD2858,998,2
+CVCL_0023,random,6,13,LJI308,994,6
+CVCL_0023,random,6,14,BI-3406,993,7
+CVCL_0023,random,6,15,Alpelisib,994,6
+CVCL_0023,random,6,16,Everolimus,997,3
+CVCL_0023,random,6,17,Oleic acid,994,6
+CVCL_0023,random,6,18,IQ 1,996,4
+CVCL_0023,random,6,19,Bimiralisib,999,1
+CVCL_0023,random,6,20,BI-78D3,997,3
+CVCL_0023,random,7,1,Gemcitabine,999,1
+CVCL_0023,random,7,2,HI-TOPK-032,994,6
+CVCL_0023,random,7,3,Capmatinib,996,4
+CVCL_0023,random,7,4,AZD2858,998,2
+CVCL_0023,random,7,5,CP21R7,995,5
+CVCL_0023,random,7,6,NG25,999,1
+CVCL_0023,random,7,7,Ixazomib,997,3
+CVCL_0023,random,7,8,AZD1390,996,4
+CVCL_0023,random,7,9,OTS514,996,4
+CVCL_0023,random,7,10,Futibatinib,996,4
+CVCL_0023,random,7,11,Bortezomib,996,4
+CVCL_0023,random,7,12,APTO-253,994,6
+CVCL_0023,random,7,13,LJI308,994,6
+CVCL_0023,random,7,14,Irinotecan,999,1
+CVCL_0023,random,7,15,Bimiralisib,999,1
+CVCL_0023,random,7,16,BI-3406,993,7
+CVCL_0023,random,7,17,Anastrozole,998,2
+CVCL_0023,random,7,18,AT7519,997,3
+CVCL_0023,random,7,19,Encorafenib,994,6
+CVCL_0023,random,7,20,Alpelisib,994,6
+CVCL_0023,random,8,1,Encorafenib,994,6
+CVCL_0023,random,8,2,HI-TOPK-032,994,6
+CVCL_0023,random,8,3,BI-3406,993,7
+CVCL_0023,random,8,4,OTS514,996,4
+CVCL_0023,random,8,5,CP21R7,995,5
+CVCL_0023,random,8,6,Everolimus,997,3
+CVCL_0023,random,8,7,Capmatinib,996,4
+CVCL_0023,random,8,8,NG25,999,1
+CVCL_0023,random,8,9,Bimiralisib,999,1
+CVCL_0023,random,8,10,Binimetinib,993,7
+CVCL_0023,random,8,11,APTO-253,994,6
+CVCL_0023,random,8,12,Infigratinib,997,3
+CVCL_0023,random,8,13,Futibatinib,996,4
+CVCL_0023,random,8,14,Anastrozole,998,2
+CVCL_0023,random,8,15,AZD1390,996,4
+CVCL_0023,random,8,16,LJI308,994,6
+CVCL_0023,random,8,17,BI-78D3,997,3
+CVCL_0023,random,8,18,AZD2858,998,2
+CVCL_0023,random,8,19,Irinotecan,999,1
+CVCL_0023,random,8,20,Ixazomib,997,3
+CVCL_0023,random,9,1,Encorafenib,994,6
+CVCL_0023,random,9,2,BI-78D3,997,3
+CVCL_0023,random,9,3,AZD-7648,999,1
+CVCL_0023,random,9,4,Ixazomib,997,3
+CVCL_0023,random,9,5,Capmatinib,996,4
+CVCL_0023,random,9,6,Irinotecan,999,1
+CVCL_0023,random,9,7,Alpelisib,994,6
+CVCL_0023,random,9,8,AZD1390,996,4
+CVCL_0023,random,9,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,9,10,Anastrozole,998,2
+CVCL_0023,random,9,11,CP21R7,995,5
+CVCL_0023,random,9,12,IQ 1,996,4
+CVCL_0023,random,9,13,HI-TOPK-032,994,6
+CVCL_0023,random,9,14,Everolimus,997,3
+CVCL_0023,random,9,15,NG25,999,1
+CVCL_0023,random,9,16,Futibatinib,996,4
+CVCL_0023,random,9,17,Gemcitabine,999,1
+CVCL_0023,random,9,18,Infigratinib,997,3
+CVCL_0023,random,9,19,Bimiralisib,999,1
+CVCL_0023,random,9,20,BI-3406,993,7
+CVCL_0023,random,10,1,Futibatinib,996,4
+CVCL_0023,random,10,2,BI-78D3,997,3
+CVCL_0023,random,10,3,Adagrasib,999,1
+CVCL_0023,random,10,4,Anastrozole,998,2
+CVCL_0023,random,10,5,NG25,999,1
+CVCL_0023,random,10,6,Encorafenib,994,6
+CVCL_0023,random,10,7,OTS514,996,4
+CVCL_0023,random,10,8,IQ 1,996,4
+CVCL_0023,random,10,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,10,10,Gemcitabine,999,1
+CVCL_0023,random,10,11,Alpelisib,994,6
+CVCL_0023,random,10,12,AT7519,997,3
+CVCL_0023,random,10,13,AZD2858,998,2
+CVCL_0023,random,10,14,Oleic acid,994,6
+CVCL_0023,random,10,15,Binimetinib,993,7
+CVCL_0023,random,10,16,AZD1390,996,4
+CVCL_0023,random,10,17,Bimiralisib,999,1
+CVCL_0023,random,10,18,HI-TOPK-032,994,6
+CVCL_0023,random,10,19,Capmatinib,996,4
+CVCL_0023,random,10,20,Everolimus,997,3
+CVCL_0023,random,11,1,AZD2858,998,2
+CVCL_0023,random,11,2,Binimetinib,993,7
+CVCL_0023,random,11,3,Adagrasib,999,1
+CVCL_0023,random,11,4,Encorafenib,994,6
+CVCL_0023,random,11,5,Irinotecan,999,1
+CVCL_0023,random,11,6,Alpelisib,994,6
+CVCL_0023,random,11,7,APTO-253,994,6
+CVCL_0023,random,11,8,Infigratinib,997,3
+CVCL_0023,random,11,9,BI-78D3,997,3
+CVCL_0023,random,11,10,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,11,11,AZD-7648,999,1
+CVCL_0023,random,11,12,AT7519,997,3
+CVCL_0023,random,11,13,Oleic acid,994,6
+CVCL_0023,random,11,14,BI-3406,993,7
+CVCL_0023,random,11,15,NG25,999,1
+CVCL_0023,random,11,16,Gemcitabine,999,1
+CVCL_0023,random,11,17,AZD1390,996,4
+CVCL_0023,random,11,18,Ixazomib,997,3
+CVCL_0023,random,11,19,Futibatinib,996,4
+CVCL_0023,random,11,20,Bortezomib,996,4
+CVCL_0023,random,12,1,NG25,999,1
+CVCL_0023,random,12,2,AZD1390,996,4
+CVCL_0023,random,12,3,Adagrasib,999,1
+CVCL_0023,random,12,4,Encorafenib,994,6
+CVCL_0023,random,12,5,AT7519,997,3
+CVCL_0023,random,12,6,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,12,7,BI-78D3,997,3
+CVCL_0023,random,12,8,Bortezomib,996,4
+CVCL_0023,random,12,9,Binimetinib,993,7
+CVCL_0023,random,12,10,Anastrozole,998,2
+CVCL_0023,random,12,11,AZD2858,998,2
+CVCL_0023,random,12,12,Capmatinib,996,4
+CVCL_0023,random,12,13,CP21R7,995,5
+CVCL_0023,random,12,14,IQ 1,996,4
+CVCL_0023,random,12,15,Ixazomib,997,3
+CVCL_0023,random,12,16,AZD-7648,999,1
+CVCL_0023,random,12,17,OTS514,996,4
+CVCL_0023,random,12,18,Irinotecan,999,1
+CVCL_0023,random,12,19,Alpelisib,994,6
+CVCL_0023,random,12,20,Futibatinib,996,4
+CVCL_0023,random,13,1,AT7519,997,3
+CVCL_0023,random,13,2,AZD1390,996,4
+CVCL_0023,random,13,3,Capmatinib,996,4
+CVCL_0023,random,13,4,APTO-253,994,6
+CVCL_0023,random,13,5,Everolimus,997,3
+CVCL_0023,random,13,6,Bortezomib,996,4
+CVCL_0023,random,13,7,Ixazomib,997,3
+CVCL_0023,random,13,8,Alpelisib,994,6
+CVCL_0023,random,13,9,IQ 1,996,4
+CVCL_0023,random,13,10,AZD-7648,999,1
+CVCL_0023,random,13,11,Irinotecan,999,1
+CVCL_0023,random,13,12,Futibatinib,996,4
+CVCL_0023,random,13,13,Bimiralisib,999,1
+CVCL_0023,random,13,14,CP21R7,995,5
+CVCL_0023,random,13,15,Adagrasib,999,1
+CVCL_0023,random,13,16,Encorafenib,994,6
+CVCL_0023,random,13,17,AZD2858,998,2
+CVCL_0023,random,13,18,NG25,999,1
+CVCL_0023,random,13,19,Gemcitabine,999,1
+CVCL_0023,random,13,20,BI-3406,993,7
+CVCL_0023,random,14,1,Capmatinib,996,4
+CVCL_0023,random,14,2,AZD2858,998,2
+CVCL_0023,random,14,3,IQ 1,996,4
+CVCL_0023,random,14,4,NG25,999,1
+CVCL_0023,random,14,5,Anastrozole,998,2
+CVCL_0023,random,14,6,Adagrasib,999,1
+CVCL_0023,random,14,7,Bortezomib,996,4
+CVCL_0023,random,14,8,CP21R7,995,5
+CVCL_0023,random,14,9,Oleic acid,994,6
+CVCL_0023,random,14,10,Infigratinib,997,3
+CVCL_0023,random,14,11,Irinotecan,999,1
+CVCL_0023,random,14,12,Gemcitabine,999,1
+CVCL_0023,random,14,13,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,14,14,Encorafenib,994,6
+CVCL_0023,random,14,15,BI-78D3,997,3
+CVCL_0023,random,14,16,LJI308,994,6
+CVCL_0023,random,14,17,Ixazomib,997,3
+CVCL_0023,random,14,18,OTS514,996,4
+CVCL_0023,random,14,19,Bimiralisib,999,1
+CVCL_0023,random,14,20,HI-TOPK-032,994,6
+CVCL_0023,random,15,1,Alpelisib,994,6
+CVCL_0023,random,15,2,APTO-253,994,6
+CVCL_0023,random,15,3,Encorafenib,994,6
+CVCL_0023,random,15,4,HI-TOPK-032,994,6
+CVCL_0023,random,15,5,Binimetinib,993,7
+CVCL_0023,random,15,6,Ixazomib,997,3
+CVCL_0023,random,15,7,Everolimus,997,3
+CVCL_0023,random,15,8,Irinotecan,999,1
+CVCL_0023,random,15,9,Capmatinib,996,4
+CVCL_0023,random,15,10,Infigratinib,997,3
+CVCL_0023,random,15,11,Oleic acid,994,6
+CVCL_0023,random,15,12,BI-78D3,997,3
+CVCL_0023,random,15,13,AZD1390,996,4
+CVCL_0023,random,15,14,BI-3406,993,7
+CVCL_0023,random,15,15,CP21R7,995,5
+CVCL_0023,random,15,16,Anastrozole,998,2
+CVCL_0023,random,15,17,Gemcitabine,999,1
+CVCL_0023,random,15,18,LJI308,994,6
+CVCL_0023,random,15,19,Bimiralisib,999,1
+CVCL_0023,random,15,20,NG25,999,1
+CVCL_0023,random,16,1,Infigratinib,997,3
+CVCL_0023,random,16,2,Ixazomib,997,3
+CVCL_0023,random,16,3,Alpelisib,994,6
+CVCL_0023,random,16,4,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,16,5,IQ 1,996,4
+CVCL_0023,random,16,6,Binimetinib,993,7
+CVCL_0023,random,16,7,LJI308,994,6
+CVCL_0023,random,16,8,AZD2858,998,2
+CVCL_0023,random,16,9,Everolimus,997,3
+CVCL_0023,random,16,10,Encorafenib,994,6
+CVCL_0023,random,16,11,BI-3406,993,7
+CVCL_0023,random,16,12,AT7519,997,3
+CVCL_0023,random,16,13,Irinotecan,999,1
+CVCL_0023,random,16,14,Adagrasib,999,1
+CVCL_0023,random,16,15,APTO-253,994,6
+CVCL_0023,random,16,16,Anastrozole,998,2
+CVCL_0023,random,16,17,Bortezomib,996,4
+CVCL_0023,random,16,18,Gemcitabine,999,1
+CVCL_0023,random,16,19,Bimiralisib,999,1
+CVCL_0023,random,16,20,HI-TOPK-032,994,6
+CVCL_0023,random,17,1,Bortezomib,996,4
+CVCL_0023,random,17,2,OTS514,996,4
+CVCL_0023,random,17,3,AZD1390,996,4
+CVCL_0023,random,17,4,Adagrasib,999,1
+CVCL_0023,random,17,5,IQ 1,996,4
+CVCL_0023,random,17,6,Alpelisib,994,6
+CVCL_0023,random,17,7,NG25,999,1
+CVCL_0023,random,17,8,Ixazomib,997,3
+CVCL_0023,random,17,9,AZD2858,998,2
+CVCL_0023,random,17,10,Everolimus,997,3
+CVCL_0023,random,17,11,Capmatinib,996,4
+CVCL_0023,random,17,12,Futibatinib,996,4
+CVCL_0023,random,17,13,LJI308,994,6
+CVCL_0023,random,17,14,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,17,15,Irinotecan,999,1
+CVCL_0023,random,17,16,Oleic acid,994,6
+CVCL_0023,random,17,17,BI-78D3,997,3
+CVCL_0023,random,17,18,BI-3406,993,7
+CVCL_0023,random,17,19,Anastrozole,998,2
+CVCL_0023,random,17,20,AT7519,997,3
+CVCL_0023,random,18,1,Bortezomib,996,4
+CVCL_0023,random,18,2,Ixazomib,997,3
+CVCL_0023,random,18,3,APTO-253,994,6
+CVCL_0023,random,18,4,LJI308,994,6
+CVCL_0023,random,18,5,AZD-7648,999,1
+CVCL_0023,random,18,6,BI-3406,993,7
+CVCL_0023,random,18,7,OTS514,996,4
+CVCL_0023,random,18,8,CP21R7,995,5
+CVCL_0023,random,18,9,Irinotecan,999,1
+CVCL_0023,random,18,10,Gemcitabine,999,1
+CVCL_0023,random,18,11,Encorafenib,994,6
+CVCL_0023,random,18,12,NG25,999,1
+CVCL_0023,random,18,13,Anastrozole,998,2
+CVCL_0023,random,18,14,Oleic acid,994,6
+CVCL_0023,random,18,15,Bimiralisib,999,1
+CVCL_0023,random,18,16,Infigratinib,997,3
+CVCL_0023,random,18,17,Adagrasib,999,1
+CVCL_0023,random,18,18,Binimetinib,993,7
+CVCL_0023,random,18,19,Everolimus,997,3
+CVCL_0023,random,18,20,Alpelisib,994,6
+CVCL_0023,random,19,1,BI-78D3,997,3
+CVCL_0023,random,19,2,Bortezomib,996,4
+CVCL_0023,random,19,3,Capmatinib,996,4
+CVCL_0023,random,19,4,Infigratinib,997,3
+CVCL_0023,random,19,5,AZD2858,998,2
+CVCL_0023,random,19,6,Adagrasib,999,1
+CVCL_0023,random,19,7,Binimetinib,993,7
+CVCL_0023,random,19,8,Gemcitabine,999,1
+CVCL_0023,random,19,9,NG25,999,1
+CVCL_0023,random,19,10,LY-2584702 (tosylate salt),996,4
+CVCL_0023,random,19,11,Everolimus,997,3
+CVCL_0023,random,19,12,Ixazomib,997,3
+CVCL_0023,random,19,13,LJI308,994,6
+CVCL_0023,random,19,14,AT7519,997,3
+CVCL_0023,random,19,15,BI-3406,993,7
+CVCL_0023,random,19,16,Oleic acid,994,6
+CVCL_0023,random,19,17,AZD-7648,999,1
+CVCL_0023,random,19,18,Anastrozole,998,2
+CVCL_0023,random,19,19,IQ 1,996,4
+CVCL_0023,random,19,20,APTO-253,994,6
+CVCL_0023,trace-uncertainty,-1,1,Bortezomib,996,4
+CVCL_0023,trace-uncertainty,-1,2,Ixazomib,997,3
+CVCL_0023,trace-uncertainty,-1,3,Binimetinib,993,7
+CVCL_0023,trace-uncertainty,-1,4,HI-TOPK-032,994,6
+CVCL_0023,trace-uncertainty,-1,5,Alpelisib,994,6
+CVCL_0023,trace-uncertainty,-1,6,OTS514,996,4
+CVCL_0023,trace-uncertainty,-1,7,LJI308,994,6
+CVCL_0023,trace-uncertainty,-1,8,Futibatinib,996,4
+CVCL_0023,trace-uncertainty,-1,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,trace-uncertainty,-1,10,NG25,999,1
+CVCL_0023,trace-uncertainty,-1,11,IQ 1,996,4
+CVCL_0023,trace-uncertainty,-1,12,Capmatinib,996,4
+CVCL_0023,trace-uncertainty,-1,13,CP21R7,995,5
+CVCL_0023,trace-uncertainty,-1,14,BI-3406,993,7
+CVCL_0023,trace-uncertainty,-1,15,Adagrasib,999,1
+CVCL_0023,trace-uncertainty,-1,16,BI-78D3,997,3
+CVCL_0023,trace-uncertainty,-1,17,Infigratinib,997,3
+CVCL_0023,trace-uncertainty,-1,18,Encorafenib,994,6
+CVCL_0023,trace-uncertainty,-1,19,AZD2858,998,2
+CVCL_0023,trace-uncertainty,-1,20,AT7519,997,3
+CVCL_0023,D-optimal,-1,1,Bortezomib,996,4
+CVCL_0023,D-optimal,-1,2,Ixazomib,997,3
+CVCL_0023,D-optimal,-1,3,Binimetinib,993,7
+CVCL_0023,D-optimal,-1,4,HI-TOPK-032,994,6
+CVCL_0023,D-optimal,-1,5,Alpelisib,994,6
+CVCL_0023,D-optimal,-1,6,OTS514,996,4
+CVCL_0023,D-optimal,-1,7,LJI308,994,6
+CVCL_0023,D-optimal,-1,8,Futibatinib,996,4
+CVCL_0023,D-optimal,-1,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,D-optimal,-1,10,NG25,999,1
+CVCL_0023,D-optimal,-1,11,IQ 1,996,4
+CVCL_0023,D-optimal,-1,12,Capmatinib,996,4
+CVCL_0023,D-optimal,-1,13,CP21R7,995,5
+CVCL_0023,D-optimal,-1,14,BI-3406,993,7
+CVCL_0023,D-optimal,-1,15,Adagrasib,999,1
+CVCL_0023,D-optimal,-1,16,BI-78D3,997,3
+CVCL_0023,D-optimal,-1,17,Infigratinib,997,3
+CVCL_0023,D-optimal,-1,18,Encorafenib,994,6
+CVCL_0023,D-optimal,-1,19,AZD2858,998,2
+CVCL_0023,D-optimal,-1,20,AT7519,997,3
+CVCL_0023,V-optimal,-1,1,Bortezomib,996,4
+CVCL_0023,V-optimal,-1,2,Ixazomib,997,3
+CVCL_0023,V-optimal,-1,3,Binimetinib,993,7
+CVCL_0023,V-optimal,-1,4,HI-TOPK-032,994,6
+CVCL_0023,V-optimal,-1,5,Alpelisib,994,6
+CVCL_0023,V-optimal,-1,6,OTS514,996,4
+CVCL_0023,V-optimal,-1,7,LJI308,994,6
+CVCL_0023,V-optimal,-1,8,Futibatinib,996,4
+CVCL_0023,V-optimal,-1,9,LY-2584702 (tosylate salt),996,4
+CVCL_0023,V-optimal,-1,10,NG25,999,1
+CVCL_0023,V-optimal,-1,11,IQ 1,996,4
+CVCL_0023,V-optimal,-1,12,Capmatinib,996,4
+CVCL_0023,V-optimal,-1,13,CP21R7,995,5
+CVCL_0023,V-optimal,-1,14,BI-3406,993,7
+CVCL_0023,V-optimal,-1,15,Adagrasib,999,1
+CVCL_0023,V-optimal,-1,16,BI-78D3,997,3
+CVCL_0023,V-optimal,-1,17,Infigratinib,997,3
+CVCL_0023,V-optimal,-1,18,Encorafenib,994,6
+CVCL_0023,V-optimal,-1,19,AZD2858,998,2
+CVCL_0023,V-optimal,-1,20,AT7519,997,3
+CVCL_0218,random,0,1,IQ 1,975,25
+CVCL_0218,random,0,2,AZD2858,989,11
+CVCL_0218,random,0,3,Binimetinib,970,30
+CVCL_0218,random,0,4,Everolimus,990,10
+CVCL_0218,random,0,5,Bimiralisib,977,23
+CVCL_0218,random,0,6,AZD-7648,991,9
+CVCL_0218,random,0,7,Oleic acid,987,13
+CVCL_0218,random,0,8,OTS514,969,31
+CVCL_0218,random,0,9,Alpelisib,971,29
+CVCL_0218,random,0,10,Infigratinib,974,26
+CVCL_0218,random,0,11,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,0,12,AZD1390,984,16
+CVCL_0218,random,0,13,Ixazomib,979,21
+CVCL_0218,random,0,14,BI-3406,982,18
+CVCL_0218,random,0,15,APTO-253,987,13
+CVCL_0218,random,0,16,Gemcitabine,997,3
+CVCL_0218,random,0,17,Bortezomib,982,18
+CVCL_0218,random,0,18,HI-TOPK-032,976,24
+CVCL_0218,random,0,19,CP21R7,982,18
+CVCL_0218,random,0,20,Anastrozole,988,12
+CVCL_0218,random,1,1,Infigratinib,974,26
+CVCL_0218,random,1,2,Everolimus,990,10
+CVCL_0218,random,1,3,Anastrozole,988,12
+CVCL_0218,random,1,4,AT7519,978,22
+CVCL_0218,random,1,5,AZD1390,984,16
+CVCL_0218,random,1,6,OTS514,969,31
+CVCL_0218,random,1,7,Encorafenib,981,19
+CVCL_0218,random,1,8,Binimetinib,970,30
+CVCL_0218,random,1,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,1,10,IQ 1,975,25
+CVCL_0218,random,1,11,LJI308,979,21
+CVCL_0218,random,1,12,Oleic acid,987,13
+CVCL_0218,random,1,13,NG25,975,25
+CVCL_0218,random,1,14,Ixazomib,979,21
+CVCL_0218,random,1,15,AZD-7648,991,9
+CVCL_0218,random,1,16,Futibatinib,971,29
+CVCL_0218,random,1,17,Bortezomib,982,18
+CVCL_0218,random,1,18,Bimiralisib,977,23
+CVCL_0218,random,1,19,AZD2858,989,11
+CVCL_0218,random,1,20,Adagrasib,975,25
+CVCL_0218,random,2,1,Everolimus,990,10
+CVCL_0218,random,2,2,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,2,3,Bortezomib,982,18
+CVCL_0218,random,2,4,OTS514,969,31
+CVCL_0218,random,2,5,Bimiralisib,977,23
+CVCL_0218,random,2,6,Anastrozole,988,12
+CVCL_0218,random,2,7,Ixazomib,979,21
+CVCL_0218,random,2,8,Gemcitabine,997,3
+CVCL_0218,random,2,9,LJI308,979,21
+CVCL_0218,random,2,10,IQ 1,975,25
+CVCL_0218,random,2,11,Alpelisib,971,29
+CVCL_0218,random,2,12,Oleic acid,987,13
+CVCL_0218,random,2,13,Encorafenib,981,19
+CVCL_0218,random,2,14,Capmatinib,975,25
+CVCL_0218,random,2,15,Irinotecan,982,18
+CVCL_0218,random,2,16,AZD-7648,991,9
+CVCL_0218,random,2,17,Binimetinib,970,30
+CVCL_0218,random,2,18,CP21R7,982,18
+CVCL_0218,random,2,19,APTO-253,987,13
+CVCL_0218,random,2,20,NG25,975,25
+CVCL_0218,random,3,1,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,3,2,OTS514,969,31
+CVCL_0218,random,3,3,Oleic acid,987,13
+CVCL_0218,random,3,4,AZD1390,984,16
+CVCL_0218,random,3,5,NG25,975,25
+CVCL_0218,random,3,6,Bortezomib,982,18
+CVCL_0218,random,3,7,IQ 1,975,25
+CVCL_0218,random,3,8,Encorafenib,981,19
+CVCL_0218,random,3,9,Futibatinib,971,29
+CVCL_0218,random,3,10,Bimiralisib,977,23
+CVCL_0218,random,3,11,APTO-253,987,13
+CVCL_0218,random,3,12,CP21R7,982,18
+CVCL_0218,random,3,13,Binimetinib,970,30
+CVCL_0218,random,3,14,BI-3406,982,18
+CVCL_0218,random,3,15,BI-78D3,978,22
+CVCL_0218,random,3,16,Gemcitabine,997,3
+CVCL_0218,random,3,17,Alpelisib,971,29
+CVCL_0218,random,3,18,AT7519,978,22
+CVCL_0218,random,3,19,AZD-7648,991,9
+CVCL_0218,random,3,20,Ixazomib,979,21
+CVCL_0218,random,4,1,Binimetinib,970,30
+CVCL_0218,random,4,2,Gemcitabine,997,3
+CVCL_0218,random,4,3,APTO-253,987,13
+CVCL_0218,random,4,4,BI-3406,982,18
+CVCL_0218,random,4,5,Anastrozole,988,12
+CVCL_0218,random,4,6,AT7519,978,22
+CVCL_0218,random,4,7,LJI308,979,21
+CVCL_0218,random,4,8,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,4,9,Encorafenib,981,19
+CVCL_0218,random,4,10,Bimiralisib,977,23
+CVCL_0218,random,4,11,BI-78D3,978,22
+CVCL_0218,random,4,12,IQ 1,975,25
+CVCL_0218,random,4,13,CP21R7,982,18
+CVCL_0218,random,4,14,Adagrasib,975,25
+CVCL_0218,random,4,15,NG25,975,25
+CVCL_0218,random,4,16,Everolimus,990,10
+CVCL_0218,random,4,17,Futibatinib,971,29
+CVCL_0218,random,4,18,Ixazomib,979,21
+CVCL_0218,random,4,19,AZD-7648,991,9
+CVCL_0218,random,4,20,Alpelisib,971,29
+CVCL_0218,random,5,1,Gemcitabine,997,3
+CVCL_0218,random,5,2,BI-78D3,978,22
+CVCL_0218,random,5,3,AZD-7648,991,9
+CVCL_0218,random,5,4,Anastrozole,988,12
+CVCL_0218,random,5,5,Ixazomib,979,21
+CVCL_0218,random,5,6,NG25,975,25
+CVCL_0218,random,5,7,Binimetinib,970,30
+CVCL_0218,random,5,8,Alpelisib,971,29
+CVCL_0218,random,5,9,Bortezomib,982,18
+CVCL_0218,random,5,10,Futibatinib,971,29
+CVCL_0218,random,5,11,AZD1390,984,16
+CVCL_0218,random,5,12,IQ 1,975,25
+CVCL_0218,random,5,13,Oleic acid,987,13
+CVCL_0218,random,5,14,Everolimus,990,10
+CVCL_0218,random,5,15,AT7519,978,22
+CVCL_0218,random,5,16,LJI308,979,21
+CVCL_0218,random,5,17,HI-TOPK-032,976,24
+CVCL_0218,random,5,18,OTS514,969,31
+CVCL_0218,random,5,19,AZD2858,989,11
+CVCL_0218,random,5,20,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,6,1,Infigratinib,974,26
+CVCL_0218,random,6,2,AZD-7648,991,9
+CVCL_0218,random,6,3,Ixazomib,979,21
+CVCL_0218,random,6,4,AT7519,978,22
+CVCL_0218,random,6,5,Gemcitabine,997,3
+CVCL_0218,random,6,6,Capmatinib,975,25
+CVCL_0218,random,6,7,Binimetinib,970,30
+CVCL_0218,random,6,8,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,6,9,Irinotecan,982,18
+CVCL_0218,random,6,10,NG25,975,25
+CVCL_0218,random,6,11,OTS514,969,31
+CVCL_0218,random,6,12,AZD2858,989,11
+CVCL_0218,random,6,13,LJI308,979,21
+CVCL_0218,random,6,14,BI-3406,982,18
+CVCL_0218,random,6,15,Alpelisib,971,29
+CVCL_0218,random,6,16,Everolimus,990,10
+CVCL_0218,random,6,17,Oleic acid,987,13
+CVCL_0218,random,6,18,IQ 1,975,25
+CVCL_0218,random,6,19,Bimiralisib,977,23
+CVCL_0218,random,6,20,BI-78D3,978,22
+CVCL_0218,random,7,1,Gemcitabine,997,3
+CVCL_0218,random,7,2,HI-TOPK-032,976,24
+CVCL_0218,random,7,3,Capmatinib,975,25
+CVCL_0218,random,7,4,AZD2858,989,11
+CVCL_0218,random,7,5,CP21R7,982,18
+CVCL_0218,random,7,6,NG25,975,25
+CVCL_0218,random,7,7,Ixazomib,979,21
+CVCL_0218,random,7,8,AZD1390,984,16
+CVCL_0218,random,7,9,OTS514,969,31
+CVCL_0218,random,7,10,Futibatinib,971,29
+CVCL_0218,random,7,11,Bortezomib,982,18
+CVCL_0218,random,7,12,APTO-253,987,13
+CVCL_0218,random,7,13,LJI308,979,21
+CVCL_0218,random,7,14,Irinotecan,982,18
+CVCL_0218,random,7,15,Bimiralisib,977,23
+CVCL_0218,random,7,16,BI-3406,982,18
+CVCL_0218,random,7,17,Anastrozole,988,12
+CVCL_0218,random,7,18,AT7519,978,22
+CVCL_0218,random,7,19,Encorafenib,981,19
+CVCL_0218,random,7,20,Alpelisib,971,29
+CVCL_0218,random,8,1,Encorafenib,981,19
+CVCL_0218,random,8,2,HI-TOPK-032,976,24
+CVCL_0218,random,8,3,BI-3406,982,18
+CVCL_0218,random,8,4,OTS514,969,31
+CVCL_0218,random,8,5,CP21R7,982,18
+CVCL_0218,random,8,6,Everolimus,990,10
+CVCL_0218,random,8,7,Capmatinib,975,25
+CVCL_0218,random,8,8,NG25,975,25
+CVCL_0218,random,8,9,Bimiralisib,977,23
+CVCL_0218,random,8,10,Binimetinib,970,30
+CVCL_0218,random,8,11,APTO-253,987,13
+CVCL_0218,random,8,12,Infigratinib,974,26
+CVCL_0218,random,8,13,Futibatinib,971,29
+CVCL_0218,random,8,14,Anastrozole,988,12
+CVCL_0218,random,8,15,AZD1390,984,16
+CVCL_0218,random,8,16,LJI308,979,21
+CVCL_0218,random,8,17,BI-78D3,978,22
+CVCL_0218,random,8,18,AZD2858,989,11
+CVCL_0218,random,8,19,Irinotecan,982,18
+CVCL_0218,random,8,20,Ixazomib,979,21
+CVCL_0218,random,9,1,Encorafenib,981,19
+CVCL_0218,random,9,2,BI-78D3,978,22
+CVCL_0218,random,9,3,AZD-7648,991,9
+CVCL_0218,random,9,4,Ixazomib,979,21
+CVCL_0218,random,9,5,Capmatinib,975,25
+CVCL_0218,random,9,6,Irinotecan,982,18
+CVCL_0218,random,9,7,Alpelisib,971,29
+CVCL_0218,random,9,8,AZD1390,984,16
+CVCL_0218,random,9,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,9,10,Anastrozole,988,12
+CVCL_0218,random,9,11,CP21R7,982,18
+CVCL_0218,random,9,12,IQ 1,975,25
+CVCL_0218,random,9,13,HI-TOPK-032,976,24
+CVCL_0218,random,9,14,Everolimus,990,10
+CVCL_0218,random,9,15,NG25,975,25
+CVCL_0218,random,9,16,Futibatinib,971,29
+CVCL_0218,random,9,17,Gemcitabine,997,3
+CVCL_0218,random,9,18,Infigratinib,974,26
+CVCL_0218,random,9,19,Bimiralisib,977,23
+CVCL_0218,random,9,20,BI-3406,982,18
+CVCL_0218,random,10,1,Futibatinib,971,29
+CVCL_0218,random,10,2,BI-78D3,978,22
+CVCL_0218,random,10,3,Adagrasib,975,25
+CVCL_0218,random,10,4,Anastrozole,988,12
+CVCL_0218,random,10,5,NG25,975,25
+CVCL_0218,random,10,6,Encorafenib,981,19
+CVCL_0218,random,10,7,OTS514,969,31
+CVCL_0218,random,10,8,IQ 1,975,25
+CVCL_0218,random,10,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,10,10,Gemcitabine,997,3
+CVCL_0218,random,10,11,Alpelisib,971,29
+CVCL_0218,random,10,12,AT7519,978,22
+CVCL_0218,random,10,13,AZD2858,989,11
+CVCL_0218,random,10,14,Oleic acid,987,13
+CVCL_0218,random,10,15,Binimetinib,970,30
+CVCL_0218,random,10,16,AZD1390,984,16
+CVCL_0218,random,10,17,Bimiralisib,977,23
+CVCL_0218,random,10,18,HI-TOPK-032,976,24
+CVCL_0218,random,10,19,Capmatinib,975,25
+CVCL_0218,random,10,20,Everolimus,990,10
+CVCL_0218,random,11,1,AZD2858,989,11
+CVCL_0218,random,11,2,Binimetinib,970,30
+CVCL_0218,random,11,3,Adagrasib,975,25
+CVCL_0218,random,11,4,Encorafenib,981,19
+CVCL_0218,random,11,5,Irinotecan,982,18
+CVCL_0218,random,11,6,Alpelisib,971,29
+CVCL_0218,random,11,7,APTO-253,987,13
+CVCL_0218,random,11,8,Infigratinib,974,26
+CVCL_0218,random,11,9,BI-78D3,978,22
+CVCL_0218,random,11,10,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,11,11,AZD-7648,991,9
+CVCL_0218,random,11,12,AT7519,978,22
+CVCL_0218,random,11,13,Oleic acid,987,13
+CVCL_0218,random,11,14,BI-3406,982,18
+CVCL_0218,random,11,15,NG25,975,25
+CVCL_0218,random,11,16,Gemcitabine,997,3
+CVCL_0218,random,11,17,AZD1390,984,16
+CVCL_0218,random,11,18,Ixazomib,979,21
+CVCL_0218,random,11,19,Futibatinib,971,29
+CVCL_0218,random,11,20,Bortezomib,982,18
+CVCL_0218,random,12,1,NG25,975,25
+CVCL_0218,random,12,2,AZD1390,984,16
+CVCL_0218,random,12,3,Adagrasib,975,25
+CVCL_0218,random,12,4,Encorafenib,981,19
+CVCL_0218,random,12,5,AT7519,978,22
+CVCL_0218,random,12,6,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,12,7,BI-78D3,978,22
+CVCL_0218,random,12,8,Bortezomib,982,18
+CVCL_0218,random,12,9,Binimetinib,970,30
+CVCL_0218,random,12,10,Anastrozole,988,12
+CVCL_0218,random,12,11,AZD2858,989,11
+CVCL_0218,random,12,12,Capmatinib,975,25
+CVCL_0218,random,12,13,CP21R7,982,18
+CVCL_0218,random,12,14,IQ 1,975,25
+CVCL_0218,random,12,15,Ixazomib,979,21
+CVCL_0218,random,12,16,AZD-7648,991,9
+CVCL_0218,random,12,17,OTS514,969,31
+CVCL_0218,random,12,18,Irinotecan,982,18
+CVCL_0218,random,12,19,Alpelisib,971,29
+CVCL_0218,random,12,20,Futibatinib,971,29
+CVCL_0218,random,13,1,AT7519,978,22
+CVCL_0218,random,13,2,AZD1390,984,16
+CVCL_0218,random,13,3,Capmatinib,975,25
+CVCL_0218,random,13,4,APTO-253,987,13
+CVCL_0218,random,13,5,Everolimus,990,10
+CVCL_0218,random,13,6,Bortezomib,982,18
+CVCL_0218,random,13,7,Ixazomib,979,21
+CVCL_0218,random,13,8,Alpelisib,971,29
+CVCL_0218,random,13,9,IQ 1,975,25
+CVCL_0218,random,13,10,AZD-7648,991,9
+CVCL_0218,random,13,11,Irinotecan,982,18
+CVCL_0218,random,13,12,Futibatinib,971,29
+CVCL_0218,random,13,13,Bimiralisib,977,23
+CVCL_0218,random,13,14,CP21R7,982,18
+CVCL_0218,random,13,15,Adagrasib,975,25
+CVCL_0218,random,13,16,Encorafenib,981,19
+CVCL_0218,random,13,17,AZD2858,989,11
+CVCL_0218,random,13,18,NG25,975,25
+CVCL_0218,random,13,19,Gemcitabine,997,3
+CVCL_0218,random,13,20,BI-3406,982,18
+CVCL_0218,random,14,1,Capmatinib,975,25
+CVCL_0218,random,14,2,AZD2858,989,11
+CVCL_0218,random,14,3,IQ 1,975,25
+CVCL_0218,random,14,4,NG25,975,25
+CVCL_0218,random,14,5,Anastrozole,988,12
+CVCL_0218,random,14,6,Adagrasib,975,25
+CVCL_0218,random,14,7,Bortezomib,982,18
+CVCL_0218,random,14,8,CP21R7,982,18
+CVCL_0218,random,14,9,Oleic acid,987,13
+CVCL_0218,random,14,10,Infigratinib,974,26
+CVCL_0218,random,14,11,Irinotecan,982,18
+CVCL_0218,random,14,12,Gemcitabine,997,3
+CVCL_0218,random,14,13,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,14,14,Encorafenib,981,19
+CVCL_0218,random,14,15,BI-78D3,978,22
+CVCL_0218,random,14,16,LJI308,979,21
+CVCL_0218,random,14,17,Ixazomib,979,21
+CVCL_0218,random,14,18,OTS514,969,31
+CVCL_0218,random,14,19,Bimiralisib,977,23
+CVCL_0218,random,14,20,HI-TOPK-032,976,24
+CVCL_0218,random,15,1,Alpelisib,971,29
+CVCL_0218,random,15,2,APTO-253,987,13
+CVCL_0218,random,15,3,Encorafenib,981,19
+CVCL_0218,random,15,4,HI-TOPK-032,976,24
+CVCL_0218,random,15,5,Binimetinib,970,30
+CVCL_0218,random,15,6,Ixazomib,979,21
+CVCL_0218,random,15,7,Everolimus,990,10
+CVCL_0218,random,15,8,Irinotecan,982,18
+CVCL_0218,random,15,9,Capmatinib,975,25
+CVCL_0218,random,15,10,Infigratinib,974,26
+CVCL_0218,random,15,11,Oleic acid,987,13
+CVCL_0218,random,15,12,BI-78D3,978,22
+CVCL_0218,random,15,13,AZD1390,984,16
+CVCL_0218,random,15,14,BI-3406,982,18
+CVCL_0218,random,15,15,CP21R7,982,18
+CVCL_0218,random,15,16,Anastrozole,988,12
+CVCL_0218,random,15,17,Gemcitabine,997,3
+CVCL_0218,random,15,18,LJI308,979,21
+CVCL_0218,random,15,19,Bimiralisib,977,23
+CVCL_0218,random,15,20,NG25,975,25
+CVCL_0218,random,16,1,Infigratinib,974,26
+CVCL_0218,random,16,2,Ixazomib,979,21
+CVCL_0218,random,16,3,Alpelisib,971,29
+CVCL_0218,random,16,4,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,16,5,IQ 1,975,25
+CVCL_0218,random,16,6,Binimetinib,970,30
+CVCL_0218,random,16,7,LJI308,979,21
+CVCL_0218,random,16,8,AZD2858,989,11
+CVCL_0218,random,16,9,Everolimus,990,10
+CVCL_0218,random,16,10,Encorafenib,981,19
+CVCL_0218,random,16,11,BI-3406,982,18
+CVCL_0218,random,16,12,AT7519,978,22
+CVCL_0218,random,16,13,Irinotecan,982,18
+CVCL_0218,random,16,14,Adagrasib,975,25
+CVCL_0218,random,16,15,APTO-253,987,13
+CVCL_0218,random,16,16,Anastrozole,988,12
+CVCL_0218,random,16,17,Bortezomib,982,18
+CVCL_0218,random,16,18,Gemcitabine,997,3
+CVCL_0218,random,16,19,Bimiralisib,977,23
+CVCL_0218,random,16,20,HI-TOPK-032,976,24
+CVCL_0218,random,17,1,Bortezomib,982,18
+CVCL_0218,random,17,2,OTS514,969,31
+CVCL_0218,random,17,3,AZD1390,984,16
+CVCL_0218,random,17,4,Adagrasib,975,25
+CVCL_0218,random,17,5,IQ 1,975,25
+CVCL_0218,random,17,6,Alpelisib,971,29
+CVCL_0218,random,17,7,NG25,975,25
+CVCL_0218,random,17,8,Ixazomib,979,21
+CVCL_0218,random,17,9,AZD2858,989,11
+CVCL_0218,random,17,10,Everolimus,990,10
+CVCL_0218,random,17,11,Capmatinib,975,25
+CVCL_0218,random,17,12,Futibatinib,971,29
+CVCL_0218,random,17,13,LJI308,979,21
+CVCL_0218,random,17,14,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,17,15,Irinotecan,982,18
+CVCL_0218,random,17,16,Oleic acid,987,13
+CVCL_0218,random,17,17,BI-78D3,978,22
+CVCL_0218,random,17,18,BI-3406,982,18
+CVCL_0218,random,17,19,Anastrozole,988,12
+CVCL_0218,random,17,20,AT7519,978,22
+CVCL_0218,random,18,1,Bortezomib,982,18
+CVCL_0218,random,18,2,Ixazomib,979,21
+CVCL_0218,random,18,3,APTO-253,987,13
+CVCL_0218,random,18,4,LJI308,979,21
+CVCL_0218,random,18,5,AZD-7648,991,9
+CVCL_0218,random,18,6,BI-3406,982,18
+CVCL_0218,random,18,7,OTS514,969,31
+CVCL_0218,random,18,8,CP21R7,982,18
+CVCL_0218,random,18,9,Irinotecan,982,18
+CVCL_0218,random,18,10,Gemcitabine,997,3
+CVCL_0218,random,18,11,Encorafenib,981,19
+CVCL_0218,random,18,12,NG25,975,25
+CVCL_0218,random,18,13,Anastrozole,988,12
+CVCL_0218,random,18,14,Oleic acid,987,13
+CVCL_0218,random,18,15,Bimiralisib,977,23
+CVCL_0218,random,18,16,Infigratinib,974,26
+CVCL_0218,random,18,17,Adagrasib,975,25
+CVCL_0218,random,18,18,Binimetinib,970,30
+CVCL_0218,random,18,19,Everolimus,990,10
+CVCL_0218,random,18,20,Alpelisib,971,29
+CVCL_0218,random,19,1,BI-78D3,978,22
+CVCL_0218,random,19,2,Bortezomib,982,18
+CVCL_0218,random,19,3,Capmatinib,975,25
+CVCL_0218,random,19,4,Infigratinib,974,26
+CVCL_0218,random,19,5,AZD2858,989,11
+CVCL_0218,random,19,6,Adagrasib,975,25
+CVCL_0218,random,19,7,Binimetinib,970,30
+CVCL_0218,random,19,8,Gemcitabine,997,3
+CVCL_0218,random,19,9,NG25,975,25
+CVCL_0218,random,19,10,LY-2584702 (tosylate salt),968,32
+CVCL_0218,random,19,11,Everolimus,990,10
+CVCL_0218,random,19,12,Ixazomib,979,21
+CVCL_0218,random,19,13,LJI308,979,21
+CVCL_0218,random,19,14,AT7519,978,22
+CVCL_0218,random,19,15,BI-3406,982,18
+CVCL_0218,random,19,16,Oleic acid,987,13
+CVCL_0218,random,19,17,AZD-7648,991,9
+CVCL_0218,random,19,18,Anastrozole,988,12
+CVCL_0218,random,19,19,IQ 1,975,25
+CVCL_0218,random,19,20,APTO-253,987,13
+CVCL_0218,trace-uncertainty,-1,1,Bortezomib,982,18
+CVCL_0218,trace-uncertainty,-1,2,Binimetinib,970,30
+CVCL_0218,trace-uncertainty,-1,3,Ixazomib,979,21
+CVCL_0218,trace-uncertainty,-1,4,HI-TOPK-032,976,24
+CVCL_0218,trace-uncertainty,-1,5,Alpelisib,971,29
+CVCL_0218,trace-uncertainty,-1,6,LJI308,979,21
+CVCL_0218,trace-uncertainty,-1,7,Futibatinib,971,29
+CVCL_0218,trace-uncertainty,-1,8,OTS514,969,31
+CVCL_0218,trace-uncertainty,-1,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,trace-uncertainty,-1,10,BI-78D3,978,22
+CVCL_0218,trace-uncertainty,-1,11,NG25,975,25
+CVCL_0218,trace-uncertainty,-1,12,Capmatinib,975,25
+CVCL_0218,trace-uncertainty,-1,13,Adagrasib,975,25
+CVCL_0218,trace-uncertainty,-1,14,IQ 1,975,25
+CVCL_0218,trace-uncertainty,-1,15,Infigratinib,974,26
+CVCL_0218,trace-uncertainty,-1,16,CP21R7,982,18
+CVCL_0218,trace-uncertainty,-1,17,BI-3406,982,18
+CVCL_0218,trace-uncertainty,-1,18,AZD2858,989,11
+CVCL_0218,trace-uncertainty,-1,19,Encorafenib,981,19
+CVCL_0218,trace-uncertainty,-1,20,Oleic acid,987,13
+CVCL_0218,D-optimal,-1,1,Bortezomib,982,18
+CVCL_0218,D-optimal,-1,2,Binimetinib,970,30
+CVCL_0218,D-optimal,-1,3,Ixazomib,979,21
+CVCL_0218,D-optimal,-1,4,HI-TOPK-032,976,24
+CVCL_0218,D-optimal,-1,5,Alpelisib,971,29
+CVCL_0218,D-optimal,-1,6,LJI308,979,21
+CVCL_0218,D-optimal,-1,7,Futibatinib,971,29
+CVCL_0218,D-optimal,-1,8,OTS514,969,31
+CVCL_0218,D-optimal,-1,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,D-optimal,-1,10,BI-78D3,978,22
+CVCL_0218,D-optimal,-1,11,NG25,975,25
+CVCL_0218,D-optimal,-1,12,Capmatinib,975,25
+CVCL_0218,D-optimal,-1,13,Adagrasib,975,25
+CVCL_0218,D-optimal,-1,14,IQ 1,975,25
+CVCL_0218,D-optimal,-1,15,Infigratinib,974,26
+CVCL_0218,D-optimal,-1,16,CP21R7,982,18
+CVCL_0218,D-optimal,-1,17,BI-3406,982,18
+CVCL_0218,D-optimal,-1,18,AZD2858,989,11
+CVCL_0218,D-optimal,-1,19,Encorafenib,981,19
+CVCL_0218,D-optimal,-1,20,Oleic acid,987,13
+CVCL_0218,V-optimal,-1,1,Bortezomib,982,18
+CVCL_0218,V-optimal,-1,2,Binimetinib,970,30
+CVCL_0218,V-optimal,-1,3,Ixazomib,979,21
+CVCL_0218,V-optimal,-1,4,HI-TOPK-032,976,24
+CVCL_0218,V-optimal,-1,5,Alpelisib,971,29
+CVCL_0218,V-optimal,-1,6,LJI308,979,21
+CVCL_0218,V-optimal,-1,7,Futibatinib,971,29
+CVCL_0218,V-optimal,-1,8,OTS514,969,31
+CVCL_0218,V-optimal,-1,9,LY-2584702 (tosylate salt),968,32
+CVCL_0218,V-optimal,-1,10,BI-78D3,978,22
+CVCL_0218,V-optimal,-1,11,NG25,975,25
+CVCL_0218,V-optimal,-1,12,Capmatinib,975,25
+CVCL_0218,V-optimal,-1,13,Adagrasib,975,25
+CVCL_0218,V-optimal,-1,14,IQ 1,975,25
+CVCL_0218,V-optimal,-1,15,Infigratinib,974,26
+CVCL_0218,V-optimal,-1,16,CP21R7,982,18
+CVCL_0218,V-optimal,-1,17,BI-3406,982,18
+CVCL_0218,V-optimal,-1,18,AZD2858,989,11
+CVCL_0218,V-optimal,-1,19,Encorafenib,981,19
+CVCL_0218,V-optimal,-1,20,Oleic acid,987,13
+CVCL_0320,random,0,1,IQ 1,998,2
+CVCL_0320,random,0,2,AZD2858,1000,0
+CVCL_0320,random,0,3,Binimetinib,999,1
+CVCL_0320,random,0,4,Everolimus,1000,0
+CVCL_0320,random,0,5,Bimiralisib,999,1
+CVCL_0320,random,0,6,AZD-7648,999,1
+CVCL_0320,random,0,7,Oleic acid,1000,0
+CVCL_0320,random,0,8,OTS514,997,3
+CVCL_0320,random,0,9,Alpelisib,998,2
+CVCL_0320,random,0,10,Infigratinib,997,3
+CVCL_0320,random,0,11,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,0,12,AZD1390,998,2
+CVCL_0320,random,0,13,Ixazomib,995,5
+CVCL_0320,random,0,14,BI-3406,1000,0
+CVCL_0320,random,0,15,APTO-253,999,1
+CVCL_0320,random,0,16,Gemcitabine,1000,0
+CVCL_0320,random,0,17,Bortezomib,998,2
+CVCL_0320,random,0,18,HI-TOPK-032,998,2
+CVCL_0320,random,0,19,CP21R7,996,4
+CVCL_0320,random,0,20,Anastrozole,1000,0
+CVCL_0320,random,1,1,Infigratinib,997,3
+CVCL_0320,random,1,2,Everolimus,1000,0
+CVCL_0320,random,1,3,Anastrozole,1000,0
+CVCL_0320,random,1,4,AT7519,999,1
+CVCL_0320,random,1,5,AZD1390,998,2
+CVCL_0320,random,1,6,OTS514,997,3
+CVCL_0320,random,1,7,Encorafenib,1000,0
+CVCL_0320,random,1,8,Binimetinib,999,1
+CVCL_0320,random,1,9,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,1,10,IQ 1,998,2
+CVCL_0320,random,1,11,LJI308,996,4
+CVCL_0320,random,1,12,Oleic acid,1000,0
+CVCL_0320,random,1,13,NG25,999,1
+CVCL_0320,random,1,14,Ixazomib,995,5
+CVCL_0320,random,1,15,AZD-7648,999,1
+CVCL_0320,random,1,16,Futibatinib,999,1
+CVCL_0320,random,1,17,Bortezomib,998,2
+CVCL_0320,random,1,18,Bimiralisib,999,1
+CVCL_0320,random,1,19,AZD2858,1000,0
+CVCL_0320,random,1,20,Adagrasib,998,2
+CVCL_0320,random,2,1,Everolimus,1000,0
+CVCL_0320,random,2,2,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,2,3,Bortezomib,998,2
+CVCL_0320,random,2,4,OTS514,997,3
+CVCL_0320,random,2,5,Bimiralisib,999,1
+CVCL_0320,random,2,6,Anastrozole,1000,0
+CVCL_0320,random,2,7,Ixazomib,995,5
+CVCL_0320,random,2,8,Gemcitabine,1000,0
+CVCL_0320,random,2,9,LJI308,996,4
+CVCL_0320,random,2,10,IQ 1,998,2
+CVCL_0320,random,2,11,Alpelisib,998,2
+CVCL_0320,random,2,12,Oleic acid,1000,0
+CVCL_0320,random,2,13,Encorafenib,1000,0
+CVCL_0320,random,2,14,Capmatinib,999,1
+CVCL_0320,random,2,15,Irinotecan,1000,0
+CVCL_0320,random,2,16,AZD-7648,999,1
+CVCL_0320,random,2,17,Binimetinib,999,1
+CVCL_0320,random,2,18,CP21R7,996,4
+CVCL_0320,random,2,19,APTO-253,999,1
+CVCL_0320,random,2,20,NG25,999,1
+CVCL_0320,random,3,1,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,3,2,OTS514,997,3
+CVCL_0320,random,3,3,Oleic acid,1000,0
+CVCL_0320,random,3,4,AZD1390,998,2
+CVCL_0320,random,3,5,NG25,999,1
+CVCL_0320,random,3,6,Bortezomib,998,2
+CVCL_0320,random,3,7,IQ 1,998,2
+CVCL_0320,random,3,8,Encorafenib,1000,0
+CVCL_0320,random,3,9,Futibatinib,999,1
+CVCL_0320,random,3,10,Bimiralisib,999,1
+CVCL_0320,random,3,11,APTO-253,999,1
+CVCL_0320,random,3,12,CP21R7,996,4
+CVCL_0320,random,3,13,Binimetinib,999,1
+CVCL_0320,random,3,14,BI-3406,1000,0
+CVCL_0320,random,3,15,BI-78D3,999,1
+CVCL_0320,random,3,16,Gemcitabine,1000,0
+CVCL_0320,random,3,17,Alpelisib,998,2
+CVCL_0320,random,3,18,AT7519,999,1
+CVCL_0320,random,3,19,AZD-7648,999,1
+CVCL_0320,random,3,20,Ixazomib,995,5
+CVCL_0320,random,4,1,Binimetinib,999,1
+CVCL_0320,random,4,2,Gemcitabine,1000,0
+CVCL_0320,random,4,3,APTO-253,999,1
+CVCL_0320,random,4,4,BI-3406,1000,0
+CVCL_0320,random,4,5,Anastrozole,1000,0
+CVCL_0320,random,4,6,AT7519,999,1
+CVCL_0320,random,4,7,LJI308,996,4
+CVCL_0320,random,4,8,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,4,9,Encorafenib,1000,0
+CVCL_0320,random,4,10,Bimiralisib,999,1
+CVCL_0320,random,4,11,BI-78D3,999,1
+CVCL_0320,random,4,12,IQ 1,998,2
+CVCL_0320,random,4,13,CP21R7,996,4
+CVCL_0320,random,4,14,Adagrasib,998,2
+CVCL_0320,random,4,15,NG25,999,1
+CVCL_0320,random,4,16,Everolimus,1000,0
+CVCL_0320,random,4,17,Futibatinib,999,1
+CVCL_0320,random,4,18,Ixazomib,995,5
+CVCL_0320,random,4,19,AZD-7648,999,1
+CVCL_0320,random,4,20,Alpelisib,998,2
+CVCL_0320,random,5,1,Gemcitabine,1000,0
+CVCL_0320,random,5,2,BI-78D3,999,1
+CVCL_0320,random,5,3,AZD-7648,999,1
+CVCL_0320,random,5,4,Anastrozole,1000,0
+CVCL_0320,random,5,5,Ixazomib,995,5
+CVCL_0320,random,5,6,NG25,999,1
+CVCL_0320,random,5,7,Binimetinib,999,1
+CVCL_0320,random,5,8,Alpelisib,998,2
+CVCL_0320,random,5,9,Bortezomib,998,2
+CVCL_0320,random,5,10,Futibatinib,999,1
+CVCL_0320,random,5,11,AZD1390,998,2
+CVCL_0320,random,5,12,IQ 1,998,2
+CVCL_0320,random,5,13,Oleic acid,1000,0
+CVCL_0320,random,5,14,Everolimus,1000,0
+CVCL_0320,random,5,15,AT7519,999,1
+CVCL_0320,random,5,16,LJI308,996,4
+CVCL_0320,random,5,17,HI-TOPK-032,998,2
+CVCL_0320,random,5,18,OTS514,997,3
+CVCL_0320,random,5,19,AZD2858,1000,0
+CVCL_0320,random,5,20,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,6,1,Infigratinib,997,3
+CVCL_0320,random,6,2,AZD-7648,999,1
+CVCL_0320,random,6,3,Ixazomib,995,5
+CVCL_0320,random,6,4,AT7519,999,1
+CVCL_0320,random,6,5,Gemcitabine,1000,0
+CVCL_0320,random,6,6,Capmatinib,999,1
+CVCL_0320,random,6,7,Binimetinib,999,1
+CVCL_0320,random,6,8,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,6,9,Irinotecan,1000,0
+CVCL_0320,random,6,10,NG25,999,1
+CVCL_0320,random,6,11,OTS514,997,3
+CVCL_0320,random,6,12,AZD2858,1000,0
+CVCL_0320,random,6,13,LJI308,996,4
+CVCL_0320,random,6,14,BI-3406,1000,0
+CVCL_0320,random,6,15,Alpelisib,998,2
+CVCL_0320,random,6,16,Everolimus,1000,0
+CVCL_0320,random,6,17,Oleic acid,1000,0
+CVCL_0320,random,6,18,IQ 1,998,2
+CVCL_0320,random,6,19,Bimiralisib,999,1
+CVCL_0320,random,6,20,BI-78D3,999,1
+CVCL_0320,random,7,1,Gemcitabine,1000,0
+CVCL_0320,random,7,2,HI-TOPK-032,998,2
+CVCL_0320,random,7,3,Capmatinib,999,1
+CVCL_0320,random,7,4,AZD2858,1000,0
+CVCL_0320,random,7,5,CP21R7,996,4
+CVCL_0320,random,7,6,NG25,999,1
+CVCL_0320,random,7,7,Ixazomib,995,5
+CVCL_0320,random,7,8,AZD1390,998,2
+CVCL_0320,random,7,9,OTS514,997,3
+CVCL_0320,random,7,10,Futibatinib,999,1
+CVCL_0320,random,7,11,Bortezomib,998,2
+CVCL_0320,random,7,12,APTO-253,999,1
+CVCL_0320,random,7,13,LJI308,996,4
+CVCL_0320,random,7,14,Irinotecan,1000,0
+CVCL_0320,random,7,15,Bimiralisib,999,1
+CVCL_0320,random,7,16,BI-3406,1000,0
+CVCL_0320,random,7,17,Anastrozole,1000,0
+CVCL_0320,random,7,18,AT7519,999,1
+CVCL_0320,random,7,19,Encorafenib,1000,0
+CVCL_0320,random,7,20,Alpelisib,998,2
+CVCL_0320,random,8,1,Encorafenib,1000,0
+CVCL_0320,random,8,2,HI-TOPK-032,998,2
+CVCL_0320,random,8,3,BI-3406,1000,0
+CVCL_0320,random,8,4,OTS514,997,3
+CVCL_0320,random,8,5,CP21R7,996,4
+CVCL_0320,random,8,6,Everolimus,1000,0
+CVCL_0320,random,8,7,Capmatinib,999,1
+CVCL_0320,random,8,8,NG25,999,1
+CVCL_0320,random,8,9,Bimiralisib,999,1
+CVCL_0320,random,8,10,Binimetinib,999,1
+CVCL_0320,random,8,11,APTO-253,999,1
+CVCL_0320,random,8,12,Infigratinib,997,3
+CVCL_0320,random,8,13,Futibatinib,999,1
+CVCL_0320,random,8,14,Anastrozole,1000,0
+CVCL_0320,random,8,15,AZD1390,998,2
+CVCL_0320,random,8,16,LJI308,996,4
+CVCL_0320,random,8,17,BI-78D3,999,1
+CVCL_0320,random,8,18,AZD2858,1000,0
+CVCL_0320,random,8,19,Irinotecan,1000,0
+CVCL_0320,random,8,20,Ixazomib,995,5
+CVCL_0320,random,9,1,Encorafenib,1000,0
+CVCL_0320,random,9,2,BI-78D3,999,1
+CVCL_0320,random,9,3,AZD-7648,999,1
+CVCL_0320,random,9,4,Ixazomib,995,5
+CVCL_0320,random,9,5,Capmatinib,999,1
+CVCL_0320,random,9,6,Irinotecan,1000,0
+CVCL_0320,random,9,7,Alpelisib,998,2
+CVCL_0320,random,9,8,AZD1390,998,2
+CVCL_0320,random,9,9,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,9,10,Anastrozole,1000,0
+CVCL_0320,random,9,11,CP21R7,996,4
+CVCL_0320,random,9,12,IQ 1,998,2
+CVCL_0320,random,9,13,HI-TOPK-032,998,2
+CVCL_0320,random,9,14,Everolimus,1000,0
+CVCL_0320,random,9,15,NG25,999,1
+CVCL_0320,random,9,16,Futibatinib,999,1
+CVCL_0320,random,9,17,Gemcitabine,1000,0
+CVCL_0320,random,9,18,Infigratinib,997,3
+CVCL_0320,random,9,19,Bimiralisib,999,1
+CVCL_0320,random,9,20,BI-3406,1000,0
+CVCL_0320,random,10,1,Futibatinib,999,1
+CVCL_0320,random,10,2,BI-78D3,999,1
+CVCL_0320,random,10,3,Adagrasib,998,2
+CVCL_0320,random,10,4,Anastrozole,1000,0
+CVCL_0320,random,10,5,NG25,999,1
+CVCL_0320,random,10,6,Encorafenib,1000,0
+CVCL_0320,random,10,7,OTS514,997,3
+CVCL_0320,random,10,8,IQ 1,998,2
+CVCL_0320,random,10,9,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,10,10,Gemcitabine,1000,0
+CVCL_0320,random,10,11,Alpelisib,998,2
+CVCL_0320,random,10,12,AT7519,999,1
+CVCL_0320,random,10,13,AZD2858,1000,0
+CVCL_0320,random,10,14,Oleic acid,1000,0
+CVCL_0320,random,10,15,Binimetinib,999,1
+CVCL_0320,random,10,16,AZD1390,998,2
+CVCL_0320,random,10,17,Bimiralisib,999,1
+CVCL_0320,random,10,18,HI-TOPK-032,998,2
+CVCL_0320,random,10,19,Capmatinib,999,1
+CVCL_0320,random,10,20,Everolimus,1000,0
+CVCL_0320,random,11,1,AZD2858,1000,0
+CVCL_0320,random,11,2,Binimetinib,999,1
+CVCL_0320,random,11,3,Adagrasib,998,2
+CVCL_0320,random,11,4,Encorafenib,1000,0
+CVCL_0320,random,11,5,Irinotecan,1000,0
+CVCL_0320,random,11,6,Alpelisib,998,2
+CVCL_0320,random,11,7,APTO-253,999,1
+CVCL_0320,random,11,8,Infigratinib,997,3
+CVCL_0320,random,11,9,BI-78D3,999,1
+CVCL_0320,random,11,10,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,11,11,AZD-7648,999,1
+CVCL_0320,random,11,12,AT7519,999,1
+CVCL_0320,random,11,13,Oleic acid,1000,0
+CVCL_0320,random,11,14,BI-3406,1000,0
+CVCL_0320,random,11,15,NG25,999,1
+CVCL_0320,random,11,16,Gemcitabine,1000,0
+CVCL_0320,random,11,17,AZD1390,998,2
+CVCL_0320,random,11,18,Ixazomib,995,5
+CVCL_0320,random,11,19,Futibatinib,999,1
+CVCL_0320,random,11,20,Bortezomib,998,2
+CVCL_0320,random,12,1,NG25,999,1
+CVCL_0320,random,12,2,AZD1390,998,2
+CVCL_0320,random,12,3,Adagrasib,998,2
+CVCL_0320,random,12,4,Encorafenib,1000,0
+CVCL_0320,random,12,5,AT7519,999,1
+CVCL_0320,random,12,6,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,12,7,BI-78D3,999,1
+CVCL_0320,random,12,8,Bortezomib,998,2
+CVCL_0320,random,12,9,Binimetinib,999,1
+CVCL_0320,random,12,10,Anastrozole,1000,0
+CVCL_0320,random,12,11,AZD2858,1000,0
+CVCL_0320,random,12,12,Capmatinib,999,1
+CVCL_0320,random,12,13,CP21R7,996,4
+CVCL_0320,random,12,14,IQ 1,998,2
+CVCL_0320,random,12,15,Ixazomib,995,5
+CVCL_0320,random,12,16,AZD-7648,999,1
+CVCL_0320,random,12,17,OTS514,997,3
+CVCL_0320,random,12,18,Irinotecan,1000,0
+CVCL_0320,random,12,19,Alpelisib,998,2
+CVCL_0320,random,12,20,Futibatinib,999,1
+CVCL_0320,random,13,1,AT7519,999,1
+CVCL_0320,random,13,2,AZD1390,998,2
+CVCL_0320,random,13,3,Capmatinib,999,1
+CVCL_0320,random,13,4,APTO-253,999,1
+CVCL_0320,random,13,5,Everolimus,1000,0
+CVCL_0320,random,13,6,Bortezomib,998,2
+CVCL_0320,random,13,7,Ixazomib,995,5
+CVCL_0320,random,13,8,Alpelisib,998,2
+CVCL_0320,random,13,9,IQ 1,998,2
+CVCL_0320,random,13,10,AZD-7648,999,1
+CVCL_0320,random,13,11,Irinotecan,1000,0
+CVCL_0320,random,13,12,Futibatinib,999,1
+CVCL_0320,random,13,13,Bimiralisib,999,1
+CVCL_0320,random,13,14,CP21R7,996,4
+CVCL_0320,random,13,15,Adagrasib,998,2
+CVCL_0320,random,13,16,Encorafenib,1000,0
+CVCL_0320,random,13,17,AZD2858,1000,0
+CVCL_0320,random,13,18,NG25,999,1
+CVCL_0320,random,13,19,Gemcitabine,1000,0
+CVCL_0320,random,13,20,BI-3406,1000,0
+CVCL_0320,random,14,1,Capmatinib,999,1
+CVCL_0320,random,14,2,AZD2858,1000,0
+CVCL_0320,random,14,3,IQ 1,998,2
+CVCL_0320,random,14,4,NG25,999,1
+CVCL_0320,random,14,5,Anastrozole,1000,0
+CVCL_0320,random,14,6,Adagrasib,998,2
+CVCL_0320,random,14,7,Bortezomib,998,2
+CVCL_0320,random,14,8,CP21R7,996,4
+CVCL_0320,random,14,9,Oleic acid,1000,0
+CVCL_0320,random,14,10,Infigratinib,997,3
+CVCL_0320,random,14,11,Irinotecan,1000,0
+CVCL_0320,random,14,12,Gemcitabine,1000,0
+CVCL_0320,random,14,13,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,14,14,Encorafenib,1000,0
+CVCL_0320,random,14,15,BI-78D3,999,1
+CVCL_0320,random,14,16,LJI308,996,4
+CVCL_0320,random,14,17,Ixazomib,995,5
+CVCL_0320,random,14,18,OTS514,997,3
+CVCL_0320,random,14,19,Bimiralisib,999,1
+CVCL_0320,random,14,20,HI-TOPK-032,998,2
+CVCL_0320,random,15,1,Alpelisib,998,2
+CVCL_0320,random,15,2,APTO-253,999,1
+CVCL_0320,random,15,3,Encorafenib,1000,0
+CVCL_0320,random,15,4,HI-TOPK-032,998,2
+CVCL_0320,random,15,5,Binimetinib,999,1
+CVCL_0320,random,15,6,Ixazomib,995,5
+CVCL_0320,random,15,7,Everolimus,1000,0
+CVCL_0320,random,15,8,Irinotecan,1000,0
+CVCL_0320,random,15,9,Capmatinib,999,1
+CVCL_0320,random,15,10,Infigratinib,997,3
+CVCL_0320,random,15,11,Oleic acid,1000,0
+CVCL_0320,random,15,12,BI-78D3,999,1
+CVCL_0320,random,15,13,AZD1390,998,2
+CVCL_0320,random,15,14,BI-3406,1000,0
+CVCL_0320,random,15,15,CP21R7,996,4
+CVCL_0320,random,15,16,Anastrozole,1000,0
+CVCL_0320,random,15,17,Gemcitabine,1000,0
+CVCL_0320,random,15,18,LJI308,996,4
+CVCL_0320,random,15,19,Bimiralisib,999,1
+CVCL_0320,random,15,20,NG25,999,1
+CVCL_0320,random,16,1,Infigratinib,997,3
+CVCL_0320,random,16,2,Ixazomib,995,5
+CVCL_0320,random,16,3,Alpelisib,998,2
+CVCL_0320,random,16,4,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,16,5,IQ 1,998,2
+CVCL_0320,random,16,6,Binimetinib,999,1
+CVCL_0320,random,16,7,LJI308,996,4
+CVCL_0320,random,16,8,AZD2858,1000,0
+CVCL_0320,random,16,9,Everolimus,1000,0
+CVCL_0320,random,16,10,Encorafenib,1000,0
+CVCL_0320,random,16,11,BI-3406,1000,0
+CVCL_0320,random,16,12,AT7519,999,1
+CVCL_0320,random,16,13,Irinotecan,1000,0
+CVCL_0320,random,16,14,Adagrasib,998,2
+CVCL_0320,random,16,15,APTO-253,999,1
+CVCL_0320,random,16,16,Anastrozole,1000,0
+CVCL_0320,random,16,17,Bortezomib,998,2
+CVCL_0320,random,16,18,Gemcitabine,1000,0
+CVCL_0320,random,16,19,Bimiralisib,999,1
+CVCL_0320,random,16,20,HI-TOPK-032,998,2
+CVCL_0320,random,17,1,Bortezomib,998,2
+CVCL_0320,random,17,2,OTS514,997,3
+CVCL_0320,random,17,3,AZD1390,998,2
+CVCL_0320,random,17,4,Adagrasib,998,2
+CVCL_0320,random,17,5,IQ 1,998,2
+CVCL_0320,random,17,6,Alpelisib,998,2
+CVCL_0320,random,17,7,NG25,999,1
+CVCL_0320,random,17,8,Ixazomib,995,5
+CVCL_0320,random,17,9,AZD2858,1000,0
+CVCL_0320,random,17,10,Everolimus,1000,0
+CVCL_0320,random,17,11,Capmatinib,999,1
+CVCL_0320,random,17,12,Futibatinib,999,1
+CVCL_0320,random,17,13,LJI308,996,4
+CVCL_0320,random,17,14,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,17,15,Irinotecan,1000,0
+CVCL_0320,random,17,16,Oleic acid,1000,0
+CVCL_0320,random,17,17,BI-78D3,999,1
+CVCL_0320,random,17,18,BI-3406,1000,0
+CVCL_0320,random,17,19,Anastrozole,1000,0
+CVCL_0320,random,17,20,AT7519,999,1
+CVCL_0320,random,18,1,Bortezomib,998,2
+CVCL_0320,random,18,2,Ixazomib,995,5
+CVCL_0320,random,18,3,APTO-253,999,1
+CVCL_0320,random,18,4,LJI308,996,4
+CVCL_0320,random,18,5,AZD-7648,999,1
+CVCL_0320,random,18,6,BI-3406,1000,0
+CVCL_0320,random,18,7,OTS514,997,3
+CVCL_0320,random,18,8,CP21R7,996,4
+CVCL_0320,random,18,9,Irinotecan,1000,0
+CVCL_0320,random,18,10,Gemcitabine,1000,0
+CVCL_0320,random,18,11,Encorafenib,1000,0
+CVCL_0320,random,18,12,NG25,999,1
+CVCL_0320,random,18,13,Anastrozole,1000,0
+CVCL_0320,random,18,14,Oleic acid,1000,0
+CVCL_0320,random,18,15,Bimiralisib,999,1
+CVCL_0320,random,18,16,Infigratinib,997,3
+CVCL_0320,random,18,17,Adagrasib,998,2
+CVCL_0320,random,18,18,Binimetinib,999,1
+CVCL_0320,random,18,19,Everolimus,1000,0
+CVCL_0320,random,18,20,Alpelisib,998,2
+CVCL_0320,random,19,1,BI-78D3,999,1
+CVCL_0320,random,19,2,Bortezomib,998,2
+CVCL_0320,random,19,3,Capmatinib,999,1
+CVCL_0320,random,19,4,Infigratinib,997,3
+CVCL_0320,random,19,5,AZD2858,1000,0
+CVCL_0320,random,19,6,Adagrasib,998,2
+CVCL_0320,random,19,7,Binimetinib,999,1
+CVCL_0320,random,19,8,Gemcitabine,1000,0
+CVCL_0320,random,19,9,NG25,999,1
+CVCL_0320,random,19,10,LY-2584702 (tosylate salt),999,1
+CVCL_0320,random,19,11,Everolimus,1000,0
+CVCL_0320,random,19,12,Ixazomib,995,5
+CVCL_0320,random,19,13,LJI308,996,4
+CVCL_0320,random,19,14,AT7519,999,1
+CVCL_0320,random,19,15,BI-3406,1000,0
+CVCL_0320,random,19,16,Oleic acid,1000,0
+CVCL_0320,random,19,17,AZD-7648,999,1
+CVCL_0320,random,19,18,Anastrozole,1000,0
+CVCL_0320,random,19,19,IQ 1,998,2
+CVCL_0320,random,19,20,APTO-253,999,1
+CVCL_0320,trace-uncertainty,-1,1,Bortezomib,998,2
+CVCL_0320,trace-uncertainty,-1,2,Ixazomib,995,5
+CVCL_0320,trace-uncertainty,-1,3,HI-TOPK-032,998,2
+CVCL_0320,trace-uncertainty,-1,4,Binimetinib,999,1
+CVCL_0320,trace-uncertainty,-1,5,LJI308,996,4
+CVCL_0320,trace-uncertainty,-1,6,Alpelisib,998,2
+CVCL_0320,trace-uncertainty,-1,7,Futibatinib,999,1
+CVCL_0320,trace-uncertainty,-1,8,LY-2584702 (tosylate salt),999,1
+CVCL_0320,trace-uncertainty,-1,9,OTS514,997,3
+CVCL_0320,trace-uncertainty,-1,10,NG25,999,1
+CVCL_0320,trace-uncertainty,-1,11,Adagrasib,998,2
+CVCL_0320,trace-uncertainty,-1,12,Capmatinib,999,1
+CVCL_0320,trace-uncertainty,-1,13,IQ 1,998,2
+CVCL_0320,trace-uncertainty,-1,14,CP21R7,996,4
+CVCL_0320,trace-uncertainty,-1,15,Infigratinib,997,3
+CVCL_0320,trace-uncertainty,-1,16,BI-78D3,999,1
+CVCL_0320,trace-uncertainty,-1,17,BI-3406,1000,0
+CVCL_0320,trace-uncertainty,-1,18,Encorafenib,1000,0
+CVCL_0320,trace-uncertainty,-1,19,AZD2858,1000,0
+CVCL_0320,trace-uncertainty,-1,20,AT7519,999,1
+CVCL_0320,D-optimal,-1,1,Bortezomib,998,2
+CVCL_0320,D-optimal,-1,2,Ixazomib,995,5
+CVCL_0320,D-optimal,-1,3,HI-TOPK-032,998,2
+CVCL_0320,D-optimal,-1,4,Binimetinib,999,1
+CVCL_0320,D-optimal,-1,5,LJI308,996,4
+CVCL_0320,D-optimal,-1,6,Alpelisib,998,2
+CVCL_0320,D-optimal,-1,7,Futibatinib,999,1
+CVCL_0320,D-optimal,-1,8,LY-2584702 (tosylate salt),999,1
+CVCL_0320,D-optimal,-1,9,OTS514,997,3
+CVCL_0320,D-optimal,-1,10,NG25,999,1
+CVCL_0320,D-optimal,-1,11,Adagrasib,998,2
+CVCL_0320,D-optimal,-1,12,Capmatinib,999,1
+CVCL_0320,D-optimal,-1,13,IQ 1,998,2
+CVCL_0320,D-optimal,-1,14,CP21R7,996,4
+CVCL_0320,D-optimal,-1,15,Infigratinib,997,3
+CVCL_0320,D-optimal,-1,16,BI-78D3,999,1
+CVCL_0320,D-optimal,-1,17,BI-3406,1000,0
+CVCL_0320,D-optimal,-1,18,Encorafenib,1000,0
+CVCL_0320,D-optimal,-1,19,AZD2858,1000,0
+CVCL_0320,D-optimal,-1,20,AT7519,999,1
+CVCL_0320,V-optimal,-1,1,Bortezomib,998,2
+CVCL_0320,V-optimal,-1,2,Ixazomib,995,5
+CVCL_0320,V-optimal,-1,3,HI-TOPK-032,998,2
+CVCL_0320,V-optimal,-1,4,Binimetinib,999,1
+CVCL_0320,V-optimal,-1,5,LJI308,996,4
+CVCL_0320,V-optimal,-1,6,Alpelisib,998,2
+CVCL_0320,V-optimal,-1,7,Futibatinib,999,1
+CVCL_0320,V-optimal,-1,8,LY-2584702 (tosylate salt),999,1
+CVCL_0320,V-optimal,-1,9,OTS514,997,3
+CVCL_0320,V-optimal,-1,10,NG25,999,1
+CVCL_0320,V-optimal,-1,11,Adagrasib,998,2
+CVCL_0320,V-optimal,-1,12,Capmatinib,999,1
+CVCL_0320,V-optimal,-1,13,IQ 1,998,2
+CVCL_0320,V-optimal,-1,14,CP21R7,996,4
+CVCL_0320,V-optimal,-1,15,Infigratinib,997,3
+CVCL_0320,V-optimal,-1,16,BI-78D3,999,1
+CVCL_0320,V-optimal,-1,17,BI-3406,1000,0
+CVCL_0320,V-optimal,-1,18,Encorafenib,1000,0
+CVCL_0320,V-optimal,-1,19,AZD2858,1000,0
+CVCL_0320,V-optimal,-1,20,AT7519,999,1
+CVCL_0332,random,0,1,IQ 1,990,10
+CVCL_0332,random,0,2,AZD2858,998,2
+CVCL_0332,random,0,3,Binimetinib,989,11
+CVCL_0332,random,0,4,Everolimus,993,7
+CVCL_0332,random,0,5,Bimiralisib,992,8
+CVCL_0332,random,0,6,AZD-7648,993,7
+CVCL_0332,random,0,7,Oleic acid,995,5
+CVCL_0332,random,0,8,OTS514,991,9
+CVCL_0332,random,0,9,Alpelisib,993,7
+CVCL_0332,random,0,10,Infigratinib,995,5
+CVCL_0332,random,0,11,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,0,12,AZD1390,990,10
+CVCL_0332,random,0,13,Ixazomib,988,12
+CVCL_0332,random,0,14,BI-3406,993,7
+CVCL_0332,random,0,15,APTO-253,996,4
+CVCL_0332,random,0,16,Gemcitabine,998,2
+CVCL_0332,random,0,17,Bortezomib,989,11
+CVCL_0332,random,0,18,HI-TOPK-032,988,12
+CVCL_0332,random,0,19,CP21R7,997,3
+CVCL_0332,random,0,20,Anastrozole,996,4
+CVCL_0332,random,1,1,Infigratinib,995,5
+CVCL_0332,random,1,2,Everolimus,993,7
+CVCL_0332,random,1,3,Anastrozole,996,4
+CVCL_0332,random,1,4,AT7519,997,3
+CVCL_0332,random,1,5,AZD1390,990,10
+CVCL_0332,random,1,6,OTS514,991,9
+CVCL_0332,random,1,7,Encorafenib,993,7
+CVCL_0332,random,1,8,Binimetinib,989,11
+CVCL_0332,random,1,9,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,1,10,IQ 1,990,10
+CVCL_0332,random,1,11,LJI308,993,7
+CVCL_0332,random,1,12,Oleic acid,995,5
+CVCL_0332,random,1,13,NG25,988,12
+CVCL_0332,random,1,14,Ixazomib,988,12
+CVCL_0332,random,1,15,AZD-7648,993,7
+CVCL_0332,random,1,16,Futibatinib,993,7
+CVCL_0332,random,1,17,Bortezomib,989,11
+CVCL_0332,random,1,18,Bimiralisib,992,8
+CVCL_0332,random,1,19,AZD2858,998,2
+CVCL_0332,random,1,20,Adagrasib,991,9
+CVCL_0332,random,2,1,Everolimus,993,7
+CVCL_0332,random,2,2,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,2,3,Bortezomib,989,11
+CVCL_0332,random,2,4,OTS514,991,9
+CVCL_0332,random,2,5,Bimiralisib,992,8
+CVCL_0332,random,2,6,Anastrozole,996,4
+CVCL_0332,random,2,7,Ixazomib,988,12
+CVCL_0332,random,2,8,Gemcitabine,998,2
+CVCL_0332,random,2,9,LJI308,993,7
+CVCL_0332,random,2,10,IQ 1,990,10
+CVCL_0332,random,2,11,Alpelisib,993,7
+CVCL_0332,random,2,12,Oleic acid,995,5
+CVCL_0332,random,2,13,Encorafenib,993,7
+CVCL_0332,random,2,14,Capmatinib,995,5
+CVCL_0332,random,2,15,Irinotecan,997,3
+CVCL_0332,random,2,16,AZD-7648,993,7
+CVCL_0332,random,2,17,Binimetinib,989,11
+CVCL_0332,random,2,18,CP21R7,997,3
+CVCL_0332,random,2,19,APTO-253,996,4
+CVCL_0332,random,2,20,NG25,988,12
+CVCL_0332,random,3,1,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,3,2,OTS514,991,9
+CVCL_0332,random,3,3,Oleic acid,995,5
+CVCL_0332,random,3,4,AZD1390,990,10
+CVCL_0332,random,3,5,NG25,988,12
+CVCL_0332,random,3,6,Bortezomib,989,11
+CVCL_0332,random,3,7,IQ 1,990,10
+CVCL_0332,random,3,8,Encorafenib,993,7
+CVCL_0332,random,3,9,Futibatinib,993,7
+CVCL_0332,random,3,10,Bimiralisib,992,8
+CVCL_0332,random,3,11,APTO-253,996,4
+CVCL_0332,random,3,12,CP21R7,997,3
+CVCL_0332,random,3,13,Binimetinib,989,11
+CVCL_0332,random,3,14,BI-3406,993,7
+CVCL_0332,random,3,15,BI-78D3,992,8
+CVCL_0332,random,3,16,Gemcitabine,998,2
+CVCL_0332,random,3,17,Alpelisib,993,7
+CVCL_0332,random,3,18,AT7519,997,3
+CVCL_0332,random,3,19,AZD-7648,993,7
+CVCL_0332,random,3,20,Ixazomib,988,12
+CVCL_0332,random,4,1,Binimetinib,989,11
+CVCL_0332,random,4,2,Gemcitabine,998,2
+CVCL_0332,random,4,3,APTO-253,996,4
+CVCL_0332,random,4,4,BI-3406,993,7
+CVCL_0332,random,4,5,Anastrozole,996,4
+CVCL_0332,random,4,6,AT7519,997,3
+CVCL_0332,random,4,7,LJI308,993,7
+CVCL_0332,random,4,8,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,4,9,Encorafenib,993,7
+CVCL_0332,random,4,10,Bimiralisib,992,8
+CVCL_0332,random,4,11,BI-78D3,992,8
+CVCL_0332,random,4,12,IQ 1,990,10
+CVCL_0332,random,4,13,CP21R7,997,3
+CVCL_0332,random,4,14,Adagrasib,991,9
+CVCL_0332,random,4,15,NG25,988,12
+CVCL_0332,random,4,16,Everolimus,993,7
+CVCL_0332,random,4,17,Futibatinib,993,7
+CVCL_0332,random,4,18,Ixazomib,988,12
+CVCL_0332,random,4,19,AZD-7648,993,7
+CVCL_0332,random,4,20,Alpelisib,993,7
+CVCL_0332,random,5,1,Gemcitabine,998,2
+CVCL_0332,random,5,2,BI-78D3,992,8
+CVCL_0332,random,5,3,AZD-7648,993,7
+CVCL_0332,random,5,4,Anastrozole,996,4
+CVCL_0332,random,5,5,Ixazomib,988,12
+CVCL_0332,random,5,6,NG25,988,12
+CVCL_0332,random,5,7,Binimetinib,989,11
+CVCL_0332,random,5,8,Alpelisib,993,7
+CVCL_0332,random,5,9,Bortezomib,989,11
+CVCL_0332,random,5,10,Futibatinib,993,7
+CVCL_0332,random,5,11,AZD1390,990,10
+CVCL_0332,random,5,12,IQ 1,990,10
+CVCL_0332,random,5,13,Oleic acid,995,5
+CVCL_0332,random,5,14,Everolimus,993,7
+CVCL_0332,random,5,15,AT7519,997,3
+CVCL_0332,random,5,16,LJI308,993,7
+CVCL_0332,random,5,17,HI-TOPK-032,988,12
+CVCL_0332,random,5,18,OTS514,991,9
+CVCL_0332,random,5,19,AZD2858,998,2
+CVCL_0332,random,5,20,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,6,1,Infigratinib,995,5
+CVCL_0332,random,6,2,AZD-7648,993,7
+CVCL_0332,random,6,3,Ixazomib,988,12
+CVCL_0332,random,6,4,AT7519,997,3
+CVCL_0332,random,6,5,Gemcitabine,998,2
+CVCL_0332,random,6,6,Capmatinib,995,5
+CVCL_0332,random,6,7,Binimetinib,989,11
+CVCL_0332,random,6,8,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,6,9,Irinotecan,997,3
+CVCL_0332,random,6,10,NG25,988,12
+CVCL_0332,random,6,11,OTS514,991,9
+CVCL_0332,random,6,12,AZD2858,998,2
+CVCL_0332,random,6,13,LJI308,993,7
+CVCL_0332,random,6,14,BI-3406,993,7
+CVCL_0332,random,6,15,Alpelisib,993,7
+CVCL_0332,random,6,16,Everolimus,993,7
+CVCL_0332,random,6,17,Oleic acid,995,5
+CVCL_0332,random,6,18,IQ 1,990,10
+CVCL_0332,random,6,19,Bimiralisib,992,8
+CVCL_0332,random,6,20,BI-78D3,992,8
+CVCL_0332,random,7,1,Gemcitabine,998,2
+CVCL_0332,random,7,2,HI-TOPK-032,988,12
+CVCL_0332,random,7,3,Capmatinib,995,5
+CVCL_0332,random,7,4,AZD2858,998,2
+CVCL_0332,random,7,5,CP21R7,997,3
+CVCL_0332,random,7,6,NG25,988,12
+CVCL_0332,random,7,7,Ixazomib,988,12
+CVCL_0332,random,7,8,AZD1390,990,10
+CVCL_0332,random,7,9,OTS514,991,9
+CVCL_0332,random,7,10,Futibatinib,993,7
+CVCL_0332,random,7,11,Bortezomib,989,11
+CVCL_0332,random,7,12,APTO-253,996,4
+CVCL_0332,random,7,13,LJI308,993,7
+CVCL_0332,random,7,14,Irinotecan,997,3
+CVCL_0332,random,7,15,Bimiralisib,992,8
+CVCL_0332,random,7,16,BI-3406,993,7
+CVCL_0332,random,7,17,Anastrozole,996,4
+CVCL_0332,random,7,18,AT7519,997,3
+CVCL_0332,random,7,19,Encorafenib,993,7
+CVCL_0332,random,7,20,Alpelisib,993,7
+CVCL_0332,random,8,1,Encorafenib,993,7
+CVCL_0332,random,8,2,HI-TOPK-032,988,12
+CVCL_0332,random,8,3,BI-3406,993,7
+CVCL_0332,random,8,4,OTS514,991,9
+CVCL_0332,random,8,5,CP21R7,997,3
+CVCL_0332,random,8,6,Everolimus,993,7
+CVCL_0332,random,8,7,Capmatinib,995,5
+CVCL_0332,random,8,8,NG25,988,12
+CVCL_0332,random,8,9,Bimiralisib,992,8
+CVCL_0332,random,8,10,Binimetinib,989,11
+CVCL_0332,random,8,11,APTO-253,996,4
+CVCL_0332,random,8,12,Infigratinib,995,5
+CVCL_0332,random,8,13,Futibatinib,993,7
+CVCL_0332,random,8,14,Anastrozole,996,4
+CVCL_0332,random,8,15,AZD1390,990,10
+CVCL_0332,random,8,16,LJI308,993,7
+CVCL_0332,random,8,17,BI-78D3,992,8
+CVCL_0332,random,8,18,AZD2858,998,2
+CVCL_0332,random,8,19,Irinotecan,997,3
+CVCL_0332,random,8,20,Ixazomib,988,12
+CVCL_0332,random,9,1,Encorafenib,993,7
+CVCL_0332,random,9,2,BI-78D3,992,8
+CVCL_0332,random,9,3,AZD-7648,993,7
+CVCL_0332,random,9,4,Ixazomib,988,12
+CVCL_0332,random,9,5,Capmatinib,995,5
+CVCL_0332,random,9,6,Irinotecan,997,3
+CVCL_0332,random,9,7,Alpelisib,993,7
+CVCL_0332,random,9,8,AZD1390,990,10
+CVCL_0332,random,9,9,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,9,10,Anastrozole,996,4
+CVCL_0332,random,9,11,CP21R7,997,3
+CVCL_0332,random,9,12,IQ 1,990,10
+CVCL_0332,random,9,13,HI-TOPK-032,988,12
+CVCL_0332,random,9,14,Everolimus,993,7
+CVCL_0332,random,9,15,NG25,988,12
+CVCL_0332,random,9,16,Futibatinib,993,7
+CVCL_0332,random,9,17,Gemcitabine,998,2
+CVCL_0332,random,9,18,Infigratinib,995,5
+CVCL_0332,random,9,19,Bimiralisib,992,8
+CVCL_0332,random,9,20,BI-3406,993,7
+CVCL_0332,random,10,1,Futibatinib,993,7
+CVCL_0332,random,10,2,BI-78D3,992,8
+CVCL_0332,random,10,3,Adagrasib,991,9
+CVCL_0332,random,10,4,Anastrozole,996,4
+CVCL_0332,random,10,5,NG25,988,12
+CVCL_0332,random,10,6,Encorafenib,993,7
+CVCL_0332,random,10,7,OTS514,991,9
+CVCL_0332,random,10,8,IQ 1,990,10
+CVCL_0332,random,10,9,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,10,10,Gemcitabine,998,2
+CVCL_0332,random,10,11,Alpelisib,993,7
+CVCL_0332,random,10,12,AT7519,997,3
+CVCL_0332,random,10,13,AZD2858,998,2
+CVCL_0332,random,10,14,Oleic acid,995,5
+CVCL_0332,random,10,15,Binimetinib,989,11
+CVCL_0332,random,10,16,AZD1390,990,10
+CVCL_0332,random,10,17,Bimiralisib,992,8
+CVCL_0332,random,10,18,HI-TOPK-032,988,12
+CVCL_0332,random,10,19,Capmatinib,995,5
+CVCL_0332,random,10,20,Everolimus,993,7
+CVCL_0332,random,11,1,AZD2858,998,2
+CVCL_0332,random,11,2,Binimetinib,989,11
+CVCL_0332,random,11,3,Adagrasib,991,9
+CVCL_0332,random,11,4,Encorafenib,993,7
+CVCL_0332,random,11,5,Irinotecan,997,3
+CVCL_0332,random,11,6,Alpelisib,993,7
+CVCL_0332,random,11,7,APTO-253,996,4
+CVCL_0332,random,11,8,Infigratinib,995,5
+CVCL_0332,random,11,9,BI-78D3,992,8
+CVCL_0332,random,11,10,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,11,11,AZD-7648,993,7
+CVCL_0332,random,11,12,AT7519,997,3
+CVCL_0332,random,11,13,Oleic acid,995,5
+CVCL_0332,random,11,14,BI-3406,993,7
+CVCL_0332,random,11,15,NG25,988,12
+CVCL_0332,random,11,16,Gemcitabine,998,2
+CVCL_0332,random,11,17,AZD1390,990,10
+CVCL_0332,random,11,18,Ixazomib,988,12
+CVCL_0332,random,11,19,Futibatinib,993,7
+CVCL_0332,random,11,20,Bortezomib,989,11
+CVCL_0332,random,12,1,NG25,988,12
+CVCL_0332,random,12,2,AZD1390,990,10
+CVCL_0332,random,12,3,Adagrasib,991,9
+CVCL_0332,random,12,4,Encorafenib,993,7
+CVCL_0332,random,12,5,AT7519,997,3
+CVCL_0332,random,12,6,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,12,7,BI-78D3,992,8
+CVCL_0332,random,12,8,Bortezomib,989,11
+CVCL_0332,random,12,9,Binimetinib,989,11
+CVCL_0332,random,12,10,Anastrozole,996,4
+CVCL_0332,random,12,11,AZD2858,998,2
+CVCL_0332,random,12,12,Capmatinib,995,5
+CVCL_0332,random,12,13,CP21R7,997,3
+CVCL_0332,random,12,14,IQ 1,990,10
+CVCL_0332,random,12,15,Ixazomib,988,12
+CVCL_0332,random,12,16,AZD-7648,993,7
+CVCL_0332,random,12,17,OTS514,991,9
+CVCL_0332,random,12,18,Irinotecan,997,3
+CVCL_0332,random,12,19,Alpelisib,993,7
+CVCL_0332,random,12,20,Futibatinib,993,7
+CVCL_0332,random,13,1,AT7519,997,3
+CVCL_0332,random,13,2,AZD1390,990,10
+CVCL_0332,random,13,3,Capmatinib,995,5
+CVCL_0332,random,13,4,APTO-253,996,4
+CVCL_0332,random,13,5,Everolimus,993,7
+CVCL_0332,random,13,6,Bortezomib,989,11
+CVCL_0332,random,13,7,Ixazomib,988,12
+CVCL_0332,random,13,8,Alpelisib,993,7
+CVCL_0332,random,13,9,IQ 1,990,10
+CVCL_0332,random,13,10,AZD-7648,993,7
+CVCL_0332,random,13,11,Irinotecan,997,3
+CVCL_0332,random,13,12,Futibatinib,993,7
+CVCL_0332,random,13,13,Bimiralisib,992,8
+CVCL_0332,random,13,14,CP21R7,997,3
+CVCL_0332,random,13,15,Adagrasib,991,9
+CVCL_0332,random,13,16,Encorafenib,993,7
+CVCL_0332,random,13,17,AZD2858,998,2
+CVCL_0332,random,13,18,NG25,988,12
+CVCL_0332,random,13,19,Gemcitabine,998,2
+CVCL_0332,random,13,20,BI-3406,993,7
+CVCL_0332,random,14,1,Capmatinib,995,5
+CVCL_0332,random,14,2,AZD2858,998,2
+CVCL_0332,random,14,3,IQ 1,990,10
+CVCL_0332,random,14,4,NG25,988,12
+CVCL_0332,random,14,5,Anastrozole,996,4
+CVCL_0332,random,14,6,Adagrasib,991,9
+CVCL_0332,random,14,7,Bortezomib,989,11
+CVCL_0332,random,14,8,CP21R7,997,3
+CVCL_0332,random,14,9,Oleic acid,995,5
+CVCL_0332,random,14,10,Infigratinib,995,5
+CVCL_0332,random,14,11,Irinotecan,997,3
+CVCL_0332,random,14,12,Gemcitabine,998,2
+CVCL_0332,random,14,13,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,14,14,Encorafenib,993,7
+CVCL_0332,random,14,15,BI-78D3,992,8
+CVCL_0332,random,14,16,LJI308,993,7
+CVCL_0332,random,14,17,Ixazomib,988,12
+CVCL_0332,random,14,18,OTS514,991,9
+CVCL_0332,random,14,19,Bimiralisib,992,8
+CVCL_0332,random,14,20,HI-TOPK-032,988,12
+CVCL_0332,random,15,1,Alpelisib,993,7
+CVCL_0332,random,15,2,APTO-253,996,4
+CVCL_0332,random,15,3,Encorafenib,993,7
+CVCL_0332,random,15,4,HI-TOPK-032,988,12
+CVCL_0332,random,15,5,Binimetinib,989,11
+CVCL_0332,random,15,6,Ixazomib,988,12
+CVCL_0332,random,15,7,Everolimus,993,7
+CVCL_0332,random,15,8,Irinotecan,997,3
+CVCL_0332,random,15,9,Capmatinib,995,5
+CVCL_0332,random,15,10,Infigratinib,995,5
+CVCL_0332,random,15,11,Oleic acid,995,5
+CVCL_0332,random,15,12,BI-78D3,992,8
+CVCL_0332,random,15,13,AZD1390,990,10
+CVCL_0332,random,15,14,BI-3406,993,7
+CVCL_0332,random,15,15,CP21R7,997,3
+CVCL_0332,random,15,16,Anastrozole,996,4
+CVCL_0332,random,15,17,Gemcitabine,998,2
+CVCL_0332,random,15,18,LJI308,993,7
+CVCL_0332,random,15,19,Bimiralisib,992,8
+CVCL_0332,random,15,20,NG25,988,12
+CVCL_0332,random,16,1,Infigratinib,995,5
+CVCL_0332,random,16,2,Ixazomib,988,12
+CVCL_0332,random,16,3,Alpelisib,993,7
+CVCL_0332,random,16,4,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,16,5,IQ 1,990,10
+CVCL_0332,random,16,6,Binimetinib,989,11
+CVCL_0332,random,16,7,LJI308,993,7
+CVCL_0332,random,16,8,AZD2858,998,2
+CVCL_0332,random,16,9,Everolimus,993,7
+CVCL_0332,random,16,10,Encorafenib,993,7
+CVCL_0332,random,16,11,BI-3406,993,7
+CVCL_0332,random,16,12,AT7519,997,3
+CVCL_0332,random,16,13,Irinotecan,997,3
+CVCL_0332,random,16,14,Adagrasib,991,9
+CVCL_0332,random,16,15,APTO-253,996,4
+CVCL_0332,random,16,16,Anastrozole,996,4
+CVCL_0332,random,16,17,Bortezomib,989,11
+CVCL_0332,random,16,18,Gemcitabine,998,2
+CVCL_0332,random,16,19,Bimiralisib,992,8
+CVCL_0332,random,16,20,HI-TOPK-032,988,12
+CVCL_0332,random,17,1,Bortezomib,989,11
+CVCL_0332,random,17,2,OTS514,991,9
+CVCL_0332,random,17,3,AZD1390,990,10
+CVCL_0332,random,17,4,Adagrasib,991,9
+CVCL_0332,random,17,5,IQ 1,990,10
+CVCL_0332,random,17,6,Alpelisib,993,7
+CVCL_0332,random,17,7,NG25,988,12
+CVCL_0332,random,17,8,Ixazomib,988,12
+CVCL_0332,random,17,9,AZD2858,998,2
+CVCL_0332,random,17,10,Everolimus,993,7
+CVCL_0332,random,17,11,Capmatinib,995,5
+CVCL_0332,random,17,12,Futibatinib,993,7
+CVCL_0332,random,17,13,LJI308,993,7
+CVCL_0332,random,17,14,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,17,15,Irinotecan,997,3
+CVCL_0332,random,17,16,Oleic acid,995,5
+CVCL_0332,random,17,17,BI-78D3,992,8
+CVCL_0332,random,17,18,BI-3406,993,7
+CVCL_0332,random,17,19,Anastrozole,996,4
+CVCL_0332,random,17,20,AT7519,997,3
+CVCL_0332,random,18,1,Bortezomib,989,11
+CVCL_0332,random,18,2,Ixazomib,988,12
+CVCL_0332,random,18,3,APTO-253,996,4
+CVCL_0332,random,18,4,LJI308,993,7
+CVCL_0332,random,18,5,AZD-7648,993,7
+CVCL_0332,random,18,6,BI-3406,993,7
+CVCL_0332,random,18,7,OTS514,991,9
+CVCL_0332,random,18,8,CP21R7,997,3
+CVCL_0332,random,18,9,Irinotecan,997,3
+CVCL_0332,random,18,10,Gemcitabine,998,2
+CVCL_0332,random,18,11,Encorafenib,993,7
+CVCL_0332,random,18,12,NG25,988,12
+CVCL_0332,random,18,13,Anastrozole,996,4
+CVCL_0332,random,18,14,Oleic acid,995,5
+CVCL_0332,random,18,15,Bimiralisib,992,8
+CVCL_0332,random,18,16,Infigratinib,995,5
+CVCL_0332,random,18,17,Adagrasib,991,9
+CVCL_0332,random,18,18,Binimetinib,989,11
+CVCL_0332,random,18,19,Everolimus,993,7
+CVCL_0332,random,18,20,Alpelisib,993,7
+CVCL_0332,random,19,1,BI-78D3,992,8
+CVCL_0332,random,19,2,Bortezomib,989,11
+CVCL_0332,random,19,3,Capmatinib,995,5
+CVCL_0332,random,19,4,Infigratinib,995,5
+CVCL_0332,random,19,5,AZD2858,998,2
+CVCL_0332,random,19,6,Adagrasib,991,9
+CVCL_0332,random,19,7,Binimetinib,989,11
+CVCL_0332,random,19,8,Gemcitabine,998,2
+CVCL_0332,random,19,9,NG25,988,12
+CVCL_0332,random,19,10,LY-2584702 (tosylate salt),992,8
+CVCL_0332,random,19,11,Everolimus,993,7
+CVCL_0332,random,19,12,Ixazomib,988,12
+CVCL_0332,random,19,13,LJI308,993,7
+CVCL_0332,random,19,14,AT7519,997,3
+CVCL_0332,random,19,15,BI-3406,993,7
+CVCL_0332,random,19,16,Oleic acid,995,5
+CVCL_0332,random,19,17,AZD-7648,993,7
+CVCL_0332,random,19,18,Anastrozole,996,4
+CVCL_0332,random,19,19,IQ 1,990,10
+CVCL_0332,random,19,20,APTO-253,996,4
+CVCL_0332,trace-uncertainty,-1,1,Bortezomib,989,11
+CVCL_0332,trace-uncertainty,-1,2,HI-TOPK-032,988,12
+CVCL_0332,trace-uncertainty,-1,3,Binimetinib,989,11
+CVCL_0332,trace-uncertainty,-1,4,Alpelisib,993,7
+CVCL_0332,trace-uncertainty,-1,5,Ixazomib,988,12
+CVCL_0332,trace-uncertainty,-1,6,LJI308,993,7
+CVCL_0332,trace-uncertainty,-1,7,OTS514,991,9
+CVCL_0332,trace-uncertainty,-1,8,Futibatinib,993,7
+CVCL_0332,trace-uncertainty,-1,9,IQ 1,990,10
+CVCL_0332,trace-uncertainty,-1,10,LY-2584702 (tosylate salt),992,8
+CVCL_0332,trace-uncertainty,-1,11,NG25,988,12
+CVCL_0332,trace-uncertainty,-1,12,Adagrasib,991,9
+CVCL_0332,trace-uncertainty,-1,13,Capmatinib,995,5
+CVCL_0332,trace-uncertainty,-1,14,CP21R7,997,3
+CVCL_0332,trace-uncertainty,-1,15,BI-3406,993,7
+CVCL_0332,trace-uncertainty,-1,16,Infigratinib,995,5
+CVCL_0332,trace-uncertainty,-1,17,BI-78D3,992,8
+CVCL_0332,trace-uncertainty,-1,18,Encorafenib,993,7
+CVCL_0332,trace-uncertainty,-1,19,AZD2858,998,2
+CVCL_0332,trace-uncertainty,-1,20,Bimiralisib,992,8
+CVCL_0332,D-optimal,-1,1,Bortezomib,989,11
+CVCL_0332,D-optimal,-1,2,HI-TOPK-032,988,12
+CVCL_0332,D-optimal,-1,3,Binimetinib,989,11
+CVCL_0332,D-optimal,-1,4,Alpelisib,993,7
+CVCL_0332,D-optimal,-1,5,Ixazomib,988,12
+CVCL_0332,D-optimal,-1,6,LJI308,993,7
+CVCL_0332,D-optimal,-1,7,OTS514,991,9
+CVCL_0332,D-optimal,-1,8,Futibatinib,993,7
+CVCL_0332,D-optimal,-1,9,IQ 1,990,10
+CVCL_0332,D-optimal,-1,10,LY-2584702 (tosylate salt),992,8
+CVCL_0332,D-optimal,-1,11,NG25,988,12
+CVCL_0332,D-optimal,-1,12,Adagrasib,991,9
+CVCL_0332,D-optimal,-1,13,Capmatinib,995,5
+CVCL_0332,D-optimal,-1,14,CP21R7,997,3
+CVCL_0332,D-optimal,-1,15,BI-3406,993,7
+CVCL_0332,D-optimal,-1,16,Infigratinib,995,5
+CVCL_0332,D-optimal,-1,17,BI-78D3,992,8
+CVCL_0332,D-optimal,-1,18,Encorafenib,993,7
+CVCL_0332,D-optimal,-1,19,AZD2858,998,2
+CVCL_0332,D-optimal,-1,20,Bimiralisib,992,8
+CVCL_0332,V-optimal,-1,1,Bortezomib,989,11
+CVCL_0332,V-optimal,-1,2,HI-TOPK-032,988,12
+CVCL_0332,V-optimal,-1,3,Binimetinib,989,11
+CVCL_0332,V-optimal,-1,4,Ixazomib,988,12
+CVCL_0332,V-optimal,-1,5,Alpelisib,993,7
+CVCL_0332,V-optimal,-1,6,LJI308,993,7
+CVCL_0332,V-optimal,-1,7,OTS514,991,9
+CVCL_0332,V-optimal,-1,8,Futibatinib,993,7
+CVCL_0332,V-optimal,-1,9,IQ 1,990,10
+CVCL_0332,V-optimal,-1,10,LY-2584702 (tosylate salt),992,8
+CVCL_0332,V-optimal,-1,11,NG25,988,12
+CVCL_0332,V-optimal,-1,12,Adagrasib,991,9
+CVCL_0332,V-optimal,-1,13,Capmatinib,995,5
+CVCL_0332,V-optimal,-1,14,CP21R7,997,3
+CVCL_0332,V-optimal,-1,15,BI-3406,993,7
+CVCL_0332,V-optimal,-1,16,Infigratinib,995,5
+CVCL_0332,V-optimal,-1,17,BI-78D3,992,8
+CVCL_0332,V-optimal,-1,18,Encorafenib,993,7
+CVCL_0332,V-optimal,-1,19,AZD2858,998,2
+CVCL_0332,V-optimal,-1,20,Bimiralisib,992,8
+CVCL_0399,random,0,1,IQ 1,1000,0
+CVCL_0399,random,0,2,AZD2858,999,1
+CVCL_0399,random,0,3,Binimetinib,1000,0
+CVCL_0399,random,0,4,Everolimus,1000,0
+CVCL_0399,random,0,5,Bimiralisib,1000,0
+CVCL_0399,random,0,6,AZD-7648,1000,0
+CVCL_0399,random,0,7,Oleic acid,1000,0
+CVCL_0399,random,0,8,OTS514,1000,0
+CVCL_0399,random,0,9,Alpelisib,1000,0
+CVCL_0399,random,0,10,Infigratinib,1000,0
+CVCL_0399,random,0,11,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,0,12,AZD1390,1000,0
+CVCL_0399,random,0,13,Ixazomib,1000,0
+CVCL_0399,random,0,14,BI-3406,999,1
+CVCL_0399,random,0,15,APTO-253,1000,0
+CVCL_0399,random,0,16,Gemcitabine,1000,0
+CVCL_0399,random,0,17,Bortezomib,1000,0
+CVCL_0399,random,0,18,HI-TOPK-032,1000,0
+CVCL_0399,random,0,19,CP21R7,1000,0
+CVCL_0399,random,0,20,Anastrozole,1000,0
+CVCL_0399,random,1,1,Infigratinib,1000,0
+CVCL_0399,random,1,2,Everolimus,1000,0
+CVCL_0399,random,1,3,Anastrozole,1000,0
+CVCL_0399,random,1,4,AT7519,1000,0
+CVCL_0399,random,1,5,AZD1390,1000,0
+CVCL_0399,random,1,6,OTS514,1000,0
+CVCL_0399,random,1,7,Encorafenib,1000,0
+CVCL_0399,random,1,8,Binimetinib,1000,0
+CVCL_0399,random,1,9,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,1,10,IQ 1,1000,0
+CVCL_0399,random,1,11,LJI308,1000,0
+CVCL_0399,random,1,12,Oleic acid,1000,0
+CVCL_0399,random,1,13,NG25,1000,0
+CVCL_0399,random,1,14,Ixazomib,1000,0
+CVCL_0399,random,1,15,AZD-7648,1000,0
+CVCL_0399,random,1,16,Futibatinib,1000,0
+CVCL_0399,random,1,17,Bortezomib,1000,0
+CVCL_0399,random,1,18,Bimiralisib,1000,0
+CVCL_0399,random,1,19,AZD2858,999,1
+CVCL_0399,random,1,20,Adagrasib,999,1
+CVCL_0399,random,2,1,Everolimus,1000,0
+CVCL_0399,random,2,2,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,2,3,Bortezomib,1000,0
+CVCL_0399,random,2,4,OTS514,1000,0
+CVCL_0399,random,2,5,Bimiralisib,1000,0
+CVCL_0399,random,2,6,Anastrozole,1000,0
+CVCL_0399,random,2,7,Ixazomib,1000,0
+CVCL_0399,random,2,8,Gemcitabine,1000,0
+CVCL_0399,random,2,9,LJI308,1000,0
+CVCL_0399,random,2,10,IQ 1,1000,0
+CVCL_0399,random,2,11,Alpelisib,1000,0
+CVCL_0399,random,2,12,Oleic acid,1000,0
+CVCL_0399,random,2,13,Encorafenib,1000,0
+CVCL_0399,random,2,14,Capmatinib,1000,0
+CVCL_0399,random,2,15,Irinotecan,1000,0
+CVCL_0399,random,2,16,AZD-7648,1000,0
+CVCL_0399,random,2,17,Binimetinib,1000,0
+CVCL_0399,random,2,18,CP21R7,1000,0
+CVCL_0399,random,2,19,APTO-253,1000,0
+CVCL_0399,random,2,20,NG25,1000,0
+CVCL_0399,random,3,1,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,3,2,OTS514,1000,0
+CVCL_0399,random,3,3,Oleic acid,1000,0
+CVCL_0399,random,3,4,AZD1390,1000,0
+CVCL_0399,random,3,5,NG25,1000,0
+CVCL_0399,random,3,6,Bortezomib,1000,0
+CVCL_0399,random,3,7,IQ 1,1000,0
+CVCL_0399,random,3,8,Encorafenib,1000,0
+CVCL_0399,random,3,9,Futibatinib,1000,0
+CVCL_0399,random,3,10,Bimiralisib,1000,0
+CVCL_0399,random,3,11,APTO-253,1000,0
+CVCL_0399,random,3,12,CP21R7,1000,0
+CVCL_0399,random,3,13,Binimetinib,1000,0
+CVCL_0399,random,3,14,BI-3406,999,1
+CVCL_0399,random,3,15,BI-78D3,1000,0
+CVCL_0399,random,3,16,Gemcitabine,1000,0
+CVCL_0399,random,3,17,Alpelisib,1000,0
+CVCL_0399,random,3,18,AT7519,1000,0
+CVCL_0399,random,3,19,AZD-7648,1000,0
+CVCL_0399,random,3,20,Ixazomib,1000,0
+CVCL_0399,random,4,1,Binimetinib,1000,0
+CVCL_0399,random,4,2,Gemcitabine,1000,0
+CVCL_0399,random,4,3,APTO-253,1000,0
+CVCL_0399,random,4,4,BI-3406,999,1
+CVCL_0399,random,4,5,Anastrozole,1000,0
+CVCL_0399,random,4,6,AT7519,1000,0
+CVCL_0399,random,4,7,LJI308,1000,0
+CVCL_0399,random,4,8,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,4,9,Encorafenib,1000,0
+CVCL_0399,random,4,10,Bimiralisib,1000,0
+CVCL_0399,random,4,11,BI-78D3,1000,0
+CVCL_0399,random,4,12,IQ 1,1000,0
+CVCL_0399,random,4,13,CP21R7,1000,0
+CVCL_0399,random,4,14,Adagrasib,999,1
+CVCL_0399,random,4,15,NG25,1000,0
+CVCL_0399,random,4,16,Everolimus,1000,0
+CVCL_0399,random,4,17,Futibatinib,1000,0
+CVCL_0399,random,4,18,Ixazomib,1000,0
+CVCL_0399,random,4,19,AZD-7648,1000,0
+CVCL_0399,random,4,20,Alpelisib,1000,0
+CVCL_0399,random,5,1,Gemcitabine,1000,0
+CVCL_0399,random,5,2,BI-78D3,1000,0
+CVCL_0399,random,5,3,AZD-7648,1000,0
+CVCL_0399,random,5,4,Anastrozole,1000,0
+CVCL_0399,random,5,5,Ixazomib,1000,0
+CVCL_0399,random,5,6,NG25,1000,0
+CVCL_0399,random,5,7,Binimetinib,1000,0
+CVCL_0399,random,5,8,Alpelisib,1000,0
+CVCL_0399,random,5,9,Bortezomib,1000,0
+CVCL_0399,random,5,10,Futibatinib,1000,0
+CVCL_0399,random,5,11,AZD1390,1000,0
+CVCL_0399,random,5,12,IQ 1,1000,0
+CVCL_0399,random,5,13,Oleic acid,1000,0
+CVCL_0399,random,5,14,Everolimus,1000,0
+CVCL_0399,random,5,15,AT7519,1000,0
+CVCL_0399,random,5,16,LJI308,1000,0
+CVCL_0399,random,5,17,HI-TOPK-032,1000,0
+CVCL_0399,random,5,18,OTS514,1000,0
+CVCL_0399,random,5,19,AZD2858,999,1
+CVCL_0399,random,5,20,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,6,1,Infigratinib,1000,0
+CVCL_0399,random,6,2,AZD-7648,1000,0
+CVCL_0399,random,6,3,Ixazomib,1000,0
+CVCL_0399,random,6,4,AT7519,1000,0
+CVCL_0399,random,6,5,Gemcitabine,1000,0
+CVCL_0399,random,6,6,Capmatinib,1000,0
+CVCL_0399,random,6,7,Binimetinib,1000,0
+CVCL_0399,random,6,8,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,6,9,Irinotecan,1000,0
+CVCL_0399,random,6,10,NG25,1000,0
+CVCL_0399,random,6,11,OTS514,1000,0
+CVCL_0399,random,6,12,AZD2858,999,1
+CVCL_0399,random,6,13,LJI308,1000,0
+CVCL_0399,random,6,14,BI-3406,999,1
+CVCL_0399,random,6,15,Alpelisib,1000,0
+CVCL_0399,random,6,16,Everolimus,1000,0
+CVCL_0399,random,6,17,Oleic acid,1000,0
+CVCL_0399,random,6,18,IQ 1,1000,0
+CVCL_0399,random,6,19,Bimiralisib,1000,0
+CVCL_0399,random,6,20,BI-78D3,1000,0
+CVCL_0399,random,7,1,Gemcitabine,1000,0
+CVCL_0399,random,7,2,HI-TOPK-032,1000,0
+CVCL_0399,random,7,3,Capmatinib,1000,0
+CVCL_0399,random,7,4,AZD2858,999,1
+CVCL_0399,random,7,5,CP21R7,1000,0
+CVCL_0399,random,7,6,NG25,1000,0
+CVCL_0399,random,7,7,Ixazomib,1000,0
+CVCL_0399,random,7,8,AZD1390,1000,0
+CVCL_0399,random,7,9,OTS514,1000,0
+CVCL_0399,random,7,10,Futibatinib,1000,0
+CVCL_0399,random,7,11,Bortezomib,1000,0
+CVCL_0399,random,7,12,APTO-253,1000,0
+CVCL_0399,random,7,13,LJI308,1000,0
+CVCL_0399,random,7,14,Irinotecan,1000,0
+CVCL_0399,random,7,15,Bimiralisib,1000,0
+CVCL_0399,random,7,16,BI-3406,999,1
+CVCL_0399,random,7,17,Anastrozole,1000,0
+CVCL_0399,random,7,18,AT7519,1000,0
+CVCL_0399,random,7,19,Encorafenib,1000,0
+CVCL_0399,random,7,20,Alpelisib,1000,0
+CVCL_0399,random,8,1,Encorafenib,1000,0
+CVCL_0399,random,8,2,HI-TOPK-032,1000,0
+CVCL_0399,random,8,3,BI-3406,999,1
+CVCL_0399,random,8,4,OTS514,1000,0
+CVCL_0399,random,8,5,CP21R7,1000,0
+CVCL_0399,random,8,6,Everolimus,1000,0
+CVCL_0399,random,8,7,Capmatinib,1000,0
+CVCL_0399,random,8,8,NG25,1000,0
+CVCL_0399,random,8,9,Bimiralisib,1000,0
+CVCL_0399,random,8,10,Binimetinib,1000,0
+CVCL_0399,random,8,11,APTO-253,1000,0
+CVCL_0399,random,8,12,Infigratinib,1000,0
+CVCL_0399,random,8,13,Futibatinib,1000,0
+CVCL_0399,random,8,14,Anastrozole,1000,0
+CVCL_0399,random,8,15,AZD1390,1000,0
+CVCL_0399,random,8,16,LJI308,1000,0
+CVCL_0399,random,8,17,BI-78D3,1000,0
+CVCL_0399,random,8,18,AZD2858,999,1
+CVCL_0399,random,8,19,Irinotecan,1000,0
+CVCL_0399,random,8,20,Ixazomib,1000,0
+CVCL_0399,random,9,1,Encorafenib,1000,0
+CVCL_0399,random,9,2,BI-78D3,1000,0
+CVCL_0399,random,9,3,AZD-7648,1000,0
+CVCL_0399,random,9,4,Ixazomib,1000,0
+CVCL_0399,random,9,5,Capmatinib,1000,0
+CVCL_0399,random,9,6,Irinotecan,1000,0
+CVCL_0399,random,9,7,Alpelisib,1000,0
+CVCL_0399,random,9,8,AZD1390,1000,0
+CVCL_0399,random,9,9,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,9,10,Anastrozole,1000,0
+CVCL_0399,random,9,11,CP21R7,1000,0
+CVCL_0399,random,9,12,IQ 1,1000,0
+CVCL_0399,random,9,13,HI-TOPK-032,1000,0
+CVCL_0399,random,9,14,Everolimus,1000,0
+CVCL_0399,random,9,15,NG25,1000,0
+CVCL_0399,random,9,16,Futibatinib,1000,0
+CVCL_0399,random,9,17,Gemcitabine,1000,0
+CVCL_0399,random,9,18,Infigratinib,1000,0
+CVCL_0399,random,9,19,Bimiralisib,1000,0
+CVCL_0399,random,9,20,BI-3406,999,1
+CVCL_0399,random,10,1,Futibatinib,1000,0
+CVCL_0399,random,10,2,BI-78D3,1000,0
+CVCL_0399,random,10,3,Adagrasib,999,1
+CVCL_0399,random,10,4,Anastrozole,1000,0
+CVCL_0399,random,10,5,NG25,1000,0
+CVCL_0399,random,10,6,Encorafenib,1000,0
+CVCL_0399,random,10,7,OTS514,1000,0
+CVCL_0399,random,10,8,IQ 1,1000,0
+CVCL_0399,random,10,9,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,10,10,Gemcitabine,1000,0
+CVCL_0399,random,10,11,Alpelisib,1000,0
+CVCL_0399,random,10,12,AT7519,1000,0
+CVCL_0399,random,10,13,AZD2858,999,1
+CVCL_0399,random,10,14,Oleic acid,1000,0
+CVCL_0399,random,10,15,Binimetinib,1000,0
+CVCL_0399,random,10,16,AZD1390,1000,0
+CVCL_0399,random,10,17,Bimiralisib,1000,0
+CVCL_0399,random,10,18,HI-TOPK-032,1000,0
+CVCL_0399,random,10,19,Capmatinib,1000,0
+CVCL_0399,random,10,20,Everolimus,1000,0
+CVCL_0399,random,11,1,AZD2858,999,1
+CVCL_0399,random,11,2,Binimetinib,1000,0
+CVCL_0399,random,11,3,Adagrasib,999,1
+CVCL_0399,random,11,4,Encorafenib,1000,0
+CVCL_0399,random,11,5,Irinotecan,1000,0
+CVCL_0399,random,11,6,Alpelisib,1000,0
+CVCL_0399,random,11,7,APTO-253,1000,0
+CVCL_0399,random,11,8,Infigratinib,1000,0
+CVCL_0399,random,11,9,BI-78D3,1000,0
+CVCL_0399,random,11,10,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,11,11,AZD-7648,1000,0
+CVCL_0399,random,11,12,AT7519,1000,0
+CVCL_0399,random,11,13,Oleic acid,1000,0
+CVCL_0399,random,11,14,BI-3406,999,1
+CVCL_0399,random,11,15,NG25,1000,0
+CVCL_0399,random,11,16,Gemcitabine,1000,0
+CVCL_0399,random,11,17,AZD1390,1000,0
+CVCL_0399,random,11,18,Ixazomib,1000,0
+CVCL_0399,random,11,19,Futibatinib,1000,0
+CVCL_0399,random,11,20,Bortezomib,1000,0
+CVCL_0399,random,12,1,NG25,1000,0
+CVCL_0399,random,12,2,AZD1390,1000,0
+CVCL_0399,random,12,3,Adagrasib,999,1
+CVCL_0399,random,12,4,Encorafenib,1000,0
+CVCL_0399,random,12,5,AT7519,1000,0
+CVCL_0399,random,12,6,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,12,7,BI-78D3,1000,0
+CVCL_0399,random,12,8,Bortezomib,1000,0
+CVCL_0399,random,12,9,Binimetinib,1000,0
+CVCL_0399,random,12,10,Anastrozole,1000,0
+CVCL_0399,random,12,11,AZD2858,999,1
+CVCL_0399,random,12,12,Capmatinib,1000,0
+CVCL_0399,random,12,13,CP21R7,1000,0
+CVCL_0399,random,12,14,IQ 1,1000,0
+CVCL_0399,random,12,15,Ixazomib,1000,0
+CVCL_0399,random,12,16,AZD-7648,1000,0
+CVCL_0399,random,12,17,OTS514,1000,0
+CVCL_0399,random,12,18,Irinotecan,1000,0
+CVCL_0399,random,12,19,Alpelisib,1000,0
+CVCL_0399,random,12,20,Futibatinib,1000,0
+CVCL_0399,random,13,1,AT7519,1000,0
+CVCL_0399,random,13,2,AZD1390,1000,0
+CVCL_0399,random,13,3,Capmatinib,1000,0
+CVCL_0399,random,13,4,APTO-253,1000,0
+CVCL_0399,random,13,5,Everolimus,1000,0
+CVCL_0399,random,13,6,Bortezomib,1000,0
+CVCL_0399,random,13,7,Ixazomib,1000,0
+CVCL_0399,random,13,8,Alpelisib,1000,0
+CVCL_0399,random,13,9,IQ 1,1000,0
+CVCL_0399,random,13,10,AZD-7648,1000,0
+CVCL_0399,random,13,11,Irinotecan,1000,0
+CVCL_0399,random,13,12,Futibatinib,1000,0
+CVCL_0399,random,13,13,Bimiralisib,1000,0
+CVCL_0399,random,13,14,CP21R7,1000,0
+CVCL_0399,random,13,15,Adagrasib,999,1
+CVCL_0399,random,13,16,Encorafenib,1000,0
+CVCL_0399,random,13,17,AZD2858,999,1
+CVCL_0399,random,13,18,NG25,1000,0
+CVCL_0399,random,13,19,Gemcitabine,1000,0
+CVCL_0399,random,13,20,BI-3406,999,1
+CVCL_0399,random,14,1,Capmatinib,1000,0
+CVCL_0399,random,14,2,AZD2858,999,1
+CVCL_0399,random,14,3,IQ 1,1000,0
+CVCL_0399,random,14,4,NG25,1000,0
+CVCL_0399,random,14,5,Anastrozole,1000,0
+CVCL_0399,random,14,6,Adagrasib,999,1
+CVCL_0399,random,14,7,Bortezomib,1000,0
+CVCL_0399,random,14,8,CP21R7,1000,0
+CVCL_0399,random,14,9,Oleic acid,1000,0
+CVCL_0399,random,14,10,Infigratinib,1000,0
+CVCL_0399,random,14,11,Irinotecan,1000,0
+CVCL_0399,random,14,12,Gemcitabine,1000,0
+CVCL_0399,random,14,13,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,14,14,Encorafenib,1000,0
+CVCL_0399,random,14,15,BI-78D3,1000,0
+CVCL_0399,random,14,16,LJI308,1000,0
+CVCL_0399,random,14,17,Ixazomib,1000,0
+CVCL_0399,random,14,18,OTS514,1000,0
+CVCL_0399,random,14,19,Bimiralisib,1000,0
+CVCL_0399,random,14,20,HI-TOPK-032,1000,0
+CVCL_0399,random,15,1,Alpelisib,1000,0
+CVCL_0399,random,15,2,APTO-253,1000,0
+CVCL_0399,random,15,3,Encorafenib,1000,0
+CVCL_0399,random,15,4,HI-TOPK-032,1000,0
+CVCL_0399,random,15,5,Binimetinib,1000,0
+CVCL_0399,random,15,6,Ixazomib,1000,0
+CVCL_0399,random,15,7,Everolimus,1000,0
+CVCL_0399,random,15,8,Irinotecan,1000,0
+CVCL_0399,random,15,9,Capmatinib,1000,0
+CVCL_0399,random,15,10,Infigratinib,1000,0
+CVCL_0399,random,15,11,Oleic acid,1000,0
+CVCL_0399,random,15,12,BI-78D3,1000,0
+CVCL_0399,random,15,13,AZD1390,1000,0
+CVCL_0399,random,15,14,BI-3406,999,1
+CVCL_0399,random,15,15,CP21R7,1000,0
+CVCL_0399,random,15,16,Anastrozole,1000,0
+CVCL_0399,random,15,17,Gemcitabine,1000,0
+CVCL_0399,random,15,18,LJI308,1000,0
+CVCL_0399,random,15,19,Bimiralisib,1000,0
+CVCL_0399,random,15,20,NG25,1000,0
+CVCL_0399,random,16,1,Infigratinib,1000,0
+CVCL_0399,random,16,2,Ixazomib,1000,0
+CVCL_0399,random,16,3,Alpelisib,1000,0
+CVCL_0399,random,16,4,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,16,5,IQ 1,1000,0
+CVCL_0399,random,16,6,Binimetinib,1000,0
+CVCL_0399,random,16,7,LJI308,1000,0
+CVCL_0399,random,16,8,AZD2858,999,1
+CVCL_0399,random,16,9,Everolimus,1000,0
+CVCL_0399,random,16,10,Encorafenib,1000,0
+CVCL_0399,random,16,11,BI-3406,999,1
+CVCL_0399,random,16,12,AT7519,1000,0
+CVCL_0399,random,16,13,Irinotecan,1000,0
+CVCL_0399,random,16,14,Adagrasib,999,1
+CVCL_0399,random,16,15,APTO-253,1000,0
+CVCL_0399,random,16,16,Anastrozole,1000,0
+CVCL_0399,random,16,17,Bortezomib,1000,0
+CVCL_0399,random,16,18,Gemcitabine,1000,0
+CVCL_0399,random,16,19,Bimiralisib,1000,0
+CVCL_0399,random,16,20,HI-TOPK-032,1000,0
+CVCL_0399,random,17,1,Bortezomib,1000,0
+CVCL_0399,random,17,2,OTS514,1000,0
+CVCL_0399,random,17,3,AZD1390,1000,0
+CVCL_0399,random,17,4,Adagrasib,999,1
+CVCL_0399,random,17,5,IQ 1,1000,0
+CVCL_0399,random,17,6,Alpelisib,1000,0
+CVCL_0399,random,17,7,NG25,1000,0
+CVCL_0399,random,17,8,Ixazomib,1000,0
+CVCL_0399,random,17,9,AZD2858,999,1
+CVCL_0399,random,17,10,Everolimus,1000,0
+CVCL_0399,random,17,11,Capmatinib,1000,0
+CVCL_0399,random,17,12,Futibatinib,1000,0
+CVCL_0399,random,17,13,LJI308,1000,0
+CVCL_0399,random,17,14,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,17,15,Irinotecan,1000,0
+CVCL_0399,random,17,16,Oleic acid,1000,0
+CVCL_0399,random,17,17,BI-78D3,1000,0
+CVCL_0399,random,17,18,BI-3406,999,1
+CVCL_0399,random,17,19,Anastrozole,1000,0
+CVCL_0399,random,17,20,AT7519,1000,0
+CVCL_0399,random,18,1,Bortezomib,1000,0
+CVCL_0399,random,18,2,Ixazomib,1000,0
+CVCL_0399,random,18,3,APTO-253,1000,0
+CVCL_0399,random,18,4,LJI308,1000,0
+CVCL_0399,random,18,5,AZD-7648,1000,0
+CVCL_0399,random,18,6,BI-3406,999,1
+CVCL_0399,random,18,7,OTS514,1000,0
+CVCL_0399,random,18,8,CP21R7,1000,0
+CVCL_0399,random,18,9,Irinotecan,1000,0
+CVCL_0399,random,18,10,Gemcitabine,1000,0
+CVCL_0399,random,18,11,Encorafenib,1000,0
+CVCL_0399,random,18,12,NG25,1000,0
+CVCL_0399,random,18,13,Anastrozole,1000,0
+CVCL_0399,random,18,14,Oleic acid,1000,0
+CVCL_0399,random,18,15,Bimiralisib,1000,0
+CVCL_0399,random,18,16,Infigratinib,1000,0
+CVCL_0399,random,18,17,Adagrasib,999,1
+CVCL_0399,random,18,18,Binimetinib,1000,0
+CVCL_0399,random,18,19,Everolimus,1000,0
+CVCL_0399,random,18,20,Alpelisib,1000,0
+CVCL_0399,random,19,1,BI-78D3,1000,0
+CVCL_0399,random,19,2,Bortezomib,1000,0
+CVCL_0399,random,19,3,Capmatinib,1000,0
+CVCL_0399,random,19,4,Infigratinib,1000,0
+CVCL_0399,random,19,5,AZD2858,999,1
+CVCL_0399,random,19,6,Adagrasib,999,1
+CVCL_0399,random,19,7,Binimetinib,1000,0
+CVCL_0399,random,19,8,Gemcitabine,1000,0
+CVCL_0399,random,19,9,NG25,1000,0
+CVCL_0399,random,19,10,LY-2584702 (tosylate salt),997,3
+CVCL_0399,random,19,11,Everolimus,1000,0
+CVCL_0399,random,19,12,Ixazomib,1000,0
+CVCL_0399,random,19,13,LJI308,1000,0
+CVCL_0399,random,19,14,AT7519,1000,0
+CVCL_0399,random,19,15,BI-3406,999,1
+CVCL_0399,random,19,16,Oleic acid,1000,0
+CVCL_0399,random,19,17,AZD-7648,1000,0
+CVCL_0399,random,19,18,Anastrozole,1000,0
+CVCL_0399,random,19,19,IQ 1,1000,0
+CVCL_0399,random,19,20,APTO-253,1000,0
+CVCL_0399,trace-uncertainty,-1,1,Bortezomib,1000,0
+CVCL_0399,trace-uncertainty,-1,2,Ixazomib,1000,0
+CVCL_0399,trace-uncertainty,-1,3,HI-TOPK-032,1000,0
+CVCL_0399,trace-uncertainty,-1,4,Alpelisib,1000,0
+CVCL_0399,trace-uncertainty,-1,5,Binimetinib,1000,0
+CVCL_0399,trace-uncertainty,-1,6,LJI308,1000,0
+CVCL_0399,trace-uncertainty,-1,7,Futibatinib,1000,0
+CVCL_0399,trace-uncertainty,-1,8,OTS514,1000,0
+CVCL_0399,trace-uncertainty,-1,9,NG25,1000,0
+CVCL_0399,trace-uncertainty,-1,10,LY-2584702 (tosylate salt),997,3
+CVCL_0399,trace-uncertainty,-1,11,Capmatinib,1000,0
+CVCL_0399,trace-uncertainty,-1,12,Adagrasib,999,1
+CVCL_0399,trace-uncertainty,-1,13,IQ 1,1000,0
+CVCL_0399,trace-uncertainty,-1,14,BI-78D3,1000,0
+CVCL_0399,trace-uncertainty,-1,15,CP21R7,1000,0
+CVCL_0399,trace-uncertainty,-1,16,Infigratinib,1000,0
+CVCL_0399,trace-uncertainty,-1,17,BI-3406,999,1
+CVCL_0399,trace-uncertainty,-1,18,Encorafenib,1000,0
+CVCL_0399,trace-uncertainty,-1,19,AZD2858,999,1
+CVCL_0399,trace-uncertainty,-1,20,AT7519,1000,0
+CVCL_0399,D-optimal,-1,1,Bortezomib,1000,0
+CVCL_0399,D-optimal,-1,2,Ixazomib,1000,0
+CVCL_0399,D-optimal,-1,3,HI-TOPK-032,1000,0
+CVCL_0399,D-optimal,-1,4,Alpelisib,1000,0
+CVCL_0399,D-optimal,-1,5,Binimetinib,1000,0
+CVCL_0399,D-optimal,-1,6,LJI308,1000,0
+CVCL_0399,D-optimal,-1,7,Futibatinib,1000,0
+CVCL_0399,D-optimal,-1,8,OTS514,1000,0
+CVCL_0399,D-optimal,-1,9,NG25,1000,0
+CVCL_0399,D-optimal,-1,10,LY-2584702 (tosylate salt),997,3
+CVCL_0399,D-optimal,-1,11,Capmatinib,1000,0
+CVCL_0399,D-optimal,-1,12,Adagrasib,999,1
+CVCL_0399,D-optimal,-1,13,IQ 1,1000,0
+CVCL_0399,D-optimal,-1,14,BI-78D3,1000,0
+CVCL_0399,D-optimal,-1,15,CP21R7,1000,0
+CVCL_0399,D-optimal,-1,16,Infigratinib,1000,0
+CVCL_0399,D-optimal,-1,17,BI-3406,999,1
+CVCL_0399,D-optimal,-1,18,Encorafenib,1000,0
+CVCL_0399,D-optimal,-1,19,AZD2858,999,1
+CVCL_0399,D-optimal,-1,20,AT7519,1000,0
+CVCL_0399,V-optimal,-1,1,Bortezomib,1000,0
+CVCL_0399,V-optimal,-1,2,Ixazomib,1000,0
+CVCL_0399,V-optimal,-1,3,HI-TOPK-032,1000,0
+CVCL_0399,V-optimal,-1,4,Alpelisib,1000,0
+CVCL_0399,V-optimal,-1,5,Binimetinib,1000,0
+CVCL_0399,V-optimal,-1,6,LJI308,1000,0
+CVCL_0399,V-optimal,-1,7,Futibatinib,1000,0
+CVCL_0399,V-optimal,-1,8,OTS514,1000,0
+CVCL_0399,V-optimal,-1,9,NG25,1000,0
+CVCL_0399,V-optimal,-1,10,Capmatinib,1000,0
+CVCL_0399,V-optimal,-1,11,LY-2584702 (tosylate salt),997,3
+CVCL_0399,V-optimal,-1,12,Adagrasib,999,1
+CVCL_0399,V-optimal,-1,13,IQ 1,1000,0
+CVCL_0399,V-optimal,-1,14,BI-78D3,1000,0
+CVCL_0399,V-optimal,-1,15,CP21R7,1000,0
+CVCL_0399,V-optimal,-1,16,Infigratinib,1000,0
+CVCL_0399,V-optimal,-1,17,BI-3406,999,1
+CVCL_0399,V-optimal,-1,18,Encorafenib,1000,0
+CVCL_0399,V-optimal,-1,19,AZD2858,999,1
+CVCL_0399,V-optimal,-1,20,AT7519,1000,0
+CVCL_0504,random,0,1,IQ 1,990,10
+CVCL_0504,random,0,2,AZD2858,993,7
+CVCL_0504,random,0,3,Binimetinib,989,11
+CVCL_0504,random,0,4,Everolimus,997,3
+CVCL_0504,random,0,5,Bimiralisib,990,10
+CVCL_0504,random,0,6,AZD-7648,993,7
+CVCL_0504,random,0,7,Oleic acid,992,8
+CVCL_0504,random,0,8,OTS514,992,8
+CVCL_0504,random,0,9,Alpelisib,986,14
+CVCL_0504,random,0,10,Infigratinib,995,5
+CVCL_0504,random,0,11,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,0,12,AZD1390,990,10
+CVCL_0504,random,0,13,Ixazomib,984,16
+CVCL_0504,random,0,14,BI-3406,990,10
+CVCL_0504,random,0,15,APTO-253,995,5
+CVCL_0504,random,0,16,Gemcitabine,997,3
+CVCL_0504,random,0,17,Bortezomib,991,9
+CVCL_0504,random,0,18,HI-TOPK-032,983,17
+CVCL_0504,random,0,19,CP21R7,996,4
+CVCL_0504,random,0,20,Anastrozole,991,9
+CVCL_0504,random,1,1,Infigratinib,995,5
+CVCL_0504,random,1,2,Everolimus,997,3
+CVCL_0504,random,1,3,Anastrozole,991,9
+CVCL_0504,random,1,4,AT7519,991,9
+CVCL_0504,random,1,5,AZD1390,990,10
+CVCL_0504,random,1,6,OTS514,992,8
+CVCL_0504,random,1,7,Encorafenib,988,12
+CVCL_0504,random,1,8,Binimetinib,989,11
+CVCL_0504,random,1,9,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,1,10,IQ 1,990,10
+CVCL_0504,random,1,11,LJI308,989,11
+CVCL_0504,random,1,12,Oleic acid,992,8
+CVCL_0504,random,1,13,NG25,991,9
+CVCL_0504,random,1,14,Ixazomib,984,16
+CVCL_0504,random,1,15,AZD-7648,993,7
+CVCL_0504,random,1,16,Futibatinib,984,16
+CVCL_0504,random,1,17,Bortezomib,991,9
+CVCL_0504,random,1,18,Bimiralisib,990,10
+CVCL_0504,random,1,19,AZD2858,993,7
+CVCL_0504,random,1,20,Adagrasib,988,12
+CVCL_0504,random,2,1,Everolimus,997,3
+CVCL_0504,random,2,2,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,2,3,Bortezomib,991,9
+CVCL_0504,random,2,4,OTS514,992,8
+CVCL_0504,random,2,5,Bimiralisib,990,10
+CVCL_0504,random,2,6,Anastrozole,991,9
+CVCL_0504,random,2,7,Ixazomib,984,16
+CVCL_0504,random,2,8,Gemcitabine,997,3
+CVCL_0504,random,2,9,LJI308,989,11
+CVCL_0504,random,2,10,IQ 1,990,10
+CVCL_0504,random,2,11,Alpelisib,986,14
+CVCL_0504,random,2,12,Oleic acid,992,8
+CVCL_0504,random,2,13,Encorafenib,988,12
+CVCL_0504,random,2,14,Capmatinib,988,12
+CVCL_0504,random,2,15,Irinotecan,995,5
+CVCL_0504,random,2,16,AZD-7648,993,7
+CVCL_0504,random,2,17,Binimetinib,989,11
+CVCL_0504,random,2,18,CP21R7,996,4
+CVCL_0504,random,2,19,APTO-253,995,5
+CVCL_0504,random,2,20,NG25,991,9
+CVCL_0504,random,3,1,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,3,2,OTS514,992,8
+CVCL_0504,random,3,3,Oleic acid,992,8
+CVCL_0504,random,3,4,AZD1390,990,10
+CVCL_0504,random,3,5,NG25,991,9
+CVCL_0504,random,3,6,Bortezomib,991,9
+CVCL_0504,random,3,7,IQ 1,990,10
+CVCL_0504,random,3,8,Encorafenib,988,12
+CVCL_0504,random,3,9,Futibatinib,984,16
+CVCL_0504,random,3,10,Bimiralisib,990,10
+CVCL_0504,random,3,11,APTO-253,995,5
+CVCL_0504,random,3,12,CP21R7,996,4
+CVCL_0504,random,3,13,Binimetinib,989,11
+CVCL_0504,random,3,14,BI-3406,990,10
+CVCL_0504,random,3,15,BI-78D3,989,11
+CVCL_0504,random,3,16,Gemcitabine,997,3
+CVCL_0504,random,3,17,Alpelisib,986,14
+CVCL_0504,random,3,18,AT7519,991,9
+CVCL_0504,random,3,19,AZD-7648,993,7
+CVCL_0504,random,3,20,Ixazomib,984,16
+CVCL_0504,random,4,1,Binimetinib,989,11
+CVCL_0504,random,4,2,Gemcitabine,997,3
+CVCL_0504,random,4,3,APTO-253,995,5
+CVCL_0504,random,4,4,BI-3406,990,10
+CVCL_0504,random,4,5,Anastrozole,991,9
+CVCL_0504,random,4,6,AT7519,991,9
+CVCL_0504,random,4,7,LJI308,989,11
+CVCL_0504,random,4,8,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,4,9,Encorafenib,988,12
+CVCL_0504,random,4,10,Bimiralisib,990,10
+CVCL_0504,random,4,11,BI-78D3,989,11
+CVCL_0504,random,4,12,IQ 1,990,10
+CVCL_0504,random,4,13,CP21R7,996,4
+CVCL_0504,random,4,14,Adagrasib,988,12
+CVCL_0504,random,4,15,NG25,991,9
+CVCL_0504,random,4,16,Everolimus,997,3
+CVCL_0504,random,4,17,Futibatinib,984,16
+CVCL_0504,random,4,18,Ixazomib,984,16
+CVCL_0504,random,4,19,AZD-7648,993,7
+CVCL_0504,random,4,20,Alpelisib,986,14
+CVCL_0504,random,5,1,Gemcitabine,997,3
+CVCL_0504,random,5,2,BI-78D3,989,11
+CVCL_0504,random,5,3,AZD-7648,993,7
+CVCL_0504,random,5,4,Anastrozole,991,9
+CVCL_0504,random,5,5,Ixazomib,984,16
+CVCL_0504,random,5,6,NG25,991,9
+CVCL_0504,random,5,7,Binimetinib,989,11
+CVCL_0504,random,5,8,Alpelisib,986,14
+CVCL_0504,random,5,9,Bortezomib,991,9
+CVCL_0504,random,5,10,Futibatinib,984,16
+CVCL_0504,random,5,11,AZD1390,990,10
+CVCL_0504,random,5,12,IQ 1,990,10
+CVCL_0504,random,5,13,Oleic acid,992,8
+CVCL_0504,random,5,14,Everolimus,997,3
+CVCL_0504,random,5,15,AT7519,991,9
+CVCL_0504,random,5,16,LJI308,989,11
+CVCL_0504,random,5,17,HI-TOPK-032,983,17
+CVCL_0504,random,5,18,OTS514,992,8
+CVCL_0504,random,5,19,AZD2858,993,7
+CVCL_0504,random,5,20,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,6,1,Infigratinib,995,5
+CVCL_0504,random,6,2,AZD-7648,993,7
+CVCL_0504,random,6,3,Ixazomib,984,16
+CVCL_0504,random,6,4,AT7519,991,9
+CVCL_0504,random,6,5,Gemcitabine,997,3
+CVCL_0504,random,6,6,Capmatinib,988,12
+CVCL_0504,random,6,7,Binimetinib,989,11
+CVCL_0504,random,6,8,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,6,9,Irinotecan,995,5
+CVCL_0504,random,6,10,NG25,991,9
+CVCL_0504,random,6,11,OTS514,992,8
+CVCL_0504,random,6,12,AZD2858,993,7
+CVCL_0504,random,6,13,LJI308,989,11
+CVCL_0504,random,6,14,BI-3406,990,10
+CVCL_0504,random,6,15,Alpelisib,986,14
+CVCL_0504,random,6,16,Everolimus,997,3
+CVCL_0504,random,6,17,Oleic acid,992,8
+CVCL_0504,random,6,18,IQ 1,990,10
+CVCL_0504,random,6,19,Bimiralisib,990,10
+CVCL_0504,random,6,20,BI-78D3,989,11
+CVCL_0504,random,7,1,Gemcitabine,997,3
+CVCL_0504,random,7,2,HI-TOPK-032,983,17
+CVCL_0504,random,7,3,Capmatinib,988,12
+CVCL_0504,random,7,4,AZD2858,993,7
+CVCL_0504,random,7,5,CP21R7,996,4
+CVCL_0504,random,7,6,NG25,991,9
+CVCL_0504,random,7,7,Ixazomib,984,16
+CVCL_0504,random,7,8,AZD1390,990,10
+CVCL_0504,random,7,9,OTS514,992,8
+CVCL_0504,random,7,10,Futibatinib,984,16
+CVCL_0504,random,7,11,Bortezomib,991,9
+CVCL_0504,random,7,12,APTO-253,995,5
+CVCL_0504,random,7,13,LJI308,989,11
+CVCL_0504,random,7,14,Irinotecan,995,5
+CVCL_0504,random,7,15,Bimiralisib,990,10
+CVCL_0504,random,7,16,BI-3406,990,10
+CVCL_0504,random,7,17,Anastrozole,991,9
+CVCL_0504,random,7,18,AT7519,991,9
+CVCL_0504,random,7,19,Encorafenib,988,12
+CVCL_0504,random,7,20,Alpelisib,986,14
+CVCL_0504,random,8,1,Encorafenib,988,12
+CVCL_0504,random,8,2,HI-TOPK-032,983,17
+CVCL_0504,random,8,3,BI-3406,990,10
+CVCL_0504,random,8,4,OTS514,992,8
+CVCL_0504,random,8,5,CP21R7,996,4
+CVCL_0504,random,8,6,Everolimus,997,3
+CVCL_0504,random,8,7,Capmatinib,988,12
+CVCL_0504,random,8,8,NG25,991,9
+CVCL_0504,random,8,9,Bimiralisib,990,10
+CVCL_0504,random,8,10,Binimetinib,989,11
+CVCL_0504,random,8,11,APTO-253,995,5
+CVCL_0504,random,8,12,Infigratinib,995,5
+CVCL_0504,random,8,13,Futibatinib,984,16
+CVCL_0504,random,8,14,Anastrozole,991,9
+CVCL_0504,random,8,15,AZD1390,990,10
+CVCL_0504,random,8,16,LJI308,989,11
+CVCL_0504,random,8,17,BI-78D3,989,11
+CVCL_0504,random,8,18,AZD2858,993,7
+CVCL_0504,random,8,19,Irinotecan,995,5
+CVCL_0504,random,8,20,Ixazomib,984,16
+CVCL_0504,random,9,1,Encorafenib,988,12
+CVCL_0504,random,9,2,BI-78D3,989,11
+CVCL_0504,random,9,3,AZD-7648,993,7
+CVCL_0504,random,9,4,Ixazomib,984,16
+CVCL_0504,random,9,5,Capmatinib,988,12
+CVCL_0504,random,9,6,Irinotecan,995,5
+CVCL_0504,random,9,7,Alpelisib,986,14
+CVCL_0504,random,9,8,AZD1390,990,10
+CVCL_0504,random,9,9,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,9,10,Anastrozole,991,9
+CVCL_0504,random,9,11,CP21R7,996,4
+CVCL_0504,random,9,12,IQ 1,990,10
+CVCL_0504,random,9,13,HI-TOPK-032,983,17
+CVCL_0504,random,9,14,Everolimus,997,3
+CVCL_0504,random,9,15,NG25,991,9
+CVCL_0504,random,9,16,Futibatinib,984,16
+CVCL_0504,random,9,17,Gemcitabine,997,3
+CVCL_0504,random,9,18,Infigratinib,995,5
+CVCL_0504,random,9,19,Bimiralisib,990,10
+CVCL_0504,random,9,20,BI-3406,990,10
+CVCL_0504,random,10,1,Futibatinib,984,16
+CVCL_0504,random,10,2,BI-78D3,989,11
+CVCL_0504,random,10,3,Adagrasib,988,12
+CVCL_0504,random,10,4,Anastrozole,991,9
+CVCL_0504,random,10,5,NG25,991,9
+CVCL_0504,random,10,6,Encorafenib,988,12
+CVCL_0504,random,10,7,OTS514,992,8
+CVCL_0504,random,10,8,IQ 1,990,10
+CVCL_0504,random,10,9,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,10,10,Gemcitabine,997,3
+CVCL_0504,random,10,11,Alpelisib,986,14
+CVCL_0504,random,10,12,AT7519,991,9
+CVCL_0504,random,10,13,AZD2858,993,7
+CVCL_0504,random,10,14,Oleic acid,992,8
+CVCL_0504,random,10,15,Binimetinib,989,11
+CVCL_0504,random,10,16,AZD1390,990,10
+CVCL_0504,random,10,17,Bimiralisib,990,10
+CVCL_0504,random,10,18,HI-TOPK-032,983,17
+CVCL_0504,random,10,19,Capmatinib,988,12
+CVCL_0504,random,10,20,Everolimus,997,3
+CVCL_0504,random,11,1,AZD2858,993,7
+CVCL_0504,random,11,2,Binimetinib,989,11
+CVCL_0504,random,11,3,Adagrasib,988,12
+CVCL_0504,random,11,4,Encorafenib,988,12
+CVCL_0504,random,11,5,Irinotecan,995,5
+CVCL_0504,random,11,6,Alpelisib,986,14
+CVCL_0504,random,11,7,APTO-253,995,5
+CVCL_0504,random,11,8,Infigratinib,995,5
+CVCL_0504,random,11,9,BI-78D3,989,11
+CVCL_0504,random,11,10,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,11,11,AZD-7648,993,7
+CVCL_0504,random,11,12,AT7519,991,9
+CVCL_0504,random,11,13,Oleic acid,992,8
+CVCL_0504,random,11,14,BI-3406,990,10
+CVCL_0504,random,11,15,NG25,991,9
+CVCL_0504,random,11,16,Gemcitabine,997,3
+CVCL_0504,random,11,17,AZD1390,990,10
+CVCL_0504,random,11,18,Ixazomib,984,16
+CVCL_0504,random,11,19,Futibatinib,984,16
+CVCL_0504,random,11,20,Bortezomib,991,9
+CVCL_0504,random,12,1,NG25,991,9
+CVCL_0504,random,12,2,AZD1390,990,10
+CVCL_0504,random,12,3,Adagrasib,988,12
+CVCL_0504,random,12,4,Encorafenib,988,12
+CVCL_0504,random,12,5,AT7519,991,9
+CVCL_0504,random,12,6,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,12,7,BI-78D3,989,11
+CVCL_0504,random,12,8,Bortezomib,991,9
+CVCL_0504,random,12,9,Binimetinib,989,11
+CVCL_0504,random,12,10,Anastrozole,991,9
+CVCL_0504,random,12,11,AZD2858,993,7
+CVCL_0504,random,12,12,Capmatinib,988,12
+CVCL_0504,random,12,13,CP21R7,996,4
+CVCL_0504,random,12,14,IQ 1,990,10
+CVCL_0504,random,12,15,Ixazomib,984,16
+CVCL_0504,random,12,16,AZD-7648,993,7
+CVCL_0504,random,12,17,OTS514,992,8
+CVCL_0504,random,12,18,Irinotecan,995,5
+CVCL_0504,random,12,19,Alpelisib,986,14
+CVCL_0504,random,12,20,Futibatinib,984,16
+CVCL_0504,random,13,1,AT7519,991,9
+CVCL_0504,random,13,2,AZD1390,990,10
+CVCL_0504,random,13,3,Capmatinib,988,12
+CVCL_0504,random,13,4,APTO-253,995,5
+CVCL_0504,random,13,5,Everolimus,997,3
+CVCL_0504,random,13,6,Bortezomib,991,9
+CVCL_0504,random,13,7,Ixazomib,984,16
+CVCL_0504,random,13,8,Alpelisib,986,14
+CVCL_0504,random,13,9,IQ 1,990,10
+CVCL_0504,random,13,10,AZD-7648,993,7
+CVCL_0504,random,13,11,Irinotecan,995,5
+CVCL_0504,random,13,12,Futibatinib,984,16
+CVCL_0504,random,13,13,Bimiralisib,990,10
+CVCL_0504,random,13,14,CP21R7,996,4
+CVCL_0504,random,13,15,Adagrasib,988,12
+CVCL_0504,random,13,16,Encorafenib,988,12
+CVCL_0504,random,13,17,AZD2858,993,7
+CVCL_0504,random,13,18,NG25,991,9
+CVCL_0504,random,13,19,Gemcitabine,997,3
+CVCL_0504,random,13,20,BI-3406,990,10
+CVCL_0504,random,14,1,Capmatinib,988,12
+CVCL_0504,random,14,2,AZD2858,993,7
+CVCL_0504,random,14,3,IQ 1,990,10
+CVCL_0504,random,14,4,NG25,991,9
+CVCL_0504,random,14,5,Anastrozole,991,9
+CVCL_0504,random,14,6,Adagrasib,988,12
+CVCL_0504,random,14,7,Bortezomib,991,9
+CVCL_0504,random,14,8,CP21R7,996,4
+CVCL_0504,random,14,9,Oleic acid,992,8
+CVCL_0504,random,14,10,Infigratinib,995,5
+CVCL_0504,random,14,11,Irinotecan,995,5
+CVCL_0504,random,14,12,Gemcitabine,997,3
+CVCL_0504,random,14,13,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,14,14,Encorafenib,988,12
+CVCL_0504,random,14,15,BI-78D3,989,11
+CVCL_0504,random,14,16,LJI308,989,11
+CVCL_0504,random,14,17,Ixazomib,984,16
+CVCL_0504,random,14,18,OTS514,992,8
+CVCL_0504,random,14,19,Bimiralisib,990,10
+CVCL_0504,random,14,20,HI-TOPK-032,983,17
+CVCL_0504,random,15,1,Alpelisib,986,14
+CVCL_0504,random,15,2,APTO-253,995,5
+CVCL_0504,random,15,3,Encorafenib,988,12
+CVCL_0504,random,15,4,HI-TOPK-032,983,17
+CVCL_0504,random,15,5,Binimetinib,989,11
+CVCL_0504,random,15,6,Ixazomib,984,16
+CVCL_0504,random,15,7,Everolimus,997,3
+CVCL_0504,random,15,8,Irinotecan,995,5
+CVCL_0504,random,15,9,Capmatinib,988,12
+CVCL_0504,random,15,10,Infigratinib,995,5
+CVCL_0504,random,15,11,Oleic acid,992,8
+CVCL_0504,random,15,12,BI-78D3,989,11
+CVCL_0504,random,15,13,AZD1390,990,10
+CVCL_0504,random,15,14,BI-3406,990,10
+CVCL_0504,random,15,15,CP21R7,996,4
+CVCL_0504,random,15,16,Anastrozole,991,9
+CVCL_0504,random,15,17,Gemcitabine,997,3
+CVCL_0504,random,15,18,LJI308,989,11
+CVCL_0504,random,15,19,Bimiralisib,990,10
+CVCL_0504,random,15,20,NG25,991,9
+CVCL_0504,random,16,1,Infigratinib,995,5
+CVCL_0504,random,16,2,Ixazomib,984,16
+CVCL_0504,random,16,3,Alpelisib,986,14
+CVCL_0504,random,16,4,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,16,5,IQ 1,990,10
+CVCL_0504,random,16,6,Binimetinib,989,11
+CVCL_0504,random,16,7,LJI308,989,11
+CVCL_0504,random,16,8,AZD2858,993,7
+CVCL_0504,random,16,9,Everolimus,997,3
+CVCL_0504,random,16,10,Encorafenib,988,12
+CVCL_0504,random,16,11,BI-3406,990,10
+CVCL_0504,random,16,12,AT7519,991,9
+CVCL_0504,random,16,13,Irinotecan,995,5
+CVCL_0504,random,16,14,Adagrasib,988,12
+CVCL_0504,random,16,15,APTO-253,995,5
+CVCL_0504,random,16,16,Anastrozole,991,9
+CVCL_0504,random,16,17,Bortezomib,991,9
+CVCL_0504,random,16,18,Gemcitabine,997,3
+CVCL_0504,random,16,19,Bimiralisib,990,10
+CVCL_0504,random,16,20,HI-TOPK-032,983,17
+CVCL_0504,random,17,1,Bortezomib,991,9
+CVCL_0504,random,17,2,OTS514,992,8
+CVCL_0504,random,17,3,AZD1390,990,10
+CVCL_0504,random,17,4,Adagrasib,988,12
+CVCL_0504,random,17,5,IQ 1,990,10
+CVCL_0504,random,17,6,Alpelisib,986,14
+CVCL_0504,random,17,7,NG25,991,9
+CVCL_0504,random,17,8,Ixazomib,984,16
+CVCL_0504,random,17,9,AZD2858,993,7
+CVCL_0504,random,17,10,Everolimus,997,3
+CVCL_0504,random,17,11,Capmatinib,988,12
+CVCL_0504,random,17,12,Futibatinib,984,16
+CVCL_0504,random,17,13,LJI308,989,11
+CVCL_0504,random,17,14,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,17,15,Irinotecan,995,5
+CVCL_0504,random,17,16,Oleic acid,992,8
+CVCL_0504,random,17,17,BI-78D3,989,11
+CVCL_0504,random,17,18,BI-3406,990,10
+CVCL_0504,random,17,19,Anastrozole,991,9
+CVCL_0504,random,17,20,AT7519,991,9
+CVCL_0504,random,18,1,Bortezomib,991,9
+CVCL_0504,random,18,2,Ixazomib,984,16
+CVCL_0504,random,18,3,APTO-253,995,5
+CVCL_0504,random,18,4,LJI308,989,11
+CVCL_0504,random,18,5,AZD-7648,993,7
+CVCL_0504,random,18,6,BI-3406,990,10
+CVCL_0504,random,18,7,OTS514,992,8
+CVCL_0504,random,18,8,CP21R7,996,4
+CVCL_0504,random,18,9,Irinotecan,995,5
+CVCL_0504,random,18,10,Gemcitabine,997,3
+CVCL_0504,random,18,11,Encorafenib,988,12
+CVCL_0504,random,18,12,NG25,991,9
+CVCL_0504,random,18,13,Anastrozole,991,9
+CVCL_0504,random,18,14,Oleic acid,992,8
+CVCL_0504,random,18,15,Bimiralisib,990,10
+CVCL_0504,random,18,16,Infigratinib,995,5
+CVCL_0504,random,18,17,Adagrasib,988,12
+CVCL_0504,random,18,18,Binimetinib,989,11
+CVCL_0504,random,18,19,Everolimus,997,3
+CVCL_0504,random,18,20,Alpelisib,986,14
+CVCL_0504,random,19,1,BI-78D3,989,11
+CVCL_0504,random,19,2,Bortezomib,991,9
+CVCL_0504,random,19,3,Capmatinib,988,12
+CVCL_0504,random,19,4,Infigratinib,995,5
+CVCL_0504,random,19,5,AZD2858,993,7
+CVCL_0504,random,19,6,Adagrasib,988,12
+CVCL_0504,random,19,7,Binimetinib,989,11
+CVCL_0504,random,19,8,Gemcitabine,997,3
+CVCL_0504,random,19,9,NG25,991,9
+CVCL_0504,random,19,10,LY-2584702 (tosylate salt),989,11
+CVCL_0504,random,19,11,Everolimus,997,3
+CVCL_0504,random,19,12,Ixazomib,984,16
+CVCL_0504,random,19,13,LJI308,989,11
+CVCL_0504,random,19,14,AT7519,991,9
+CVCL_0504,random,19,15,BI-3406,990,10
+CVCL_0504,random,19,16,Oleic acid,992,8
+CVCL_0504,random,19,17,AZD-7648,993,7
+CVCL_0504,random,19,18,Anastrozole,991,9
+CVCL_0504,random,19,19,IQ 1,990,10
+CVCL_0504,random,19,20,APTO-253,995,5
+CVCL_0504,trace-uncertainty,-1,1,Bortezomib,991,9
+CVCL_0504,trace-uncertainty,-1,2,HI-TOPK-032,983,17
+CVCL_0504,trace-uncertainty,-1,3,Binimetinib,989,11
+CVCL_0504,trace-uncertainty,-1,4,Ixazomib,984,16
+CVCL_0504,trace-uncertainty,-1,5,Alpelisib,986,14
+CVCL_0504,trace-uncertainty,-1,6,LJI308,989,11
+CVCL_0504,trace-uncertainty,-1,7,OTS514,992,8
+CVCL_0504,trace-uncertainty,-1,8,NG25,991,9
+CVCL_0504,trace-uncertainty,-1,9,Futibatinib,984,16
+CVCL_0504,trace-uncertainty,-1,10,LY-2584702 (tosylate salt),989,11
+CVCL_0504,trace-uncertainty,-1,11,Adagrasib,988,12
+CVCL_0504,trace-uncertainty,-1,12,Capmatinib,988,12
+CVCL_0504,trace-uncertainty,-1,13,IQ 1,990,10
+CVCL_0504,trace-uncertainty,-1,14,BI-78D3,989,11
+CVCL_0504,trace-uncertainty,-1,15,CP21R7,996,4
+CVCL_0504,trace-uncertainty,-1,16,BI-3406,990,10
+CVCL_0504,trace-uncertainty,-1,17,Infigratinib,995,5
+CVCL_0504,trace-uncertainty,-1,18,AZD2858,993,7
+CVCL_0504,trace-uncertainty,-1,19,Encorafenib,988,12
+CVCL_0504,trace-uncertainty,-1,20,Bimiralisib,990,10
+CVCL_0504,D-optimal,-1,1,Bortezomib,991,9
+CVCL_0504,D-optimal,-1,2,HI-TOPK-032,983,17
+CVCL_0504,D-optimal,-1,3,Binimetinib,989,11
+CVCL_0504,D-optimal,-1,4,Ixazomib,984,16
+CVCL_0504,D-optimal,-1,5,Alpelisib,986,14
+CVCL_0504,D-optimal,-1,6,LJI308,989,11
+CVCL_0504,D-optimal,-1,7,OTS514,992,8
+CVCL_0504,D-optimal,-1,8,NG25,991,9
+CVCL_0504,D-optimal,-1,9,Futibatinib,984,16
+CVCL_0504,D-optimal,-1,10,LY-2584702 (tosylate salt),989,11
+CVCL_0504,D-optimal,-1,11,Adagrasib,988,12
+CVCL_0504,D-optimal,-1,12,Capmatinib,988,12
+CVCL_0504,D-optimal,-1,13,IQ 1,990,10
+CVCL_0504,D-optimal,-1,14,BI-78D3,989,11
+CVCL_0504,D-optimal,-1,15,CP21R7,996,4
+CVCL_0504,D-optimal,-1,16,BI-3406,990,10
+CVCL_0504,D-optimal,-1,17,Infigratinib,995,5
+CVCL_0504,D-optimal,-1,18,AZD2858,993,7
+CVCL_0504,D-optimal,-1,19,Encorafenib,988,12
+CVCL_0504,D-optimal,-1,20,Bimiralisib,990,10
+CVCL_0504,V-optimal,-1,1,Bortezomib,991,9
+CVCL_0504,V-optimal,-1,2,HI-TOPK-032,983,17
+CVCL_0504,V-optimal,-1,3,Ixazomib,984,16
+CVCL_0504,V-optimal,-1,4,Binimetinib,989,11
+CVCL_0504,V-optimal,-1,5,Alpelisib,986,14
+CVCL_0504,V-optimal,-1,6,LJI308,989,11
+CVCL_0504,V-optimal,-1,7,OTS514,992,8
+CVCL_0504,V-optimal,-1,8,NG25,991,9
+CVCL_0504,V-optimal,-1,9,Futibatinib,984,16
+CVCL_0504,V-optimal,-1,10,Adagrasib,988,12
+CVCL_0504,V-optimal,-1,11,LY-2584702 (tosylate salt),989,11
+CVCL_0504,V-optimal,-1,12,Capmatinib,988,12
+CVCL_0504,V-optimal,-1,13,IQ 1,990,10
+CVCL_0504,V-optimal,-1,14,BI-78D3,989,11
+CVCL_0504,V-optimal,-1,15,CP21R7,996,4
+CVCL_0504,V-optimal,-1,16,BI-3406,990,10
+CVCL_0504,V-optimal,-1,17,Infigratinib,995,5
+CVCL_0504,V-optimal,-1,18,AZD2858,993,7
+CVCL_0504,V-optimal,-1,19,Encorafenib,988,12
+CVCL_0504,V-optimal,-1,20,Bimiralisib,990,10
+CVCL_0546,random,0,1,IQ 1,1000,0
+CVCL_0546,random,0,2,AZD2858,1000,0
+CVCL_0546,random,0,3,Binimetinib,999,1
+CVCL_0546,random,0,4,Everolimus,1000,0
+CVCL_0546,random,0,5,Bimiralisib,1000,0
+CVCL_0546,random,0,6,AZD-7648,1000,0
+CVCL_0546,random,0,7,Oleic acid,1000,0
+CVCL_0546,random,0,8,OTS514,1000,0
+CVCL_0546,random,0,9,Alpelisib,1000,0
+CVCL_0546,random,0,10,Infigratinib,1000,0
+CVCL_0546,random,0,11,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,0,12,AZD1390,1000,0
+CVCL_0546,random,0,13,Ixazomib,1000,0
+CVCL_0546,random,0,14,BI-3406,1000,0
+CVCL_0546,random,0,15,APTO-253,1000,0
+CVCL_0546,random,0,16,Gemcitabine,1000,0
+CVCL_0546,random,0,17,Bortezomib,1000,0
+CVCL_0546,random,0,18,HI-TOPK-032,1000,0
+CVCL_0546,random,0,19,CP21R7,1000,0
+CVCL_0546,random,0,20,Anastrozole,1000,0
+CVCL_0546,random,1,1,Infigratinib,1000,0
+CVCL_0546,random,1,2,Everolimus,1000,0
+CVCL_0546,random,1,3,Anastrozole,1000,0
+CVCL_0546,random,1,4,AT7519,1000,0
+CVCL_0546,random,1,5,AZD1390,1000,0
+CVCL_0546,random,1,6,OTS514,1000,0
+CVCL_0546,random,1,7,Encorafenib,1000,0
+CVCL_0546,random,1,8,Binimetinib,999,1
+CVCL_0546,random,1,9,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,1,10,IQ 1,1000,0
+CVCL_0546,random,1,11,LJI308,1000,0
+CVCL_0546,random,1,12,Oleic acid,1000,0
+CVCL_0546,random,1,13,NG25,1000,0
+CVCL_0546,random,1,14,Ixazomib,1000,0
+CVCL_0546,random,1,15,AZD-7648,1000,0
+CVCL_0546,random,1,16,Futibatinib,1000,0
+CVCL_0546,random,1,17,Bortezomib,1000,0
+CVCL_0546,random,1,18,Bimiralisib,1000,0
+CVCL_0546,random,1,19,AZD2858,1000,0
+CVCL_0546,random,1,20,Adagrasib,1000,0
+CVCL_0546,random,2,1,Everolimus,1000,0
+CVCL_0546,random,2,2,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,2,3,Bortezomib,1000,0
+CVCL_0546,random,2,4,OTS514,1000,0
+CVCL_0546,random,2,5,Bimiralisib,1000,0
+CVCL_0546,random,2,6,Anastrozole,1000,0
+CVCL_0546,random,2,7,Ixazomib,1000,0
+CVCL_0546,random,2,8,Gemcitabine,1000,0
+CVCL_0546,random,2,9,LJI308,1000,0
+CVCL_0546,random,2,10,IQ 1,1000,0
+CVCL_0546,random,2,11,Alpelisib,1000,0
+CVCL_0546,random,2,12,Oleic acid,1000,0
+CVCL_0546,random,2,13,Encorafenib,1000,0
+CVCL_0546,random,2,14,Capmatinib,1000,0
+CVCL_0546,random,2,15,Irinotecan,1000,0
+CVCL_0546,random,2,16,AZD-7648,1000,0
+CVCL_0546,random,2,17,Binimetinib,999,1
+CVCL_0546,random,2,18,CP21R7,1000,0
+CVCL_0546,random,2,19,APTO-253,1000,0
+CVCL_0546,random,2,20,NG25,1000,0
+CVCL_0546,random,3,1,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,3,2,OTS514,1000,0
+CVCL_0546,random,3,3,Oleic acid,1000,0
+CVCL_0546,random,3,4,AZD1390,1000,0
+CVCL_0546,random,3,5,NG25,1000,0
+CVCL_0546,random,3,6,Bortezomib,1000,0
+CVCL_0546,random,3,7,IQ 1,1000,0
+CVCL_0546,random,3,8,Encorafenib,1000,0
+CVCL_0546,random,3,9,Futibatinib,1000,0
+CVCL_0546,random,3,10,Bimiralisib,1000,0
+CVCL_0546,random,3,11,APTO-253,1000,0
+CVCL_0546,random,3,12,CP21R7,1000,0
+CVCL_0546,random,3,13,Binimetinib,999,1
+CVCL_0546,random,3,14,BI-3406,1000,0
+CVCL_0546,random,3,15,BI-78D3,1000,0
+CVCL_0546,random,3,16,Gemcitabine,1000,0
+CVCL_0546,random,3,17,Alpelisib,1000,0
+CVCL_0546,random,3,18,AT7519,1000,0
+CVCL_0546,random,3,19,AZD-7648,1000,0
+CVCL_0546,random,3,20,Ixazomib,1000,0
+CVCL_0546,random,4,1,Binimetinib,999,1
+CVCL_0546,random,4,2,Gemcitabine,1000,0
+CVCL_0546,random,4,3,APTO-253,1000,0
+CVCL_0546,random,4,4,BI-3406,1000,0
+CVCL_0546,random,4,5,Anastrozole,1000,0
+CVCL_0546,random,4,6,AT7519,1000,0
+CVCL_0546,random,4,7,LJI308,1000,0
+CVCL_0546,random,4,8,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,4,9,Encorafenib,1000,0
+CVCL_0546,random,4,10,Bimiralisib,1000,0
+CVCL_0546,random,4,11,BI-78D3,1000,0
+CVCL_0546,random,4,12,IQ 1,1000,0
+CVCL_0546,random,4,13,CP21R7,1000,0
+CVCL_0546,random,4,14,Adagrasib,1000,0
+CVCL_0546,random,4,15,NG25,1000,0
+CVCL_0546,random,4,16,Everolimus,1000,0
+CVCL_0546,random,4,17,Futibatinib,1000,0
+CVCL_0546,random,4,18,Ixazomib,1000,0
+CVCL_0546,random,4,19,AZD-7648,1000,0
+CVCL_0546,random,4,20,Alpelisib,1000,0
+CVCL_0546,random,5,1,Gemcitabine,1000,0
+CVCL_0546,random,5,2,BI-78D3,1000,0
+CVCL_0546,random,5,3,AZD-7648,1000,0
+CVCL_0546,random,5,4,Anastrozole,1000,0
+CVCL_0546,random,5,5,Ixazomib,1000,0
+CVCL_0546,random,5,6,NG25,1000,0
+CVCL_0546,random,5,7,Binimetinib,999,1
+CVCL_0546,random,5,8,Alpelisib,1000,0
+CVCL_0546,random,5,9,Bortezomib,1000,0
+CVCL_0546,random,5,10,Futibatinib,1000,0
+CVCL_0546,random,5,11,AZD1390,1000,0
+CVCL_0546,random,5,12,IQ 1,1000,0
+CVCL_0546,random,5,13,Oleic acid,1000,0
+CVCL_0546,random,5,14,Everolimus,1000,0
+CVCL_0546,random,5,15,AT7519,1000,0
+CVCL_0546,random,5,16,LJI308,1000,0
+CVCL_0546,random,5,17,HI-TOPK-032,1000,0
+CVCL_0546,random,5,18,OTS514,1000,0
+CVCL_0546,random,5,19,AZD2858,1000,0
+CVCL_0546,random,5,20,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,6,1,Infigratinib,1000,0
+CVCL_0546,random,6,2,AZD-7648,1000,0
+CVCL_0546,random,6,3,Ixazomib,1000,0
+CVCL_0546,random,6,4,AT7519,1000,0
+CVCL_0546,random,6,5,Gemcitabine,1000,0
+CVCL_0546,random,6,6,Capmatinib,1000,0
+CVCL_0546,random,6,7,Binimetinib,999,1
+CVCL_0546,random,6,8,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,6,9,Irinotecan,1000,0
+CVCL_0546,random,6,10,NG25,1000,0
+CVCL_0546,random,6,11,OTS514,1000,0
+CVCL_0546,random,6,12,AZD2858,1000,0
+CVCL_0546,random,6,13,LJI308,1000,0
+CVCL_0546,random,6,14,BI-3406,1000,0
+CVCL_0546,random,6,15,Alpelisib,1000,0
+CVCL_0546,random,6,16,Everolimus,1000,0
+CVCL_0546,random,6,17,Oleic acid,1000,0
+CVCL_0546,random,6,18,IQ 1,1000,0
+CVCL_0546,random,6,19,Bimiralisib,1000,0
+CVCL_0546,random,6,20,BI-78D3,1000,0
+CVCL_0546,random,7,1,Gemcitabine,1000,0
+CVCL_0546,random,7,2,HI-TOPK-032,1000,0
+CVCL_0546,random,7,3,Capmatinib,1000,0
+CVCL_0546,random,7,4,AZD2858,1000,0
+CVCL_0546,random,7,5,CP21R7,1000,0
+CVCL_0546,random,7,6,NG25,1000,0
+CVCL_0546,random,7,7,Ixazomib,1000,0
+CVCL_0546,random,7,8,AZD1390,1000,0
+CVCL_0546,random,7,9,OTS514,1000,0
+CVCL_0546,random,7,10,Futibatinib,1000,0
+CVCL_0546,random,7,11,Bortezomib,1000,0
+CVCL_0546,random,7,12,APTO-253,1000,0
+CVCL_0546,random,7,13,LJI308,1000,0
+CVCL_0546,random,7,14,Irinotecan,1000,0
+CVCL_0546,random,7,15,Bimiralisib,1000,0
+CVCL_0546,random,7,16,BI-3406,1000,0
+CVCL_0546,random,7,17,Anastrozole,1000,0
+CVCL_0546,random,7,18,AT7519,1000,0
+CVCL_0546,random,7,19,Encorafenib,1000,0
+CVCL_0546,random,7,20,Alpelisib,1000,0
+CVCL_0546,random,8,1,Encorafenib,1000,0
+CVCL_0546,random,8,2,HI-TOPK-032,1000,0
+CVCL_0546,random,8,3,BI-3406,1000,0
+CVCL_0546,random,8,4,OTS514,1000,0
+CVCL_0546,random,8,5,CP21R7,1000,0
+CVCL_0546,random,8,6,Everolimus,1000,0
+CVCL_0546,random,8,7,Capmatinib,1000,0
+CVCL_0546,random,8,8,NG25,1000,0
+CVCL_0546,random,8,9,Bimiralisib,1000,0
+CVCL_0546,random,8,10,Binimetinib,999,1
+CVCL_0546,random,8,11,APTO-253,1000,0
+CVCL_0546,random,8,12,Infigratinib,1000,0
+CVCL_0546,random,8,13,Futibatinib,1000,0
+CVCL_0546,random,8,14,Anastrozole,1000,0
+CVCL_0546,random,8,15,AZD1390,1000,0
+CVCL_0546,random,8,16,LJI308,1000,0
+CVCL_0546,random,8,17,BI-78D3,1000,0
+CVCL_0546,random,8,18,AZD2858,1000,0
+CVCL_0546,random,8,19,Irinotecan,1000,0
+CVCL_0546,random,8,20,Ixazomib,1000,0
+CVCL_0546,random,9,1,Encorafenib,1000,0
+CVCL_0546,random,9,2,BI-78D3,1000,0
+CVCL_0546,random,9,3,AZD-7648,1000,0
+CVCL_0546,random,9,4,Ixazomib,1000,0
+CVCL_0546,random,9,5,Capmatinib,1000,0
+CVCL_0546,random,9,6,Irinotecan,1000,0
+CVCL_0546,random,9,7,Alpelisib,1000,0
+CVCL_0546,random,9,8,AZD1390,1000,0
+CVCL_0546,random,9,9,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,9,10,Anastrozole,1000,0
+CVCL_0546,random,9,11,CP21R7,1000,0
+CVCL_0546,random,9,12,IQ 1,1000,0
+CVCL_0546,random,9,13,HI-TOPK-032,1000,0
+CVCL_0546,random,9,14,Everolimus,1000,0
+CVCL_0546,random,9,15,NG25,1000,0
+CVCL_0546,random,9,16,Futibatinib,1000,0
+CVCL_0546,random,9,17,Gemcitabine,1000,0
+CVCL_0546,random,9,18,Infigratinib,1000,0
+CVCL_0546,random,9,19,Bimiralisib,1000,0
+CVCL_0546,random,9,20,BI-3406,1000,0
+CVCL_0546,random,10,1,Futibatinib,1000,0
+CVCL_0546,random,10,2,BI-78D3,1000,0
+CVCL_0546,random,10,3,Adagrasib,1000,0
+CVCL_0546,random,10,4,Anastrozole,1000,0
+CVCL_0546,random,10,5,NG25,1000,0
+CVCL_0546,random,10,6,Encorafenib,1000,0
+CVCL_0546,random,10,7,OTS514,1000,0
+CVCL_0546,random,10,8,IQ 1,1000,0
+CVCL_0546,random,10,9,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,10,10,Gemcitabine,1000,0
+CVCL_0546,random,10,11,Alpelisib,1000,0
+CVCL_0546,random,10,12,AT7519,1000,0
+CVCL_0546,random,10,13,AZD2858,1000,0
+CVCL_0546,random,10,14,Oleic acid,1000,0
+CVCL_0546,random,10,15,Binimetinib,999,1
+CVCL_0546,random,10,16,AZD1390,1000,0
+CVCL_0546,random,10,17,Bimiralisib,1000,0
+CVCL_0546,random,10,18,HI-TOPK-032,1000,0
+CVCL_0546,random,10,19,Capmatinib,1000,0
+CVCL_0546,random,10,20,Everolimus,1000,0
+CVCL_0546,random,11,1,AZD2858,1000,0
+CVCL_0546,random,11,2,Binimetinib,999,1
+CVCL_0546,random,11,3,Adagrasib,1000,0
+CVCL_0546,random,11,4,Encorafenib,1000,0
+CVCL_0546,random,11,5,Irinotecan,1000,0
+CVCL_0546,random,11,6,Alpelisib,1000,0
+CVCL_0546,random,11,7,APTO-253,1000,0
+CVCL_0546,random,11,8,Infigratinib,1000,0
+CVCL_0546,random,11,9,BI-78D3,1000,0
+CVCL_0546,random,11,10,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,11,11,AZD-7648,1000,0
+CVCL_0546,random,11,12,AT7519,1000,0
+CVCL_0546,random,11,13,Oleic acid,1000,0
+CVCL_0546,random,11,14,BI-3406,1000,0
+CVCL_0546,random,11,15,NG25,1000,0
+CVCL_0546,random,11,16,Gemcitabine,1000,0
+CVCL_0546,random,11,17,AZD1390,1000,0
+CVCL_0546,random,11,18,Ixazomib,1000,0
+CVCL_0546,random,11,19,Futibatinib,1000,0
+CVCL_0546,random,11,20,Bortezomib,1000,0
+CVCL_0546,random,12,1,NG25,1000,0
+CVCL_0546,random,12,2,AZD1390,1000,0
+CVCL_0546,random,12,3,Adagrasib,1000,0
+CVCL_0546,random,12,4,Encorafenib,1000,0
+CVCL_0546,random,12,5,AT7519,1000,0
+CVCL_0546,random,12,6,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,12,7,BI-78D3,1000,0
+CVCL_0546,random,12,8,Bortezomib,1000,0
+CVCL_0546,random,12,9,Binimetinib,999,1
+CVCL_0546,random,12,10,Anastrozole,1000,0
+CVCL_0546,random,12,11,AZD2858,1000,0
+CVCL_0546,random,12,12,Capmatinib,1000,0
+CVCL_0546,random,12,13,CP21R7,1000,0
+CVCL_0546,random,12,14,IQ 1,1000,0
+CVCL_0546,random,12,15,Ixazomib,1000,0
+CVCL_0546,random,12,16,AZD-7648,1000,0
+CVCL_0546,random,12,17,OTS514,1000,0
+CVCL_0546,random,12,18,Irinotecan,1000,0
+CVCL_0546,random,12,19,Alpelisib,1000,0
+CVCL_0546,random,12,20,Futibatinib,1000,0
+CVCL_0546,random,13,1,AT7519,1000,0
+CVCL_0546,random,13,2,AZD1390,1000,0
+CVCL_0546,random,13,3,Capmatinib,1000,0
+CVCL_0546,random,13,4,APTO-253,1000,0
+CVCL_0546,random,13,5,Everolimus,1000,0
+CVCL_0546,random,13,6,Bortezomib,1000,0
+CVCL_0546,random,13,7,Ixazomib,1000,0
+CVCL_0546,random,13,8,Alpelisib,1000,0
+CVCL_0546,random,13,9,IQ 1,1000,0
+CVCL_0546,random,13,10,AZD-7648,1000,0
+CVCL_0546,random,13,11,Irinotecan,1000,0
+CVCL_0546,random,13,12,Futibatinib,1000,0
+CVCL_0546,random,13,13,Bimiralisib,1000,0
+CVCL_0546,random,13,14,CP21R7,1000,0
+CVCL_0546,random,13,15,Adagrasib,1000,0
+CVCL_0546,random,13,16,Encorafenib,1000,0
+CVCL_0546,random,13,17,AZD2858,1000,0
+CVCL_0546,random,13,18,NG25,1000,0
+CVCL_0546,random,13,19,Gemcitabine,1000,0
+CVCL_0546,random,13,20,BI-3406,1000,0
+CVCL_0546,random,14,1,Capmatinib,1000,0
+CVCL_0546,random,14,2,AZD2858,1000,0
+CVCL_0546,random,14,3,IQ 1,1000,0
+CVCL_0546,random,14,4,NG25,1000,0
+CVCL_0546,random,14,5,Anastrozole,1000,0
+CVCL_0546,random,14,6,Adagrasib,1000,0
+CVCL_0546,random,14,7,Bortezomib,1000,0
+CVCL_0546,random,14,8,CP21R7,1000,0
+CVCL_0546,random,14,9,Oleic acid,1000,0
+CVCL_0546,random,14,10,Infigratinib,1000,0
+CVCL_0546,random,14,11,Irinotecan,1000,0
+CVCL_0546,random,14,12,Gemcitabine,1000,0
+CVCL_0546,random,14,13,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,14,14,Encorafenib,1000,0
+CVCL_0546,random,14,15,BI-78D3,1000,0
+CVCL_0546,random,14,16,LJI308,1000,0
+CVCL_0546,random,14,17,Ixazomib,1000,0
+CVCL_0546,random,14,18,OTS514,1000,0
+CVCL_0546,random,14,19,Bimiralisib,1000,0
+CVCL_0546,random,14,20,HI-TOPK-032,1000,0
+CVCL_0546,random,15,1,Alpelisib,1000,0
+CVCL_0546,random,15,2,APTO-253,1000,0
+CVCL_0546,random,15,3,Encorafenib,1000,0
+CVCL_0546,random,15,4,HI-TOPK-032,1000,0
+CVCL_0546,random,15,5,Binimetinib,999,1
+CVCL_0546,random,15,6,Ixazomib,1000,0
+CVCL_0546,random,15,7,Everolimus,1000,0
+CVCL_0546,random,15,8,Irinotecan,1000,0
+CVCL_0546,random,15,9,Capmatinib,1000,0
+CVCL_0546,random,15,10,Infigratinib,1000,0
+CVCL_0546,random,15,11,Oleic acid,1000,0
+CVCL_0546,random,15,12,BI-78D3,1000,0
+CVCL_0546,random,15,13,AZD1390,1000,0
+CVCL_0546,random,15,14,BI-3406,1000,0
+CVCL_0546,random,15,15,CP21R7,1000,0
+CVCL_0546,random,15,16,Anastrozole,1000,0
+CVCL_0546,random,15,17,Gemcitabine,1000,0
+CVCL_0546,random,15,18,LJI308,1000,0
+CVCL_0546,random,15,19,Bimiralisib,1000,0
+CVCL_0546,random,15,20,NG25,1000,0
+CVCL_0546,random,16,1,Infigratinib,1000,0
+CVCL_0546,random,16,2,Ixazomib,1000,0
+CVCL_0546,random,16,3,Alpelisib,1000,0
+CVCL_0546,random,16,4,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,16,5,IQ 1,1000,0
+CVCL_0546,random,16,6,Binimetinib,999,1
+CVCL_0546,random,16,7,LJI308,1000,0
+CVCL_0546,random,16,8,AZD2858,1000,0
+CVCL_0546,random,16,9,Everolimus,1000,0
+CVCL_0546,random,16,10,Encorafenib,1000,0
+CVCL_0546,random,16,11,BI-3406,1000,0
+CVCL_0546,random,16,12,AT7519,1000,0
+CVCL_0546,random,16,13,Irinotecan,1000,0
+CVCL_0546,random,16,14,Adagrasib,1000,0
+CVCL_0546,random,16,15,APTO-253,1000,0
+CVCL_0546,random,16,16,Anastrozole,1000,0
+CVCL_0546,random,16,17,Bortezomib,1000,0
+CVCL_0546,random,16,18,Gemcitabine,1000,0
+CVCL_0546,random,16,19,Bimiralisib,1000,0
+CVCL_0546,random,16,20,HI-TOPK-032,1000,0
+CVCL_0546,random,17,1,Bortezomib,1000,0
+CVCL_0546,random,17,2,OTS514,1000,0
+CVCL_0546,random,17,3,AZD1390,1000,0
+CVCL_0546,random,17,4,Adagrasib,1000,0
+CVCL_0546,random,17,5,IQ 1,1000,0
+CVCL_0546,random,17,6,Alpelisib,1000,0
+CVCL_0546,random,17,7,NG25,1000,0
+CVCL_0546,random,17,8,Ixazomib,1000,0
+CVCL_0546,random,17,9,AZD2858,1000,0
+CVCL_0546,random,17,10,Everolimus,1000,0
+CVCL_0546,random,17,11,Capmatinib,1000,0
+CVCL_0546,random,17,12,Futibatinib,1000,0
+CVCL_0546,random,17,13,LJI308,1000,0
+CVCL_0546,random,17,14,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,17,15,Irinotecan,1000,0
+CVCL_0546,random,17,16,Oleic acid,1000,0
+CVCL_0546,random,17,17,BI-78D3,1000,0
+CVCL_0546,random,17,18,BI-3406,1000,0
+CVCL_0546,random,17,19,Anastrozole,1000,0
+CVCL_0546,random,17,20,AT7519,1000,0
+CVCL_0546,random,18,1,Bortezomib,1000,0
+CVCL_0546,random,18,2,Ixazomib,1000,0
+CVCL_0546,random,18,3,APTO-253,1000,0
+CVCL_0546,random,18,4,LJI308,1000,0
+CVCL_0546,random,18,5,AZD-7648,1000,0
+CVCL_0546,random,18,6,BI-3406,1000,0
+CVCL_0546,random,18,7,OTS514,1000,0
+CVCL_0546,random,18,8,CP21R7,1000,0
+CVCL_0546,random,18,9,Irinotecan,1000,0
+CVCL_0546,random,18,10,Gemcitabine,1000,0
+CVCL_0546,random,18,11,Encorafenib,1000,0
+CVCL_0546,random,18,12,NG25,1000,0
+CVCL_0546,random,18,13,Anastrozole,1000,0
+CVCL_0546,random,18,14,Oleic acid,1000,0
+CVCL_0546,random,18,15,Bimiralisib,1000,0
+CVCL_0546,random,18,16,Infigratinib,1000,0
+CVCL_0546,random,18,17,Adagrasib,1000,0
+CVCL_0546,random,18,18,Binimetinib,999,1
+CVCL_0546,random,18,19,Everolimus,1000,0
+CVCL_0546,random,18,20,Alpelisib,1000,0
+CVCL_0546,random,19,1,BI-78D3,1000,0
+CVCL_0546,random,19,2,Bortezomib,1000,0
+CVCL_0546,random,19,3,Capmatinib,1000,0
+CVCL_0546,random,19,4,Infigratinib,1000,0
+CVCL_0546,random,19,5,AZD2858,1000,0
+CVCL_0546,random,19,6,Adagrasib,1000,0
+CVCL_0546,random,19,7,Binimetinib,999,1
+CVCL_0546,random,19,8,Gemcitabine,1000,0
+CVCL_0546,random,19,9,NG25,1000,0
+CVCL_0546,random,19,10,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,random,19,11,Everolimus,1000,0
+CVCL_0546,random,19,12,Ixazomib,1000,0
+CVCL_0546,random,19,13,LJI308,1000,0
+CVCL_0546,random,19,14,AT7519,1000,0
+CVCL_0546,random,19,15,BI-3406,1000,0
+CVCL_0546,random,19,16,Oleic acid,1000,0
+CVCL_0546,random,19,17,AZD-7648,1000,0
+CVCL_0546,random,19,18,Anastrozole,1000,0
+CVCL_0546,random,19,19,IQ 1,1000,0
+CVCL_0546,random,19,20,APTO-253,1000,0
+CVCL_0546,trace-uncertainty,-1,1,Bortezomib,1000,0
+CVCL_0546,trace-uncertainty,-1,2,Ixazomib,1000,0
+CVCL_0546,trace-uncertainty,-1,3,HI-TOPK-032,1000,0
+CVCL_0546,trace-uncertainty,-1,4,Alpelisib,1000,0
+CVCL_0546,trace-uncertainty,-1,5,Binimetinib,999,1
+CVCL_0546,trace-uncertainty,-1,6,Futibatinib,1000,0
+CVCL_0546,trace-uncertainty,-1,7,LJI308,1000,0
+CVCL_0546,trace-uncertainty,-1,8,NG25,1000,0
+CVCL_0546,trace-uncertainty,-1,9,OTS514,1000,0
+CVCL_0546,trace-uncertainty,-1,10,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,trace-uncertainty,-1,11,Adagrasib,1000,0
+CVCL_0546,trace-uncertainty,-1,12,Capmatinib,1000,0
+CVCL_0546,trace-uncertainty,-1,13,IQ 1,1000,0
+CVCL_0546,trace-uncertainty,-1,14,BI-78D3,1000,0
+CVCL_0546,trace-uncertainty,-1,15,CP21R7,1000,0
+CVCL_0546,trace-uncertainty,-1,16,Infigratinib,1000,0
+CVCL_0546,trace-uncertainty,-1,17,BI-3406,1000,0
+CVCL_0546,trace-uncertainty,-1,18,Encorafenib,1000,0
+CVCL_0546,trace-uncertainty,-1,19,AZD2858,1000,0
+CVCL_0546,trace-uncertainty,-1,20,AT7519,1000,0
+CVCL_0546,D-optimal,-1,1,Bortezomib,1000,0
+CVCL_0546,D-optimal,-1,2,Ixazomib,1000,0
+CVCL_0546,D-optimal,-1,3,HI-TOPK-032,1000,0
+CVCL_0546,D-optimal,-1,4,Alpelisib,1000,0
+CVCL_0546,D-optimal,-1,5,Binimetinib,999,1
+CVCL_0546,D-optimal,-1,6,Futibatinib,1000,0
+CVCL_0546,D-optimal,-1,7,LJI308,1000,0
+CVCL_0546,D-optimal,-1,8,NG25,1000,0
+CVCL_0546,D-optimal,-1,9,OTS514,1000,0
+CVCL_0546,D-optimal,-1,10,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,D-optimal,-1,11,Adagrasib,1000,0
+CVCL_0546,D-optimal,-1,12,Capmatinib,1000,0
+CVCL_0546,D-optimal,-1,13,IQ 1,1000,0
+CVCL_0546,D-optimal,-1,14,BI-78D3,1000,0
+CVCL_0546,D-optimal,-1,15,CP21R7,1000,0
+CVCL_0546,D-optimal,-1,16,Infigratinib,1000,0
+CVCL_0546,D-optimal,-1,17,BI-3406,1000,0
+CVCL_0546,D-optimal,-1,18,Encorafenib,1000,0
+CVCL_0546,D-optimal,-1,19,AZD2858,1000,0
+CVCL_0546,D-optimal,-1,20,AT7519,1000,0
+CVCL_0546,V-optimal,-1,1,Bortezomib,1000,0
+CVCL_0546,V-optimal,-1,2,Ixazomib,1000,0
+CVCL_0546,V-optimal,-1,3,HI-TOPK-032,1000,0
+CVCL_0546,V-optimal,-1,4,Alpelisib,1000,0
+CVCL_0546,V-optimal,-1,5,Binimetinib,999,1
+CVCL_0546,V-optimal,-1,6,Futibatinib,1000,0
+CVCL_0546,V-optimal,-1,7,LJI308,1000,0
+CVCL_0546,V-optimal,-1,8,NG25,1000,0
+CVCL_0546,V-optimal,-1,9,OTS514,1000,0
+CVCL_0546,V-optimal,-1,10,LY-2584702 (tosylate salt),1000,0
+CVCL_0546,V-optimal,-1,11,Capmatinib,1000,0
+CVCL_0546,V-optimal,-1,12,Adagrasib,1000,0
+CVCL_0546,V-optimal,-1,13,IQ 1,1000,0
+CVCL_0546,V-optimal,-1,14,BI-78D3,1000,0
+CVCL_0546,V-optimal,-1,15,CP21R7,1000,0
+CVCL_0546,V-optimal,-1,16,Infigratinib,1000,0
+CVCL_0546,V-optimal,-1,17,BI-3406,1000,0
+CVCL_0546,V-optimal,-1,18,Encorafenib,1000,0
+CVCL_0546,V-optimal,-1,19,AZD2858,1000,0
+CVCL_0546,V-optimal,-1,20,AT7519,1000,0
+CVCL_1693,random,0,1,IQ 1,926,74
+CVCL_1693,random,0,2,AZD2858,948,52
+CVCL_1693,random,0,3,Binimetinib,921,79
+CVCL_1693,random,0,4,Everolimus,961,39
+CVCL_1693,random,0,5,Bimiralisib,955,45
+CVCL_1693,random,0,6,AZD-7648,955,45
+CVCL_1693,random,0,7,Oleic acid,941,59
+CVCL_1693,random,0,8,OTS514,903,97
+CVCL_1693,random,0,9,Alpelisib,911,89
+CVCL_1693,random,0,10,Infigratinib,933,67
+CVCL_1693,random,0,11,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,0,12,AZD1390,941,59
+CVCL_1693,random,0,13,Ixazomib,923,77
+CVCL_1693,random,0,14,BI-3406,935,65
+CVCL_1693,random,0,15,APTO-253,962,38
+CVCL_1693,random,0,16,Gemcitabine,973,27
+CVCL_1693,random,0,17,Bortezomib,934,66
+CVCL_1693,random,0,18,HI-TOPK-032,926,74
+CVCL_1693,random,0,19,CP21R7,934,66
+CVCL_1693,random,0,20,Anastrozole,954,46
+CVCL_1693,random,1,1,Infigratinib,933,67
+CVCL_1693,random,1,2,Everolimus,961,39
+CVCL_1693,random,1,3,Anastrozole,954,46
+CVCL_1693,random,1,4,AT7519,927,73
+CVCL_1693,random,1,5,AZD1390,941,59
+CVCL_1693,random,1,6,OTS514,903,97
+CVCL_1693,random,1,7,Encorafenib,938,62
+CVCL_1693,random,1,8,Binimetinib,921,79
+CVCL_1693,random,1,9,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,1,10,IQ 1,926,74
+CVCL_1693,random,1,11,LJI308,907,93
+CVCL_1693,random,1,12,Oleic acid,941,59
+CVCL_1693,random,1,13,NG25,937,63
+CVCL_1693,random,1,14,Ixazomib,923,77
+CVCL_1693,random,1,15,AZD-7648,955,45
+CVCL_1693,random,1,16,Futibatinib,935,65
+CVCL_1693,random,1,17,Bortezomib,934,66
+CVCL_1693,random,1,18,Bimiralisib,955,45
+CVCL_1693,random,1,19,AZD2858,948,52
+CVCL_1693,random,1,20,Adagrasib,914,86
+CVCL_1693,random,2,1,Everolimus,961,39
+CVCL_1693,random,2,2,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,2,3,Bortezomib,934,66
+CVCL_1693,random,2,4,OTS514,903,97
+CVCL_1693,random,2,5,Bimiralisib,955,45
+CVCL_1693,random,2,6,Anastrozole,954,46
+CVCL_1693,random,2,7,Ixazomib,923,77
+CVCL_1693,random,2,8,Gemcitabine,973,27
+CVCL_1693,random,2,9,LJI308,907,93
+CVCL_1693,random,2,10,IQ 1,926,74
+CVCL_1693,random,2,11,Alpelisib,911,89
+CVCL_1693,random,2,12,Oleic acid,941,59
+CVCL_1693,random,2,13,Encorafenib,938,62
+CVCL_1693,random,2,14,Capmatinib,937,63
+CVCL_1693,random,2,15,Irinotecan,950,50
+CVCL_1693,random,2,16,AZD-7648,955,45
+CVCL_1693,random,2,17,Binimetinib,921,79
+CVCL_1693,random,2,18,CP21R7,934,66
+CVCL_1693,random,2,19,APTO-253,962,38
+CVCL_1693,random,2,20,NG25,937,63
+CVCL_1693,random,3,1,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,3,2,OTS514,903,97
+CVCL_1693,random,3,3,Oleic acid,941,59
+CVCL_1693,random,3,4,AZD1390,941,59
+CVCL_1693,random,3,5,NG25,937,63
+CVCL_1693,random,3,6,Bortezomib,934,66
+CVCL_1693,random,3,7,IQ 1,926,74
+CVCL_1693,random,3,8,Encorafenib,938,62
+CVCL_1693,random,3,9,Futibatinib,935,65
+CVCL_1693,random,3,10,Bimiralisib,955,45
+CVCL_1693,random,3,11,APTO-253,962,38
+CVCL_1693,random,3,12,CP21R7,934,66
+CVCL_1693,random,3,13,Binimetinib,921,79
+CVCL_1693,random,3,14,BI-3406,935,65
+CVCL_1693,random,3,15,BI-78D3,937,63
+CVCL_1693,random,3,16,Gemcitabine,973,27
+CVCL_1693,random,3,17,Alpelisib,911,89
+CVCL_1693,random,3,18,AT7519,927,73
+CVCL_1693,random,3,19,AZD-7648,955,45
+CVCL_1693,random,3,20,Ixazomib,923,77
+CVCL_1693,random,4,1,Binimetinib,921,79
+CVCL_1693,random,4,2,Gemcitabine,973,27
+CVCL_1693,random,4,3,APTO-253,962,38
+CVCL_1693,random,4,4,BI-3406,935,65
+CVCL_1693,random,4,5,Anastrozole,954,46
+CVCL_1693,random,4,6,AT7519,927,73
+CVCL_1693,random,4,7,LJI308,907,93
+CVCL_1693,random,4,8,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,4,9,Encorafenib,938,62
+CVCL_1693,random,4,10,Bimiralisib,955,45
+CVCL_1693,random,4,11,BI-78D3,937,63
+CVCL_1693,random,4,12,IQ 1,926,74
+CVCL_1693,random,4,13,CP21R7,934,66
+CVCL_1693,random,4,14,Adagrasib,914,86
+CVCL_1693,random,4,15,NG25,937,63
+CVCL_1693,random,4,16,Everolimus,961,39
+CVCL_1693,random,4,17,Futibatinib,935,65
+CVCL_1693,random,4,18,Ixazomib,923,77
+CVCL_1693,random,4,19,AZD-7648,955,45
+CVCL_1693,random,4,20,Alpelisib,911,89
+CVCL_1693,random,5,1,Gemcitabine,973,27
+CVCL_1693,random,5,2,BI-78D3,937,63
+CVCL_1693,random,5,3,AZD-7648,955,45
+CVCL_1693,random,5,4,Anastrozole,954,46
+CVCL_1693,random,5,5,Ixazomib,923,77
+CVCL_1693,random,5,6,NG25,937,63
+CVCL_1693,random,5,7,Binimetinib,921,79
+CVCL_1693,random,5,8,Alpelisib,911,89
+CVCL_1693,random,5,9,Bortezomib,934,66
+CVCL_1693,random,5,10,Futibatinib,935,65
+CVCL_1693,random,5,11,AZD1390,941,59
+CVCL_1693,random,5,12,IQ 1,926,74
+CVCL_1693,random,5,13,Oleic acid,941,59
+CVCL_1693,random,5,14,Everolimus,961,39
+CVCL_1693,random,5,15,AT7519,927,73
+CVCL_1693,random,5,16,LJI308,907,93
+CVCL_1693,random,5,17,HI-TOPK-032,926,74
+CVCL_1693,random,5,18,OTS514,903,97
+CVCL_1693,random,5,19,AZD2858,948,52
+CVCL_1693,random,5,20,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,6,1,Infigratinib,933,67
+CVCL_1693,random,6,2,AZD-7648,955,45
+CVCL_1693,random,6,3,Ixazomib,923,77
+CVCL_1693,random,6,4,AT7519,927,73
+CVCL_1693,random,6,5,Gemcitabine,973,27
+CVCL_1693,random,6,6,Capmatinib,937,63
+CVCL_1693,random,6,7,Binimetinib,921,79
+CVCL_1693,random,6,8,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,6,9,Irinotecan,950,50
+CVCL_1693,random,6,10,NG25,937,63
+CVCL_1693,random,6,11,OTS514,903,97
+CVCL_1693,random,6,12,AZD2858,948,52
+CVCL_1693,random,6,13,LJI308,907,93
+CVCL_1693,random,6,14,BI-3406,935,65
+CVCL_1693,random,6,15,Alpelisib,911,89
+CVCL_1693,random,6,16,Everolimus,961,39
+CVCL_1693,random,6,17,Oleic acid,941,59
+CVCL_1693,random,6,18,IQ 1,926,74
+CVCL_1693,random,6,19,Bimiralisib,955,45
+CVCL_1693,random,6,20,BI-78D3,937,63
+CVCL_1693,random,7,1,Gemcitabine,973,27
+CVCL_1693,random,7,2,HI-TOPK-032,926,74
+CVCL_1693,random,7,3,Capmatinib,937,63
+CVCL_1693,random,7,4,AZD2858,948,52
+CVCL_1693,random,7,5,CP21R7,934,66
+CVCL_1693,random,7,6,NG25,937,63
+CVCL_1693,random,7,7,Ixazomib,923,77
+CVCL_1693,random,7,8,AZD1390,941,59
+CVCL_1693,random,7,9,OTS514,903,97
+CVCL_1693,random,7,10,Futibatinib,935,65
+CVCL_1693,random,7,11,Bortezomib,934,66
+CVCL_1693,random,7,12,APTO-253,962,38
+CVCL_1693,random,7,13,LJI308,907,93
+CVCL_1693,random,7,14,Irinotecan,950,50
+CVCL_1693,random,7,15,Bimiralisib,955,45
+CVCL_1693,random,7,16,BI-3406,935,65
+CVCL_1693,random,7,17,Anastrozole,954,46
+CVCL_1693,random,7,18,AT7519,927,73
+CVCL_1693,random,7,19,Encorafenib,938,62
+CVCL_1693,random,7,20,Alpelisib,911,89
+CVCL_1693,random,8,1,Encorafenib,938,62
+CVCL_1693,random,8,2,HI-TOPK-032,926,74
+CVCL_1693,random,8,3,BI-3406,935,65
+CVCL_1693,random,8,4,OTS514,903,97
+CVCL_1693,random,8,5,CP21R7,934,66
+CVCL_1693,random,8,6,Everolimus,961,39
+CVCL_1693,random,8,7,Capmatinib,937,63
+CVCL_1693,random,8,8,NG25,937,63
+CVCL_1693,random,8,9,Bimiralisib,955,45
+CVCL_1693,random,8,10,Binimetinib,921,79
+CVCL_1693,random,8,11,APTO-253,962,38
+CVCL_1693,random,8,12,Infigratinib,933,67
+CVCL_1693,random,8,13,Futibatinib,935,65
+CVCL_1693,random,8,14,Anastrozole,954,46
+CVCL_1693,random,8,15,AZD1390,941,59
+CVCL_1693,random,8,16,LJI308,907,93
+CVCL_1693,random,8,17,BI-78D3,937,63
+CVCL_1693,random,8,18,AZD2858,948,52
+CVCL_1693,random,8,19,Irinotecan,950,50
+CVCL_1693,random,8,20,Ixazomib,923,77
+CVCL_1693,random,9,1,Encorafenib,938,62
+CVCL_1693,random,9,2,BI-78D3,937,63
+CVCL_1693,random,9,3,AZD-7648,955,45
+CVCL_1693,random,9,4,Ixazomib,923,77
+CVCL_1693,random,9,5,Capmatinib,937,63
+CVCL_1693,random,9,6,Irinotecan,950,50
+CVCL_1693,random,9,7,Alpelisib,911,89
+CVCL_1693,random,9,8,AZD1390,941,59
+CVCL_1693,random,9,9,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,9,10,Anastrozole,954,46
+CVCL_1693,random,9,11,CP21R7,934,66
+CVCL_1693,random,9,12,IQ 1,926,74
+CVCL_1693,random,9,13,HI-TOPK-032,926,74
+CVCL_1693,random,9,14,Everolimus,961,39
+CVCL_1693,random,9,15,NG25,937,63
+CVCL_1693,random,9,16,Futibatinib,935,65
+CVCL_1693,random,9,17,Gemcitabine,973,27
+CVCL_1693,random,9,18,Infigratinib,933,67
+CVCL_1693,random,9,19,Bimiralisib,955,45
+CVCL_1693,random,9,20,BI-3406,935,65
+CVCL_1693,random,10,1,Futibatinib,935,65
+CVCL_1693,random,10,2,BI-78D3,937,63
+CVCL_1693,random,10,3,Adagrasib,914,86
+CVCL_1693,random,10,4,Anastrozole,954,46
+CVCL_1693,random,10,5,NG25,937,63
+CVCL_1693,random,10,6,Encorafenib,938,62
+CVCL_1693,random,10,7,OTS514,903,97
+CVCL_1693,random,10,8,IQ 1,926,74
+CVCL_1693,random,10,9,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,10,10,Gemcitabine,973,27
+CVCL_1693,random,10,11,Alpelisib,911,89
+CVCL_1693,random,10,12,AT7519,927,73
+CVCL_1693,random,10,13,AZD2858,948,52
+CVCL_1693,random,10,14,Oleic acid,941,59
+CVCL_1693,random,10,15,Binimetinib,921,79
+CVCL_1693,random,10,16,AZD1390,941,59
+CVCL_1693,random,10,17,Bimiralisib,955,45
+CVCL_1693,random,10,18,HI-TOPK-032,926,74
+CVCL_1693,random,10,19,Capmatinib,937,63
+CVCL_1693,random,10,20,Everolimus,961,39
+CVCL_1693,random,11,1,AZD2858,948,52
+CVCL_1693,random,11,2,Binimetinib,921,79
+CVCL_1693,random,11,3,Adagrasib,914,86
+CVCL_1693,random,11,4,Encorafenib,938,62
+CVCL_1693,random,11,5,Irinotecan,950,50
+CVCL_1693,random,11,6,Alpelisib,911,89
+CVCL_1693,random,11,7,APTO-253,962,38
+CVCL_1693,random,11,8,Infigratinib,933,67
+CVCL_1693,random,11,9,BI-78D3,937,63
+CVCL_1693,random,11,10,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,11,11,AZD-7648,955,45
+CVCL_1693,random,11,12,AT7519,927,73
+CVCL_1693,random,11,13,Oleic acid,941,59
+CVCL_1693,random,11,14,BI-3406,935,65
+CVCL_1693,random,11,15,NG25,937,63
+CVCL_1693,random,11,16,Gemcitabine,973,27
+CVCL_1693,random,11,17,AZD1390,941,59
+CVCL_1693,random,11,18,Ixazomib,923,77
+CVCL_1693,random,11,19,Futibatinib,935,65
+CVCL_1693,random,11,20,Bortezomib,934,66
+CVCL_1693,random,12,1,NG25,937,63
+CVCL_1693,random,12,2,AZD1390,941,59
+CVCL_1693,random,12,3,Adagrasib,914,86
+CVCL_1693,random,12,4,Encorafenib,938,62
+CVCL_1693,random,12,5,AT7519,927,73
+CVCL_1693,random,12,6,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,12,7,BI-78D3,937,63
+CVCL_1693,random,12,8,Bortezomib,934,66
+CVCL_1693,random,12,9,Binimetinib,921,79
+CVCL_1693,random,12,10,Anastrozole,954,46
+CVCL_1693,random,12,11,AZD2858,948,52
+CVCL_1693,random,12,12,Capmatinib,937,63
+CVCL_1693,random,12,13,CP21R7,934,66
+CVCL_1693,random,12,14,IQ 1,926,74
+CVCL_1693,random,12,15,Ixazomib,923,77
+CVCL_1693,random,12,16,AZD-7648,955,45
+CVCL_1693,random,12,17,OTS514,903,97
+CVCL_1693,random,12,18,Irinotecan,950,50
+CVCL_1693,random,12,19,Alpelisib,911,89
+CVCL_1693,random,12,20,Futibatinib,935,65
+CVCL_1693,random,13,1,AT7519,927,73
+CVCL_1693,random,13,2,AZD1390,941,59
+CVCL_1693,random,13,3,Capmatinib,937,63
+CVCL_1693,random,13,4,APTO-253,962,38
+CVCL_1693,random,13,5,Everolimus,961,39
+CVCL_1693,random,13,6,Bortezomib,934,66
+CVCL_1693,random,13,7,Ixazomib,923,77
+CVCL_1693,random,13,8,Alpelisib,911,89
+CVCL_1693,random,13,9,IQ 1,926,74
+CVCL_1693,random,13,10,AZD-7648,955,45
+CVCL_1693,random,13,11,Irinotecan,950,50
+CVCL_1693,random,13,12,Futibatinib,935,65
+CVCL_1693,random,13,13,Bimiralisib,955,45
+CVCL_1693,random,13,14,CP21R7,934,66
+CVCL_1693,random,13,15,Adagrasib,914,86
+CVCL_1693,random,13,16,Encorafenib,938,62
+CVCL_1693,random,13,17,AZD2858,948,52
+CVCL_1693,random,13,18,NG25,937,63
+CVCL_1693,random,13,19,Gemcitabine,973,27
+CVCL_1693,random,13,20,BI-3406,935,65
+CVCL_1693,random,14,1,Capmatinib,937,63
+CVCL_1693,random,14,2,AZD2858,948,52
+CVCL_1693,random,14,3,IQ 1,926,74
+CVCL_1693,random,14,4,NG25,937,63
+CVCL_1693,random,14,5,Anastrozole,954,46
+CVCL_1693,random,14,6,Adagrasib,914,86
+CVCL_1693,random,14,7,Bortezomib,934,66
+CVCL_1693,random,14,8,CP21R7,934,66
+CVCL_1693,random,14,9,Oleic acid,941,59
+CVCL_1693,random,14,10,Infigratinib,933,67
+CVCL_1693,random,14,11,Irinotecan,950,50
+CVCL_1693,random,14,12,Gemcitabine,973,27
+CVCL_1693,random,14,13,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,14,14,Encorafenib,938,62
+CVCL_1693,random,14,15,BI-78D3,937,63
+CVCL_1693,random,14,16,LJI308,907,93
+CVCL_1693,random,14,17,Ixazomib,923,77
+CVCL_1693,random,14,18,OTS514,903,97
+CVCL_1693,random,14,19,Bimiralisib,955,45
+CVCL_1693,random,14,20,HI-TOPK-032,926,74
+CVCL_1693,random,15,1,Alpelisib,911,89
+CVCL_1693,random,15,2,APTO-253,962,38
+CVCL_1693,random,15,3,Encorafenib,938,62
+CVCL_1693,random,15,4,HI-TOPK-032,926,74
+CVCL_1693,random,15,5,Binimetinib,921,79
+CVCL_1693,random,15,6,Ixazomib,923,77
+CVCL_1693,random,15,7,Everolimus,961,39
+CVCL_1693,random,15,8,Irinotecan,950,50
+CVCL_1693,random,15,9,Capmatinib,937,63
+CVCL_1693,random,15,10,Infigratinib,933,67
+CVCL_1693,random,15,11,Oleic acid,941,59
+CVCL_1693,random,15,12,BI-78D3,937,63
+CVCL_1693,random,15,13,AZD1390,941,59
+CVCL_1693,random,15,14,BI-3406,935,65
+CVCL_1693,random,15,15,CP21R7,934,66
+CVCL_1693,random,15,16,Anastrozole,954,46
+CVCL_1693,random,15,17,Gemcitabine,973,27
+CVCL_1693,random,15,18,LJI308,907,93
+CVCL_1693,random,15,19,Bimiralisib,955,45
+CVCL_1693,random,15,20,NG25,937,63
+CVCL_1693,random,16,1,Infigratinib,933,67
+CVCL_1693,random,16,2,Ixazomib,923,77
+CVCL_1693,random,16,3,Alpelisib,911,89
+CVCL_1693,random,16,4,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,16,5,IQ 1,926,74
+CVCL_1693,random,16,6,Binimetinib,921,79
+CVCL_1693,random,16,7,LJI308,907,93
+CVCL_1693,random,16,8,AZD2858,948,52
+CVCL_1693,random,16,9,Everolimus,961,39
+CVCL_1693,random,16,10,Encorafenib,938,62
+CVCL_1693,random,16,11,BI-3406,935,65
+CVCL_1693,random,16,12,AT7519,927,73
+CVCL_1693,random,16,13,Irinotecan,950,50
+CVCL_1693,random,16,14,Adagrasib,914,86
+CVCL_1693,random,16,15,APTO-253,962,38
+CVCL_1693,random,16,16,Anastrozole,954,46
+CVCL_1693,random,16,17,Bortezomib,934,66
+CVCL_1693,random,16,18,Gemcitabine,973,27
+CVCL_1693,random,16,19,Bimiralisib,955,45
+CVCL_1693,random,16,20,HI-TOPK-032,926,74
+CVCL_1693,random,17,1,Bortezomib,934,66
+CVCL_1693,random,17,2,OTS514,903,97
+CVCL_1693,random,17,3,AZD1390,941,59
+CVCL_1693,random,17,4,Adagrasib,914,86
+CVCL_1693,random,17,5,IQ 1,926,74
+CVCL_1693,random,17,6,Alpelisib,911,89
+CVCL_1693,random,17,7,NG25,937,63
+CVCL_1693,random,17,8,Ixazomib,923,77
+CVCL_1693,random,17,9,AZD2858,948,52
+CVCL_1693,random,17,10,Everolimus,961,39
+CVCL_1693,random,17,11,Capmatinib,937,63
+CVCL_1693,random,17,12,Futibatinib,935,65
+CVCL_1693,random,17,13,LJI308,907,93
+CVCL_1693,random,17,14,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,17,15,Irinotecan,950,50
+CVCL_1693,random,17,16,Oleic acid,941,59
+CVCL_1693,random,17,17,BI-78D3,937,63
+CVCL_1693,random,17,18,BI-3406,935,65
+CVCL_1693,random,17,19,Anastrozole,954,46
+CVCL_1693,random,17,20,AT7519,927,73
+CVCL_1693,random,18,1,Bortezomib,934,66
+CVCL_1693,random,18,2,Ixazomib,923,77
+CVCL_1693,random,18,3,APTO-253,962,38
+CVCL_1693,random,18,4,LJI308,907,93
+CVCL_1693,random,18,5,AZD-7648,955,45
+CVCL_1693,random,18,6,BI-3406,935,65
+CVCL_1693,random,18,7,OTS514,903,97
+CVCL_1693,random,18,8,CP21R7,934,66
+CVCL_1693,random,18,9,Irinotecan,950,50
+CVCL_1693,random,18,10,Gemcitabine,973,27
+CVCL_1693,random,18,11,Encorafenib,938,62
+CVCL_1693,random,18,12,NG25,937,63
+CVCL_1693,random,18,13,Anastrozole,954,46
+CVCL_1693,random,18,14,Oleic acid,941,59
+CVCL_1693,random,18,15,Bimiralisib,955,45
+CVCL_1693,random,18,16,Infigratinib,933,67
+CVCL_1693,random,18,17,Adagrasib,914,86
+CVCL_1693,random,18,18,Binimetinib,921,79
+CVCL_1693,random,18,19,Everolimus,961,39
+CVCL_1693,random,18,20,Alpelisib,911,89
+CVCL_1693,random,19,1,BI-78D3,937,63
+CVCL_1693,random,19,2,Bortezomib,934,66
+CVCL_1693,random,19,3,Capmatinib,937,63
+CVCL_1693,random,19,4,Infigratinib,933,67
+CVCL_1693,random,19,5,AZD2858,948,52
+CVCL_1693,random,19,6,Adagrasib,914,86
+CVCL_1693,random,19,7,Binimetinib,921,79
+CVCL_1693,random,19,8,Gemcitabine,973,27
+CVCL_1693,random,19,9,NG25,937,63
+CVCL_1693,random,19,10,LY-2584702 (tosylate salt),906,94
+CVCL_1693,random,19,11,Everolimus,961,39
+CVCL_1693,random,19,12,Ixazomib,923,77
+CVCL_1693,random,19,13,LJI308,907,93
+CVCL_1693,random,19,14,AT7519,927,73
+CVCL_1693,random,19,15,BI-3406,935,65
+CVCL_1693,random,19,16,Oleic acid,941,59
+CVCL_1693,random,19,17,AZD-7648,955,45
+CVCL_1693,random,19,18,Anastrozole,954,46
+CVCL_1693,random,19,19,IQ 1,926,74
+CVCL_1693,random,19,20,APTO-253,962,38
+CVCL_1693,trace-uncertainty,-1,1,Bortezomib,934,66
+CVCL_1693,trace-uncertainty,-1,2,Ixazomib,923,77
+CVCL_1693,trace-uncertainty,-1,3,Binimetinib,921,79
+CVCL_1693,trace-uncertainty,-1,4,HI-TOPK-032,926,74
+CVCL_1693,trace-uncertainty,-1,5,LY-2584702 (tosylate salt),906,94
+CVCL_1693,trace-uncertainty,-1,6,LJI308,907,93
+CVCL_1693,trace-uncertainty,-1,7,Adagrasib,914,86
+CVCL_1693,trace-uncertainty,-1,8,Alpelisib,911,89
+CVCL_1693,trace-uncertainty,-1,9,Futibatinib,935,65
+CVCL_1693,trace-uncertainty,-1,10,IQ 1,926,74
+CVCL_1693,trace-uncertainty,-1,11,NG25,937,63
+CVCL_1693,trace-uncertainty,-1,12,OTS514,903,97
+CVCL_1693,trace-uncertainty,-1,13,CP21R7,934,66
+CVCL_1693,trace-uncertainty,-1,14,Infigratinib,933,67
+CVCL_1693,trace-uncertainty,-1,15,BI-3406,935,65
+CVCL_1693,trace-uncertainty,-1,16,Capmatinib,937,63
+CVCL_1693,trace-uncertainty,-1,17,BI-78D3,937,63
+CVCL_1693,trace-uncertainty,-1,18,Encorafenib,938,62
+CVCL_1693,trace-uncertainty,-1,19,AZD2858,948,52
+CVCL_1693,trace-uncertainty,-1,20,AT7519,927,73
+CVCL_1693,D-optimal,-1,1,Bortezomib,934,66
+CVCL_1693,D-optimal,-1,2,Ixazomib,923,77
+CVCL_1693,D-optimal,-1,3,Binimetinib,921,79
+CVCL_1693,D-optimal,-1,4,HI-TOPK-032,926,74
+CVCL_1693,D-optimal,-1,5,LY-2584702 (tosylate salt),906,94
+CVCL_1693,D-optimal,-1,6,LJI308,907,93
+CVCL_1693,D-optimal,-1,7,Adagrasib,914,86
+CVCL_1693,D-optimal,-1,8,Alpelisib,911,89
+CVCL_1693,D-optimal,-1,9,Futibatinib,935,65
+CVCL_1693,D-optimal,-1,10,IQ 1,926,74
+CVCL_1693,D-optimal,-1,11,NG25,937,63
+CVCL_1693,D-optimal,-1,12,OTS514,903,97
+CVCL_1693,D-optimal,-1,13,CP21R7,934,66
+CVCL_1693,D-optimal,-1,14,Infigratinib,933,67
+CVCL_1693,D-optimal,-1,15,BI-3406,935,65
+CVCL_1693,D-optimal,-1,16,Capmatinib,937,63
+CVCL_1693,D-optimal,-1,17,BI-78D3,937,63
+CVCL_1693,D-optimal,-1,18,Encorafenib,938,62
+CVCL_1693,D-optimal,-1,19,AZD2858,948,52
+CVCL_1693,D-optimal,-1,20,AT7519,927,73
+CVCL_1693,V-optimal,-1,1,Bortezomib,934,66
+CVCL_1693,V-optimal,-1,2,Ixazomib,923,77
+CVCL_1693,V-optimal,-1,3,Binimetinib,921,79
+CVCL_1693,V-optimal,-1,4,HI-TOPK-032,926,74
+CVCL_1693,V-optimal,-1,5,LY-2584702 (tosylate salt),906,94
+CVCL_1693,V-optimal,-1,6,LJI308,907,93
+CVCL_1693,V-optimal,-1,7,Adagrasib,914,86
+CVCL_1693,V-optimal,-1,8,Alpelisib,911,89
+CVCL_1693,V-optimal,-1,9,Futibatinib,935,65
+CVCL_1693,V-optimal,-1,10,IQ 1,926,74
+CVCL_1693,V-optimal,-1,11,NG25,937,63
+CVCL_1693,V-optimal,-1,12,OTS514,903,97
+CVCL_1693,V-optimal,-1,13,CP21R7,934,66
+CVCL_1693,V-optimal,-1,14,Infigratinib,933,67
+CVCL_1693,V-optimal,-1,15,BI-3406,935,65
+CVCL_1693,V-optimal,-1,16,Capmatinib,937,63
+CVCL_1693,V-optimal,-1,17,BI-78D3,937,63
+CVCL_1693,V-optimal,-1,18,Encorafenib,938,62
+CVCL_1693,V-optimal,-1,19,AZD2858,948,52
+CVCL_1693,V-optimal,-1,20,AT7519,927,73
+CVCL_1717,random,0,1,IQ 1,996,4
+CVCL_1717,random,0,2,AZD2858,999,1
+CVCL_1717,random,0,3,Binimetinib,996,4
+CVCL_1717,random,0,4,Everolimus,1000,0
+CVCL_1717,random,0,5,Bimiralisib,998,2
+CVCL_1717,random,0,6,AZD-7648,999,1
+CVCL_1717,random,0,7,Oleic acid,1000,0
+CVCL_1717,random,0,8,OTS514,997,3
+CVCL_1717,random,0,9,Alpelisib,997,3
+CVCL_1717,random,0,10,Infigratinib,997,3
+CVCL_1717,random,0,11,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,0,12,AZD1390,999,1
+CVCL_1717,random,0,13,Ixazomib,997,3
+CVCL_1717,random,0,14,BI-3406,999,1
+CVCL_1717,random,0,15,APTO-253,999,1
+CVCL_1717,random,0,16,Gemcitabine,999,1
+CVCL_1717,random,0,17,Bortezomib,1000,0
+CVCL_1717,random,0,18,HI-TOPK-032,997,3
+CVCL_1717,random,0,19,CP21R7,998,2
+CVCL_1717,random,0,20,Anastrozole,1000,0
+CVCL_1717,random,1,1,Infigratinib,997,3
+CVCL_1717,random,1,2,Everolimus,1000,0
+CVCL_1717,random,1,3,Anastrozole,1000,0
+CVCL_1717,random,1,4,AT7519,999,1
+CVCL_1717,random,1,5,AZD1390,999,1
+CVCL_1717,random,1,6,OTS514,997,3
+CVCL_1717,random,1,7,Encorafenib,998,2
+CVCL_1717,random,1,8,Binimetinib,996,4
+CVCL_1717,random,1,9,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,1,10,IQ 1,996,4
+CVCL_1717,random,1,11,LJI308,998,2
+CVCL_1717,random,1,12,Oleic acid,1000,0
+CVCL_1717,random,1,13,NG25,995,5
+CVCL_1717,random,1,14,Ixazomib,997,3
+CVCL_1717,random,1,15,AZD-7648,999,1
+CVCL_1717,random,1,16,Futibatinib,998,2
+CVCL_1717,random,1,17,Bortezomib,1000,0
+CVCL_1717,random,1,18,Bimiralisib,998,2
+CVCL_1717,random,1,19,AZD2858,999,1
+CVCL_1717,random,1,20,Adagrasib,1000,0
+CVCL_1717,random,2,1,Everolimus,1000,0
+CVCL_1717,random,2,2,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,2,3,Bortezomib,1000,0
+CVCL_1717,random,2,4,OTS514,997,3
+CVCL_1717,random,2,5,Bimiralisib,998,2
+CVCL_1717,random,2,6,Anastrozole,1000,0
+CVCL_1717,random,2,7,Ixazomib,997,3
+CVCL_1717,random,2,8,Gemcitabine,999,1
+CVCL_1717,random,2,9,LJI308,998,2
+CVCL_1717,random,2,10,IQ 1,996,4
+CVCL_1717,random,2,11,Alpelisib,997,3
+CVCL_1717,random,2,12,Oleic acid,1000,0
+CVCL_1717,random,2,13,Encorafenib,998,2
+CVCL_1717,random,2,14,Capmatinib,997,3
+CVCL_1717,random,2,15,Irinotecan,999,1
+CVCL_1717,random,2,16,AZD-7648,999,1
+CVCL_1717,random,2,17,Binimetinib,996,4
+CVCL_1717,random,2,18,CP21R7,998,2
+CVCL_1717,random,2,19,APTO-253,999,1
+CVCL_1717,random,2,20,NG25,995,5
+CVCL_1717,random,3,1,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,3,2,OTS514,997,3
+CVCL_1717,random,3,3,Oleic acid,1000,0
+CVCL_1717,random,3,4,AZD1390,999,1
+CVCL_1717,random,3,5,NG25,995,5
+CVCL_1717,random,3,6,Bortezomib,1000,0
+CVCL_1717,random,3,7,IQ 1,996,4
+CVCL_1717,random,3,8,Encorafenib,998,2
+CVCL_1717,random,3,9,Futibatinib,998,2
+CVCL_1717,random,3,10,Bimiralisib,998,2
+CVCL_1717,random,3,11,APTO-253,999,1
+CVCL_1717,random,3,12,CP21R7,998,2
+CVCL_1717,random,3,13,Binimetinib,996,4
+CVCL_1717,random,3,14,BI-3406,999,1
+CVCL_1717,random,3,15,BI-78D3,997,3
+CVCL_1717,random,3,16,Gemcitabine,999,1
+CVCL_1717,random,3,17,Alpelisib,997,3
+CVCL_1717,random,3,18,AT7519,999,1
+CVCL_1717,random,3,19,AZD-7648,999,1
+CVCL_1717,random,3,20,Ixazomib,997,3
+CVCL_1717,random,4,1,Binimetinib,996,4
+CVCL_1717,random,4,2,Gemcitabine,999,1
+CVCL_1717,random,4,3,APTO-253,999,1
+CVCL_1717,random,4,4,BI-3406,999,1
+CVCL_1717,random,4,5,Anastrozole,1000,0
+CVCL_1717,random,4,6,AT7519,999,1
+CVCL_1717,random,4,7,LJI308,998,2
+CVCL_1717,random,4,8,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,4,9,Encorafenib,998,2
+CVCL_1717,random,4,10,Bimiralisib,998,2
+CVCL_1717,random,4,11,BI-78D3,997,3
+CVCL_1717,random,4,12,IQ 1,996,4
+CVCL_1717,random,4,13,CP21R7,998,2
+CVCL_1717,random,4,14,Adagrasib,1000,0
+CVCL_1717,random,4,15,NG25,995,5
+CVCL_1717,random,4,16,Everolimus,1000,0
+CVCL_1717,random,4,17,Futibatinib,998,2
+CVCL_1717,random,4,18,Ixazomib,997,3
+CVCL_1717,random,4,19,AZD-7648,999,1
+CVCL_1717,random,4,20,Alpelisib,997,3
+CVCL_1717,random,5,1,Gemcitabine,999,1
+CVCL_1717,random,5,2,BI-78D3,997,3
+CVCL_1717,random,5,3,AZD-7648,999,1
+CVCL_1717,random,5,4,Anastrozole,1000,0
+CVCL_1717,random,5,5,Ixazomib,997,3
+CVCL_1717,random,5,6,NG25,995,5
+CVCL_1717,random,5,7,Binimetinib,996,4
+CVCL_1717,random,5,8,Alpelisib,997,3
+CVCL_1717,random,5,9,Bortezomib,1000,0
+CVCL_1717,random,5,10,Futibatinib,998,2
+CVCL_1717,random,5,11,AZD1390,999,1
+CVCL_1717,random,5,12,IQ 1,996,4
+CVCL_1717,random,5,13,Oleic acid,1000,0
+CVCL_1717,random,5,14,Everolimus,1000,0
+CVCL_1717,random,5,15,AT7519,999,1
+CVCL_1717,random,5,16,LJI308,998,2
+CVCL_1717,random,5,17,HI-TOPK-032,997,3
+CVCL_1717,random,5,18,OTS514,997,3
+CVCL_1717,random,5,19,AZD2858,999,1
+CVCL_1717,random,5,20,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,6,1,Infigratinib,997,3
+CVCL_1717,random,6,2,AZD-7648,999,1
+CVCL_1717,random,6,3,Ixazomib,997,3
+CVCL_1717,random,6,4,AT7519,999,1
+CVCL_1717,random,6,5,Gemcitabine,999,1
+CVCL_1717,random,6,6,Capmatinib,997,3
+CVCL_1717,random,6,7,Binimetinib,996,4
+CVCL_1717,random,6,8,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,6,9,Irinotecan,999,1
+CVCL_1717,random,6,10,NG25,995,5
+CVCL_1717,random,6,11,OTS514,997,3
+CVCL_1717,random,6,12,AZD2858,999,1
+CVCL_1717,random,6,13,LJI308,998,2
+CVCL_1717,random,6,14,BI-3406,999,1
+CVCL_1717,random,6,15,Alpelisib,997,3
+CVCL_1717,random,6,16,Everolimus,1000,0
+CVCL_1717,random,6,17,Oleic acid,1000,0
+CVCL_1717,random,6,18,IQ 1,996,4
+CVCL_1717,random,6,19,Bimiralisib,998,2
+CVCL_1717,random,6,20,BI-78D3,997,3
+CVCL_1717,random,7,1,Gemcitabine,999,1
+CVCL_1717,random,7,2,HI-TOPK-032,997,3
+CVCL_1717,random,7,3,Capmatinib,997,3
+CVCL_1717,random,7,4,AZD2858,999,1
+CVCL_1717,random,7,5,CP21R7,998,2
+CVCL_1717,random,7,6,NG25,995,5
+CVCL_1717,random,7,7,Ixazomib,997,3
+CVCL_1717,random,7,8,AZD1390,999,1
+CVCL_1717,random,7,9,OTS514,997,3
+CVCL_1717,random,7,10,Futibatinib,998,2
+CVCL_1717,random,7,11,Bortezomib,1000,0
+CVCL_1717,random,7,12,APTO-253,999,1
+CVCL_1717,random,7,13,LJI308,998,2
+CVCL_1717,random,7,14,Irinotecan,999,1
+CVCL_1717,random,7,15,Bimiralisib,998,2
+CVCL_1717,random,7,16,BI-3406,999,1
+CVCL_1717,random,7,17,Anastrozole,1000,0
+CVCL_1717,random,7,18,AT7519,999,1
+CVCL_1717,random,7,19,Encorafenib,998,2
+CVCL_1717,random,7,20,Alpelisib,997,3
+CVCL_1717,random,8,1,Encorafenib,998,2
+CVCL_1717,random,8,2,HI-TOPK-032,997,3
+CVCL_1717,random,8,3,BI-3406,999,1
+CVCL_1717,random,8,4,OTS514,997,3
+CVCL_1717,random,8,5,CP21R7,998,2
+CVCL_1717,random,8,6,Everolimus,1000,0
+CVCL_1717,random,8,7,Capmatinib,997,3
+CVCL_1717,random,8,8,NG25,995,5
+CVCL_1717,random,8,9,Bimiralisib,998,2
+CVCL_1717,random,8,10,Binimetinib,996,4
+CVCL_1717,random,8,11,APTO-253,999,1
+CVCL_1717,random,8,12,Infigratinib,997,3
+CVCL_1717,random,8,13,Futibatinib,998,2
+CVCL_1717,random,8,14,Anastrozole,1000,0
+CVCL_1717,random,8,15,AZD1390,999,1
+CVCL_1717,random,8,16,LJI308,998,2
+CVCL_1717,random,8,17,BI-78D3,997,3
+CVCL_1717,random,8,18,AZD2858,999,1
+CVCL_1717,random,8,19,Irinotecan,999,1
+CVCL_1717,random,8,20,Ixazomib,997,3
+CVCL_1717,random,9,1,Encorafenib,998,2
+CVCL_1717,random,9,2,BI-78D3,997,3
+CVCL_1717,random,9,3,AZD-7648,999,1
+CVCL_1717,random,9,4,Ixazomib,997,3
+CVCL_1717,random,9,5,Capmatinib,997,3
+CVCL_1717,random,9,6,Irinotecan,999,1
+CVCL_1717,random,9,7,Alpelisib,997,3
+CVCL_1717,random,9,8,AZD1390,999,1
+CVCL_1717,random,9,9,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,9,10,Anastrozole,1000,0
+CVCL_1717,random,9,11,CP21R7,998,2
+CVCL_1717,random,9,12,IQ 1,996,4
+CVCL_1717,random,9,13,HI-TOPK-032,997,3
+CVCL_1717,random,9,14,Everolimus,1000,0
+CVCL_1717,random,9,15,NG25,995,5
+CVCL_1717,random,9,16,Futibatinib,998,2
+CVCL_1717,random,9,17,Gemcitabine,999,1
+CVCL_1717,random,9,18,Infigratinib,997,3
+CVCL_1717,random,9,19,Bimiralisib,998,2
+CVCL_1717,random,9,20,BI-3406,999,1
+CVCL_1717,random,10,1,Futibatinib,998,2
+CVCL_1717,random,10,2,BI-78D3,997,3
+CVCL_1717,random,10,3,Adagrasib,1000,0
+CVCL_1717,random,10,4,Anastrozole,1000,0
+CVCL_1717,random,10,5,NG25,995,5
+CVCL_1717,random,10,6,Encorafenib,998,2
+CVCL_1717,random,10,7,OTS514,997,3
+CVCL_1717,random,10,8,IQ 1,996,4
+CVCL_1717,random,10,9,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,10,10,Gemcitabine,999,1
+CVCL_1717,random,10,11,Alpelisib,997,3
+CVCL_1717,random,10,12,AT7519,999,1
+CVCL_1717,random,10,13,AZD2858,999,1
+CVCL_1717,random,10,14,Oleic acid,1000,0
+CVCL_1717,random,10,15,Binimetinib,996,4
+CVCL_1717,random,10,16,AZD1390,999,1
+CVCL_1717,random,10,17,Bimiralisib,998,2
+CVCL_1717,random,10,18,HI-TOPK-032,997,3
+CVCL_1717,random,10,19,Capmatinib,997,3
+CVCL_1717,random,10,20,Everolimus,1000,0
+CVCL_1717,random,11,1,AZD2858,999,1
+CVCL_1717,random,11,2,Binimetinib,996,4
+CVCL_1717,random,11,3,Adagrasib,1000,0
+CVCL_1717,random,11,4,Encorafenib,998,2
+CVCL_1717,random,11,5,Irinotecan,999,1
+CVCL_1717,random,11,6,Alpelisib,997,3
+CVCL_1717,random,11,7,APTO-253,999,1
+CVCL_1717,random,11,8,Infigratinib,997,3
+CVCL_1717,random,11,9,BI-78D3,997,3
+CVCL_1717,random,11,10,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,11,11,AZD-7648,999,1
+CVCL_1717,random,11,12,AT7519,999,1
+CVCL_1717,random,11,13,Oleic acid,1000,0
+CVCL_1717,random,11,14,BI-3406,999,1
+CVCL_1717,random,11,15,NG25,995,5
+CVCL_1717,random,11,16,Gemcitabine,999,1
+CVCL_1717,random,11,17,AZD1390,999,1
+CVCL_1717,random,11,18,Ixazomib,997,3
+CVCL_1717,random,11,19,Futibatinib,998,2
+CVCL_1717,random,11,20,Bortezomib,1000,0
+CVCL_1717,random,12,1,NG25,995,5
+CVCL_1717,random,12,2,AZD1390,999,1
+CVCL_1717,random,12,3,Adagrasib,1000,0
+CVCL_1717,random,12,4,Encorafenib,998,2
+CVCL_1717,random,12,5,AT7519,999,1
+CVCL_1717,random,12,6,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,12,7,BI-78D3,997,3
+CVCL_1717,random,12,8,Bortezomib,1000,0
+CVCL_1717,random,12,9,Binimetinib,996,4
+CVCL_1717,random,12,10,Anastrozole,1000,0
+CVCL_1717,random,12,11,AZD2858,999,1
+CVCL_1717,random,12,12,Capmatinib,997,3
+CVCL_1717,random,12,13,CP21R7,998,2
+CVCL_1717,random,12,14,IQ 1,996,4
+CVCL_1717,random,12,15,Ixazomib,997,3
+CVCL_1717,random,12,16,AZD-7648,999,1
+CVCL_1717,random,12,17,OTS514,997,3
+CVCL_1717,random,12,18,Irinotecan,999,1
+CVCL_1717,random,12,19,Alpelisib,997,3
+CVCL_1717,random,12,20,Futibatinib,998,2
+CVCL_1717,random,13,1,AT7519,999,1
+CVCL_1717,random,13,2,AZD1390,999,1
+CVCL_1717,random,13,3,Capmatinib,997,3
+CVCL_1717,random,13,4,APTO-253,999,1
+CVCL_1717,random,13,5,Everolimus,1000,0
+CVCL_1717,random,13,6,Bortezomib,1000,0
+CVCL_1717,random,13,7,Ixazomib,997,3
+CVCL_1717,random,13,8,Alpelisib,997,3
+CVCL_1717,random,13,9,IQ 1,996,4
+CVCL_1717,random,13,10,AZD-7648,999,1
+CVCL_1717,random,13,11,Irinotecan,999,1
+CVCL_1717,random,13,12,Futibatinib,998,2
+CVCL_1717,random,13,13,Bimiralisib,998,2
+CVCL_1717,random,13,14,CP21R7,998,2
+CVCL_1717,random,13,15,Adagrasib,1000,0
+CVCL_1717,random,13,16,Encorafenib,998,2
+CVCL_1717,random,13,17,AZD2858,999,1
+CVCL_1717,random,13,18,NG25,995,5
+CVCL_1717,random,13,19,Gemcitabine,999,1
+CVCL_1717,random,13,20,BI-3406,999,1
+CVCL_1717,random,14,1,Capmatinib,997,3
+CVCL_1717,random,14,2,AZD2858,999,1
+CVCL_1717,random,14,3,IQ 1,996,4
+CVCL_1717,random,14,4,NG25,995,5
+CVCL_1717,random,14,5,Anastrozole,1000,0
+CVCL_1717,random,14,6,Adagrasib,1000,0
+CVCL_1717,random,14,7,Bortezomib,1000,0
+CVCL_1717,random,14,8,CP21R7,998,2
+CVCL_1717,random,14,9,Oleic acid,1000,0
+CVCL_1717,random,14,10,Infigratinib,997,3
+CVCL_1717,random,14,11,Irinotecan,999,1
+CVCL_1717,random,14,12,Gemcitabine,999,1
+CVCL_1717,random,14,13,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,14,14,Encorafenib,998,2
+CVCL_1717,random,14,15,BI-78D3,997,3
+CVCL_1717,random,14,16,LJI308,998,2
+CVCL_1717,random,14,17,Ixazomib,997,3
+CVCL_1717,random,14,18,OTS514,997,3
+CVCL_1717,random,14,19,Bimiralisib,998,2
+CVCL_1717,random,14,20,HI-TOPK-032,997,3
+CVCL_1717,random,15,1,Alpelisib,997,3
+CVCL_1717,random,15,2,APTO-253,999,1
+CVCL_1717,random,15,3,Encorafenib,998,2
+CVCL_1717,random,15,4,HI-TOPK-032,997,3
+CVCL_1717,random,15,5,Binimetinib,996,4
+CVCL_1717,random,15,6,Ixazomib,997,3
+CVCL_1717,random,15,7,Everolimus,1000,0
+CVCL_1717,random,15,8,Irinotecan,999,1
+CVCL_1717,random,15,9,Capmatinib,997,3
+CVCL_1717,random,15,10,Infigratinib,997,3
+CVCL_1717,random,15,11,Oleic acid,1000,0
+CVCL_1717,random,15,12,BI-78D3,997,3
+CVCL_1717,random,15,13,AZD1390,999,1
+CVCL_1717,random,15,14,BI-3406,999,1
+CVCL_1717,random,15,15,CP21R7,998,2
+CVCL_1717,random,15,16,Anastrozole,1000,0
+CVCL_1717,random,15,17,Gemcitabine,999,1
+CVCL_1717,random,15,18,LJI308,998,2
+CVCL_1717,random,15,19,Bimiralisib,998,2
+CVCL_1717,random,15,20,NG25,995,5
+CVCL_1717,random,16,1,Infigratinib,997,3
+CVCL_1717,random,16,2,Ixazomib,997,3
+CVCL_1717,random,16,3,Alpelisib,997,3
+CVCL_1717,random,16,4,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,16,5,IQ 1,996,4
+CVCL_1717,random,16,6,Binimetinib,996,4
+CVCL_1717,random,16,7,LJI308,998,2
+CVCL_1717,random,16,8,AZD2858,999,1
+CVCL_1717,random,16,9,Everolimus,1000,0
+CVCL_1717,random,16,10,Encorafenib,998,2
+CVCL_1717,random,16,11,BI-3406,999,1
+CVCL_1717,random,16,12,AT7519,999,1
+CVCL_1717,random,16,13,Irinotecan,999,1
+CVCL_1717,random,16,14,Adagrasib,1000,0
+CVCL_1717,random,16,15,APTO-253,999,1
+CVCL_1717,random,16,16,Anastrozole,1000,0
+CVCL_1717,random,16,17,Bortezomib,1000,0
+CVCL_1717,random,16,18,Gemcitabine,999,1
+CVCL_1717,random,16,19,Bimiralisib,998,2
+CVCL_1717,random,16,20,HI-TOPK-032,997,3
+CVCL_1717,random,17,1,Bortezomib,1000,0
+CVCL_1717,random,17,2,OTS514,997,3
+CVCL_1717,random,17,3,AZD1390,999,1
+CVCL_1717,random,17,4,Adagrasib,1000,0
+CVCL_1717,random,17,5,IQ 1,996,4
+CVCL_1717,random,17,6,Alpelisib,997,3
+CVCL_1717,random,17,7,NG25,995,5
+CVCL_1717,random,17,8,Ixazomib,997,3
+CVCL_1717,random,17,9,AZD2858,999,1
+CVCL_1717,random,17,10,Everolimus,1000,0
+CVCL_1717,random,17,11,Capmatinib,997,3
+CVCL_1717,random,17,12,Futibatinib,998,2
+CVCL_1717,random,17,13,LJI308,998,2
+CVCL_1717,random,17,14,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,17,15,Irinotecan,999,1
+CVCL_1717,random,17,16,Oleic acid,1000,0
+CVCL_1717,random,17,17,BI-78D3,997,3
+CVCL_1717,random,17,18,BI-3406,999,1
+CVCL_1717,random,17,19,Anastrozole,1000,0
+CVCL_1717,random,17,20,AT7519,999,1
+CVCL_1717,random,18,1,Bortezomib,1000,0
+CVCL_1717,random,18,2,Ixazomib,997,3
+CVCL_1717,random,18,3,APTO-253,999,1
+CVCL_1717,random,18,4,LJI308,998,2
+CVCL_1717,random,18,5,AZD-7648,999,1
+CVCL_1717,random,18,6,BI-3406,999,1
+CVCL_1717,random,18,7,OTS514,997,3
+CVCL_1717,random,18,8,CP21R7,998,2
+CVCL_1717,random,18,9,Irinotecan,999,1
+CVCL_1717,random,18,10,Gemcitabine,999,1
+CVCL_1717,random,18,11,Encorafenib,998,2
+CVCL_1717,random,18,12,NG25,995,5
+CVCL_1717,random,18,13,Anastrozole,1000,0
+CVCL_1717,random,18,14,Oleic acid,1000,0
+CVCL_1717,random,18,15,Bimiralisib,998,2
+CVCL_1717,random,18,16,Infigratinib,997,3
+CVCL_1717,random,18,17,Adagrasib,1000,0
+CVCL_1717,random,18,18,Binimetinib,996,4
+CVCL_1717,random,18,19,Everolimus,1000,0
+CVCL_1717,random,18,20,Alpelisib,997,3
+CVCL_1717,random,19,1,BI-78D3,997,3
+CVCL_1717,random,19,2,Bortezomib,1000,0
+CVCL_1717,random,19,3,Capmatinib,997,3
+CVCL_1717,random,19,4,Infigratinib,997,3
+CVCL_1717,random,19,5,AZD2858,999,1
+CVCL_1717,random,19,6,Adagrasib,1000,0
+CVCL_1717,random,19,7,Binimetinib,996,4
+CVCL_1717,random,19,8,Gemcitabine,999,1
+CVCL_1717,random,19,9,NG25,995,5
+CVCL_1717,random,19,10,LY-2584702 (tosylate salt),994,6
+CVCL_1717,random,19,11,Everolimus,1000,0
+CVCL_1717,random,19,12,Ixazomib,997,3
+CVCL_1717,random,19,13,LJI308,998,2
+CVCL_1717,random,19,14,AT7519,999,1
+CVCL_1717,random,19,15,BI-3406,999,1
+CVCL_1717,random,19,16,Oleic acid,1000,0
+CVCL_1717,random,19,17,AZD-7648,999,1
+CVCL_1717,random,19,18,Anastrozole,1000,0
+CVCL_1717,random,19,19,IQ 1,996,4
+CVCL_1717,random,19,20,APTO-253,999,1
+CVCL_1717,trace-uncertainty,-1,1,Bortezomib,1000,0
+CVCL_1717,trace-uncertainty,-1,2,Ixazomib,997,3
+CVCL_1717,trace-uncertainty,-1,3,Alpelisib,997,3
+CVCL_1717,trace-uncertainty,-1,4,Binimetinib,996,4
+CVCL_1717,trace-uncertainty,-1,5,HI-TOPK-032,997,3
+CVCL_1717,trace-uncertainty,-1,6,LJI308,998,2
+CVCL_1717,trace-uncertainty,-1,7,LY-2584702 (tosylate salt),994,6
+CVCL_1717,trace-uncertainty,-1,8,OTS514,997,3
+CVCL_1717,trace-uncertainty,-1,9,Futibatinib,998,2
+CVCL_1717,trace-uncertainty,-1,10,NG25,995,5
+CVCL_1717,trace-uncertainty,-1,11,Capmatinib,997,3
+CVCL_1717,trace-uncertainty,-1,12,Adagrasib,1000,0
+CVCL_1717,trace-uncertainty,-1,13,IQ 1,996,4
+CVCL_1717,trace-uncertainty,-1,14,BI-78D3,997,3
+CVCL_1717,trace-uncertainty,-1,15,BI-3406,999,1
+CVCL_1717,trace-uncertainty,-1,16,CP21R7,998,2
+CVCL_1717,trace-uncertainty,-1,17,Infigratinib,997,3
+CVCL_1717,trace-uncertainty,-1,18,Encorafenib,998,2
+CVCL_1717,trace-uncertainty,-1,19,AZD2858,999,1
+CVCL_1717,trace-uncertainty,-1,20,Bimiralisib,998,2
+CVCL_1717,D-optimal,-1,1,Bortezomib,1000,0
+CVCL_1717,D-optimal,-1,2,Ixazomib,997,3
+CVCL_1717,D-optimal,-1,3,Alpelisib,997,3
+CVCL_1717,D-optimal,-1,4,Binimetinib,996,4
+CVCL_1717,D-optimal,-1,5,HI-TOPK-032,997,3
+CVCL_1717,D-optimal,-1,6,LJI308,998,2
+CVCL_1717,D-optimal,-1,7,LY-2584702 (tosylate salt),994,6
+CVCL_1717,D-optimal,-1,8,OTS514,997,3
+CVCL_1717,D-optimal,-1,9,Futibatinib,998,2
+CVCL_1717,D-optimal,-1,10,NG25,995,5
+CVCL_1717,D-optimal,-1,11,Capmatinib,997,3
+CVCL_1717,D-optimal,-1,12,Adagrasib,1000,0
+CVCL_1717,D-optimal,-1,13,IQ 1,996,4
+CVCL_1717,D-optimal,-1,14,BI-78D3,997,3
+CVCL_1717,D-optimal,-1,15,BI-3406,999,1
+CVCL_1717,D-optimal,-1,16,CP21R7,998,2
+CVCL_1717,D-optimal,-1,17,Infigratinib,997,3
+CVCL_1717,D-optimal,-1,18,Encorafenib,998,2
+CVCL_1717,D-optimal,-1,19,AZD2858,999,1
+CVCL_1717,D-optimal,-1,20,Bimiralisib,998,2
+CVCL_1717,V-optimal,-1,1,Bortezomib,1000,0
+CVCL_1717,V-optimal,-1,2,Ixazomib,997,3
+CVCL_1717,V-optimal,-1,3,Alpelisib,997,3
+CVCL_1717,V-optimal,-1,4,Binimetinib,996,4
+CVCL_1717,V-optimal,-1,5,HI-TOPK-032,997,3
+CVCL_1717,V-optimal,-1,6,LJI308,998,2
+CVCL_1717,V-optimal,-1,7,OTS514,997,3
+CVCL_1717,V-optimal,-1,8,LY-2584702 (tosylate salt),994,6
+CVCL_1717,V-optimal,-1,9,Futibatinib,998,2
+CVCL_1717,V-optimal,-1,10,NG25,995,5
+CVCL_1717,V-optimal,-1,11,Capmatinib,997,3
+CVCL_1717,V-optimal,-1,12,Adagrasib,1000,0
+CVCL_1717,V-optimal,-1,13,IQ 1,996,4
+CVCL_1717,V-optimal,-1,14,BI-78D3,997,3
+CVCL_1717,V-optimal,-1,15,BI-3406,999,1
+CVCL_1717,V-optimal,-1,16,CP21R7,998,2
+CVCL_1717,V-optimal,-1,17,Infigratinib,997,3
+CVCL_1717,V-optimal,-1,18,Encorafenib,998,2
+CVCL_1717,V-optimal,-1,19,AZD2858,999,1
+CVCL_1717,V-optimal,-1,20,AT7519,999,1
+CVCL_1731,random,0,1,IQ 1,994,6
+CVCL_1731,random,0,2,AZD2858,996,4
+CVCL_1731,random,0,3,Binimetinib,991,9
+CVCL_1731,random,0,4,Everolimus,999,1
+CVCL_1731,random,0,5,Bimiralisib,996,4
+CVCL_1731,random,0,6,AZD-7648,998,2
+CVCL_1731,random,0,7,Oleic acid,999,1
+CVCL_1731,random,0,8,OTS514,990,10
+CVCL_1731,random,0,9,Alpelisib,991,9
+CVCL_1731,random,0,10,Infigratinib,996,4
+CVCL_1731,random,0,11,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,0,12,AZD1390,996,4
+CVCL_1731,random,0,13,Ixazomib,995,5
+CVCL_1731,random,0,14,BI-3406,995,5
+CVCL_1731,random,0,15,APTO-253,994,6
+CVCL_1731,random,0,16,Gemcitabine,998,2
+CVCL_1731,random,0,17,Bortezomib,996,4
+CVCL_1731,random,0,18,HI-TOPK-032,994,6
+CVCL_1731,random,0,19,CP21R7,995,5
+CVCL_1731,random,0,20,Anastrozole,997,3
+CVCL_1731,random,1,1,Infigratinib,996,4
+CVCL_1731,random,1,2,Everolimus,999,1
+CVCL_1731,random,1,3,Anastrozole,997,3
+CVCL_1731,random,1,4,AT7519,992,8
+CVCL_1731,random,1,5,AZD1390,996,4
+CVCL_1731,random,1,6,OTS514,990,10
+CVCL_1731,random,1,7,Encorafenib,998,2
+CVCL_1731,random,1,8,Binimetinib,991,9
+CVCL_1731,random,1,9,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,1,10,IQ 1,994,6
+CVCL_1731,random,1,11,LJI308,994,6
+CVCL_1731,random,1,12,Oleic acid,999,1
+CVCL_1731,random,1,13,NG25,994,6
+CVCL_1731,random,1,14,Ixazomib,995,5
+CVCL_1731,random,1,15,AZD-7648,998,2
+CVCL_1731,random,1,16,Futibatinib,990,10
+CVCL_1731,random,1,17,Bortezomib,996,4
+CVCL_1731,random,1,18,Bimiralisib,996,4
+CVCL_1731,random,1,19,AZD2858,996,4
+CVCL_1731,random,1,20,Adagrasib,997,3
+CVCL_1731,random,2,1,Everolimus,999,1
+CVCL_1731,random,2,2,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,2,3,Bortezomib,996,4
+CVCL_1731,random,2,4,OTS514,990,10
+CVCL_1731,random,2,5,Bimiralisib,996,4
+CVCL_1731,random,2,6,Anastrozole,997,3
+CVCL_1731,random,2,7,Ixazomib,995,5
+CVCL_1731,random,2,8,Gemcitabine,998,2
+CVCL_1731,random,2,9,LJI308,994,6
+CVCL_1731,random,2,10,IQ 1,994,6
+CVCL_1731,random,2,11,Alpelisib,991,9
+CVCL_1731,random,2,12,Oleic acid,999,1
+CVCL_1731,random,2,13,Encorafenib,998,2
+CVCL_1731,random,2,14,Capmatinib,998,2
+CVCL_1731,random,2,15,Irinotecan,1000,0
+CVCL_1731,random,2,16,AZD-7648,998,2
+CVCL_1731,random,2,17,Binimetinib,991,9
+CVCL_1731,random,2,18,CP21R7,995,5
+CVCL_1731,random,2,19,APTO-253,994,6
+CVCL_1731,random,2,20,NG25,994,6
+CVCL_1731,random,3,1,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,3,2,OTS514,990,10
+CVCL_1731,random,3,3,Oleic acid,999,1
+CVCL_1731,random,3,4,AZD1390,996,4
+CVCL_1731,random,3,5,NG25,994,6
+CVCL_1731,random,3,6,Bortezomib,996,4
+CVCL_1731,random,3,7,IQ 1,994,6
+CVCL_1731,random,3,8,Encorafenib,998,2
+CVCL_1731,random,3,9,Futibatinib,990,10
+CVCL_1731,random,3,10,Bimiralisib,996,4
+CVCL_1731,random,3,11,APTO-253,994,6
+CVCL_1731,random,3,12,CP21R7,995,5
+CVCL_1731,random,3,13,Binimetinib,991,9
+CVCL_1731,random,3,14,BI-3406,995,5
+CVCL_1731,random,3,15,BI-78D3,996,4
+CVCL_1731,random,3,16,Gemcitabine,998,2
+CVCL_1731,random,3,17,Alpelisib,991,9
+CVCL_1731,random,3,18,AT7519,992,8
+CVCL_1731,random,3,19,AZD-7648,998,2
+CVCL_1731,random,3,20,Ixazomib,995,5
+CVCL_1731,random,4,1,Binimetinib,991,9
+CVCL_1731,random,4,2,Gemcitabine,998,2
+CVCL_1731,random,4,3,APTO-253,994,6
+CVCL_1731,random,4,4,BI-3406,995,5
+CVCL_1731,random,4,5,Anastrozole,997,3
+CVCL_1731,random,4,6,AT7519,992,8
+CVCL_1731,random,4,7,LJI308,994,6
+CVCL_1731,random,4,8,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,4,9,Encorafenib,998,2
+CVCL_1731,random,4,10,Bimiralisib,996,4
+CVCL_1731,random,4,11,BI-78D3,996,4
+CVCL_1731,random,4,12,IQ 1,994,6
+CVCL_1731,random,4,13,CP21R7,995,5
+CVCL_1731,random,4,14,Adagrasib,997,3
+CVCL_1731,random,4,15,NG25,994,6
+CVCL_1731,random,4,16,Everolimus,999,1
+CVCL_1731,random,4,17,Futibatinib,990,10
+CVCL_1731,random,4,18,Ixazomib,995,5
+CVCL_1731,random,4,19,AZD-7648,998,2
+CVCL_1731,random,4,20,Alpelisib,991,9
+CVCL_1731,random,5,1,Gemcitabine,998,2
+CVCL_1731,random,5,2,BI-78D3,996,4
+CVCL_1731,random,5,3,AZD-7648,998,2
+CVCL_1731,random,5,4,Anastrozole,997,3
+CVCL_1731,random,5,5,Ixazomib,995,5
+CVCL_1731,random,5,6,NG25,994,6
+CVCL_1731,random,5,7,Binimetinib,991,9
+CVCL_1731,random,5,8,Alpelisib,991,9
+CVCL_1731,random,5,9,Bortezomib,996,4
+CVCL_1731,random,5,10,Futibatinib,990,10
+CVCL_1731,random,5,11,AZD1390,996,4
+CVCL_1731,random,5,12,IQ 1,994,6
+CVCL_1731,random,5,13,Oleic acid,999,1
+CVCL_1731,random,5,14,Everolimus,999,1
+CVCL_1731,random,5,15,AT7519,992,8
+CVCL_1731,random,5,16,LJI308,994,6
+CVCL_1731,random,5,17,HI-TOPK-032,994,6
+CVCL_1731,random,5,18,OTS514,990,10
+CVCL_1731,random,5,19,AZD2858,996,4
+CVCL_1731,random,5,20,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,6,1,Infigratinib,996,4
+CVCL_1731,random,6,2,AZD-7648,998,2
+CVCL_1731,random,6,3,Ixazomib,995,5
+CVCL_1731,random,6,4,AT7519,992,8
+CVCL_1731,random,6,5,Gemcitabine,998,2
+CVCL_1731,random,6,6,Capmatinib,998,2
+CVCL_1731,random,6,7,Binimetinib,991,9
+CVCL_1731,random,6,8,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,6,9,Irinotecan,1000,0
+CVCL_1731,random,6,10,NG25,994,6
+CVCL_1731,random,6,11,OTS514,990,10
+CVCL_1731,random,6,12,AZD2858,996,4
+CVCL_1731,random,6,13,LJI308,994,6
+CVCL_1731,random,6,14,BI-3406,995,5
+CVCL_1731,random,6,15,Alpelisib,991,9
+CVCL_1731,random,6,16,Everolimus,999,1
+CVCL_1731,random,6,17,Oleic acid,999,1
+CVCL_1731,random,6,18,IQ 1,994,6
+CVCL_1731,random,6,19,Bimiralisib,996,4
+CVCL_1731,random,6,20,BI-78D3,996,4
+CVCL_1731,random,7,1,Gemcitabine,998,2
+CVCL_1731,random,7,2,HI-TOPK-032,994,6
+CVCL_1731,random,7,3,Capmatinib,998,2
+CVCL_1731,random,7,4,AZD2858,996,4
+CVCL_1731,random,7,5,CP21R7,995,5
+CVCL_1731,random,7,6,NG25,994,6
+CVCL_1731,random,7,7,Ixazomib,995,5
+CVCL_1731,random,7,8,AZD1390,996,4
+CVCL_1731,random,7,9,OTS514,990,10
+CVCL_1731,random,7,10,Futibatinib,990,10
+CVCL_1731,random,7,11,Bortezomib,996,4
+CVCL_1731,random,7,12,APTO-253,994,6
+CVCL_1731,random,7,13,LJI308,994,6
+CVCL_1731,random,7,14,Irinotecan,1000,0
+CVCL_1731,random,7,15,Bimiralisib,996,4
+CVCL_1731,random,7,16,BI-3406,995,5
+CVCL_1731,random,7,17,Anastrozole,997,3
+CVCL_1731,random,7,18,AT7519,992,8
+CVCL_1731,random,7,19,Encorafenib,998,2
+CVCL_1731,random,7,20,Alpelisib,991,9
+CVCL_1731,random,8,1,Encorafenib,998,2
+CVCL_1731,random,8,2,HI-TOPK-032,994,6
+CVCL_1731,random,8,3,BI-3406,995,5
+CVCL_1731,random,8,4,OTS514,990,10
+CVCL_1731,random,8,5,CP21R7,995,5
+CVCL_1731,random,8,6,Everolimus,999,1
+CVCL_1731,random,8,7,Capmatinib,998,2
+CVCL_1731,random,8,8,NG25,994,6
+CVCL_1731,random,8,9,Bimiralisib,996,4
+CVCL_1731,random,8,10,Binimetinib,991,9
+CVCL_1731,random,8,11,APTO-253,994,6
+CVCL_1731,random,8,12,Infigratinib,996,4
+CVCL_1731,random,8,13,Futibatinib,990,10
+CVCL_1731,random,8,14,Anastrozole,997,3
+CVCL_1731,random,8,15,AZD1390,996,4
+CVCL_1731,random,8,16,LJI308,994,6
+CVCL_1731,random,8,17,BI-78D3,996,4
+CVCL_1731,random,8,18,AZD2858,996,4
+CVCL_1731,random,8,19,Irinotecan,1000,0
+CVCL_1731,random,8,20,Ixazomib,995,5
+CVCL_1731,random,9,1,Encorafenib,998,2
+CVCL_1731,random,9,2,BI-78D3,996,4
+CVCL_1731,random,9,3,AZD-7648,998,2
+CVCL_1731,random,9,4,Ixazomib,995,5
+CVCL_1731,random,9,5,Capmatinib,998,2
+CVCL_1731,random,9,6,Irinotecan,1000,0
+CVCL_1731,random,9,7,Alpelisib,991,9
+CVCL_1731,random,9,8,AZD1390,996,4
+CVCL_1731,random,9,9,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,9,10,Anastrozole,997,3
+CVCL_1731,random,9,11,CP21R7,995,5
+CVCL_1731,random,9,12,IQ 1,994,6
+CVCL_1731,random,9,13,HI-TOPK-032,994,6
+CVCL_1731,random,9,14,Everolimus,999,1
+CVCL_1731,random,9,15,NG25,994,6
+CVCL_1731,random,9,16,Futibatinib,990,10
+CVCL_1731,random,9,17,Gemcitabine,998,2
+CVCL_1731,random,9,18,Infigratinib,996,4
+CVCL_1731,random,9,19,Bimiralisib,996,4
+CVCL_1731,random,9,20,BI-3406,995,5
+CVCL_1731,random,10,1,Futibatinib,990,10
+CVCL_1731,random,10,2,BI-78D3,996,4
+CVCL_1731,random,10,3,Adagrasib,997,3
+CVCL_1731,random,10,4,Anastrozole,997,3
+CVCL_1731,random,10,5,NG25,994,6
+CVCL_1731,random,10,6,Encorafenib,998,2
+CVCL_1731,random,10,7,OTS514,990,10
+CVCL_1731,random,10,8,IQ 1,994,6
+CVCL_1731,random,10,9,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,10,10,Gemcitabine,998,2
+CVCL_1731,random,10,11,Alpelisib,991,9
+CVCL_1731,random,10,12,AT7519,992,8
+CVCL_1731,random,10,13,AZD2858,996,4
+CVCL_1731,random,10,14,Oleic acid,999,1
+CVCL_1731,random,10,15,Binimetinib,991,9
+CVCL_1731,random,10,16,AZD1390,996,4
+CVCL_1731,random,10,17,Bimiralisib,996,4
+CVCL_1731,random,10,18,HI-TOPK-032,994,6
+CVCL_1731,random,10,19,Capmatinib,998,2
+CVCL_1731,random,10,20,Everolimus,999,1
+CVCL_1731,random,11,1,AZD2858,996,4
+CVCL_1731,random,11,2,Binimetinib,991,9
+CVCL_1731,random,11,3,Adagrasib,997,3
+CVCL_1731,random,11,4,Encorafenib,998,2
+CVCL_1731,random,11,5,Irinotecan,1000,0
+CVCL_1731,random,11,6,Alpelisib,991,9
+CVCL_1731,random,11,7,APTO-253,994,6
+CVCL_1731,random,11,8,Infigratinib,996,4
+CVCL_1731,random,11,9,BI-78D3,996,4
+CVCL_1731,random,11,10,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,11,11,AZD-7648,998,2
+CVCL_1731,random,11,12,AT7519,992,8
+CVCL_1731,random,11,13,Oleic acid,999,1
+CVCL_1731,random,11,14,BI-3406,995,5
+CVCL_1731,random,11,15,NG25,994,6
+CVCL_1731,random,11,16,Gemcitabine,998,2
+CVCL_1731,random,11,17,AZD1390,996,4
+CVCL_1731,random,11,18,Ixazomib,995,5
+CVCL_1731,random,11,19,Futibatinib,990,10
+CVCL_1731,random,11,20,Bortezomib,996,4
+CVCL_1731,random,12,1,NG25,994,6
+CVCL_1731,random,12,2,AZD1390,996,4
+CVCL_1731,random,12,3,Adagrasib,997,3
+CVCL_1731,random,12,4,Encorafenib,998,2
+CVCL_1731,random,12,5,AT7519,992,8
+CVCL_1731,random,12,6,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,12,7,BI-78D3,996,4
+CVCL_1731,random,12,8,Bortezomib,996,4
+CVCL_1731,random,12,9,Binimetinib,991,9
+CVCL_1731,random,12,10,Anastrozole,997,3
+CVCL_1731,random,12,11,AZD2858,996,4
+CVCL_1731,random,12,12,Capmatinib,998,2
+CVCL_1731,random,12,13,CP21R7,995,5
+CVCL_1731,random,12,14,IQ 1,994,6
+CVCL_1731,random,12,15,Ixazomib,995,5
+CVCL_1731,random,12,16,AZD-7648,998,2
+CVCL_1731,random,12,17,OTS514,990,10
+CVCL_1731,random,12,18,Irinotecan,1000,0
+CVCL_1731,random,12,19,Alpelisib,991,9
+CVCL_1731,random,12,20,Futibatinib,990,10
+CVCL_1731,random,13,1,AT7519,992,8
+CVCL_1731,random,13,2,AZD1390,996,4
+CVCL_1731,random,13,3,Capmatinib,998,2
+CVCL_1731,random,13,4,APTO-253,994,6
+CVCL_1731,random,13,5,Everolimus,999,1
+CVCL_1731,random,13,6,Bortezomib,996,4
+CVCL_1731,random,13,7,Ixazomib,995,5
+CVCL_1731,random,13,8,Alpelisib,991,9
+CVCL_1731,random,13,9,IQ 1,994,6
+CVCL_1731,random,13,10,AZD-7648,998,2
+CVCL_1731,random,13,11,Irinotecan,1000,0
+CVCL_1731,random,13,12,Futibatinib,990,10
+CVCL_1731,random,13,13,Bimiralisib,996,4
+CVCL_1731,random,13,14,CP21R7,995,5
+CVCL_1731,random,13,15,Adagrasib,997,3
+CVCL_1731,random,13,16,Encorafenib,998,2
+CVCL_1731,random,13,17,AZD2858,996,4
+CVCL_1731,random,13,18,NG25,994,6
+CVCL_1731,random,13,19,Gemcitabine,998,2
+CVCL_1731,random,13,20,BI-3406,995,5
+CVCL_1731,random,14,1,Capmatinib,998,2
+CVCL_1731,random,14,2,AZD2858,996,4
+CVCL_1731,random,14,3,IQ 1,994,6
+CVCL_1731,random,14,4,NG25,994,6
+CVCL_1731,random,14,5,Anastrozole,997,3
+CVCL_1731,random,14,6,Adagrasib,997,3
+CVCL_1731,random,14,7,Bortezomib,996,4
+CVCL_1731,random,14,8,CP21R7,995,5
+CVCL_1731,random,14,9,Oleic acid,999,1
+CVCL_1731,random,14,10,Infigratinib,996,4
+CVCL_1731,random,14,11,Irinotecan,1000,0
+CVCL_1731,random,14,12,Gemcitabine,998,2
+CVCL_1731,random,14,13,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,14,14,Encorafenib,998,2
+CVCL_1731,random,14,15,BI-78D3,996,4
+CVCL_1731,random,14,16,LJI308,994,6
+CVCL_1731,random,14,17,Ixazomib,995,5
+CVCL_1731,random,14,18,OTS514,990,10
+CVCL_1731,random,14,19,Bimiralisib,996,4
+CVCL_1731,random,14,20,HI-TOPK-032,994,6
+CVCL_1731,random,15,1,Alpelisib,991,9
+CVCL_1731,random,15,2,APTO-253,994,6
+CVCL_1731,random,15,3,Encorafenib,998,2
+CVCL_1731,random,15,4,HI-TOPK-032,994,6
+CVCL_1731,random,15,5,Binimetinib,991,9
+CVCL_1731,random,15,6,Ixazomib,995,5
+CVCL_1731,random,15,7,Everolimus,999,1
+CVCL_1731,random,15,8,Irinotecan,1000,0
+CVCL_1731,random,15,9,Capmatinib,998,2
+CVCL_1731,random,15,10,Infigratinib,996,4
+CVCL_1731,random,15,11,Oleic acid,999,1
+CVCL_1731,random,15,12,BI-78D3,996,4
+CVCL_1731,random,15,13,AZD1390,996,4
+CVCL_1731,random,15,14,BI-3406,995,5
+CVCL_1731,random,15,15,CP21R7,995,5
+CVCL_1731,random,15,16,Anastrozole,997,3
+CVCL_1731,random,15,17,Gemcitabine,998,2
+CVCL_1731,random,15,18,LJI308,994,6
+CVCL_1731,random,15,19,Bimiralisib,996,4
+CVCL_1731,random,15,20,NG25,994,6
+CVCL_1731,random,16,1,Infigratinib,996,4
+CVCL_1731,random,16,2,Ixazomib,995,5
+CVCL_1731,random,16,3,Alpelisib,991,9
+CVCL_1731,random,16,4,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,16,5,IQ 1,994,6
+CVCL_1731,random,16,6,Binimetinib,991,9
+CVCL_1731,random,16,7,LJI308,994,6
+CVCL_1731,random,16,8,AZD2858,996,4
+CVCL_1731,random,16,9,Everolimus,999,1
+CVCL_1731,random,16,10,Encorafenib,998,2
+CVCL_1731,random,16,11,BI-3406,995,5
+CVCL_1731,random,16,12,AT7519,992,8
+CVCL_1731,random,16,13,Irinotecan,1000,0
+CVCL_1731,random,16,14,Adagrasib,997,3
+CVCL_1731,random,16,15,APTO-253,994,6
+CVCL_1731,random,16,16,Anastrozole,997,3
+CVCL_1731,random,16,17,Bortezomib,996,4
+CVCL_1731,random,16,18,Gemcitabine,998,2
+CVCL_1731,random,16,19,Bimiralisib,996,4
+CVCL_1731,random,16,20,HI-TOPK-032,994,6
+CVCL_1731,random,17,1,Bortezomib,996,4
+CVCL_1731,random,17,2,OTS514,990,10
+CVCL_1731,random,17,3,AZD1390,996,4
+CVCL_1731,random,17,4,Adagrasib,997,3
+CVCL_1731,random,17,5,IQ 1,994,6
+CVCL_1731,random,17,6,Alpelisib,991,9
+CVCL_1731,random,17,7,NG25,994,6
+CVCL_1731,random,17,8,Ixazomib,995,5
+CVCL_1731,random,17,9,AZD2858,996,4
+CVCL_1731,random,17,10,Everolimus,999,1
+CVCL_1731,random,17,11,Capmatinib,998,2
+CVCL_1731,random,17,12,Futibatinib,990,10
+CVCL_1731,random,17,13,LJI308,994,6
+CVCL_1731,random,17,14,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,17,15,Irinotecan,1000,0
+CVCL_1731,random,17,16,Oleic acid,999,1
+CVCL_1731,random,17,17,BI-78D3,996,4
+CVCL_1731,random,17,18,BI-3406,995,5
+CVCL_1731,random,17,19,Anastrozole,997,3
+CVCL_1731,random,17,20,AT7519,992,8
+CVCL_1731,random,18,1,Bortezomib,996,4
+CVCL_1731,random,18,2,Ixazomib,995,5
+CVCL_1731,random,18,3,APTO-253,994,6
+CVCL_1731,random,18,4,LJI308,994,6
+CVCL_1731,random,18,5,AZD-7648,998,2
+CVCL_1731,random,18,6,BI-3406,995,5
+CVCL_1731,random,18,7,OTS514,990,10
+CVCL_1731,random,18,8,CP21R7,995,5
+CVCL_1731,random,18,9,Irinotecan,1000,0
+CVCL_1731,random,18,10,Gemcitabine,998,2
+CVCL_1731,random,18,11,Encorafenib,998,2
+CVCL_1731,random,18,12,NG25,994,6
+CVCL_1731,random,18,13,Anastrozole,997,3
+CVCL_1731,random,18,14,Oleic acid,999,1
+CVCL_1731,random,18,15,Bimiralisib,996,4
+CVCL_1731,random,18,16,Infigratinib,996,4
+CVCL_1731,random,18,17,Adagrasib,997,3
+CVCL_1731,random,18,18,Binimetinib,991,9
+CVCL_1731,random,18,19,Everolimus,999,1
+CVCL_1731,random,18,20,Alpelisib,991,9
+CVCL_1731,random,19,1,BI-78D3,996,4
+CVCL_1731,random,19,2,Bortezomib,996,4
+CVCL_1731,random,19,3,Capmatinib,998,2
+CVCL_1731,random,19,4,Infigratinib,996,4
+CVCL_1731,random,19,5,AZD2858,996,4
+CVCL_1731,random,19,6,Adagrasib,997,3
+CVCL_1731,random,19,7,Binimetinib,991,9
+CVCL_1731,random,19,8,Gemcitabine,998,2
+CVCL_1731,random,19,9,NG25,994,6
+CVCL_1731,random,19,10,LY-2584702 (tosylate salt),996,4
+CVCL_1731,random,19,11,Everolimus,999,1
+CVCL_1731,random,19,12,Ixazomib,995,5
+CVCL_1731,random,19,13,LJI308,994,6
+CVCL_1731,random,19,14,AT7519,992,8
+CVCL_1731,random,19,15,BI-3406,995,5
+CVCL_1731,random,19,16,Oleic acid,999,1
+CVCL_1731,random,19,17,AZD-7648,998,2
+CVCL_1731,random,19,18,Anastrozole,997,3
+CVCL_1731,random,19,19,IQ 1,994,6
+CVCL_1731,random,19,20,APTO-253,994,6
+CVCL_1731,trace-uncertainty,-1,1,Bortezomib,996,4
+CVCL_1731,trace-uncertainty,-1,2,HI-TOPK-032,994,6
+CVCL_1731,trace-uncertainty,-1,3,Binimetinib,991,9
+CVCL_1731,trace-uncertainty,-1,4,Ixazomib,995,5
+CVCL_1731,trace-uncertainty,-1,5,Alpelisib,991,9
+CVCL_1731,trace-uncertainty,-1,6,OTS514,990,10
+CVCL_1731,trace-uncertainty,-1,7,LJI308,994,6
+CVCL_1731,trace-uncertainty,-1,8,NG25,994,6
+CVCL_1731,trace-uncertainty,-1,9,Futibatinib,990,10
+CVCL_1731,trace-uncertainty,-1,10,LY-2584702 (tosylate salt),996,4
+CVCL_1731,trace-uncertainty,-1,11,Adagrasib,997,3
+CVCL_1731,trace-uncertainty,-1,12,Capmatinib,998,2
+CVCL_1731,trace-uncertainty,-1,13,BI-78D3,996,4
+CVCL_1731,trace-uncertainty,-1,14,IQ 1,994,6
+CVCL_1731,trace-uncertainty,-1,15,Infigratinib,996,4
+CVCL_1731,trace-uncertainty,-1,16,CP21R7,995,5
+CVCL_1731,trace-uncertainty,-1,17,BI-3406,995,5
+CVCL_1731,trace-uncertainty,-1,18,AZD2858,996,4
+CVCL_1731,trace-uncertainty,-1,19,Encorafenib,998,2
+CVCL_1731,trace-uncertainty,-1,20,Bimiralisib,996,4
+CVCL_1731,D-optimal,-1,1,Bortezomib,996,4
+CVCL_1731,D-optimal,-1,2,HI-TOPK-032,994,6
+CVCL_1731,D-optimal,-1,3,Binimetinib,991,9
+CVCL_1731,D-optimal,-1,4,Ixazomib,995,5
+CVCL_1731,D-optimal,-1,5,Alpelisib,991,9
+CVCL_1731,D-optimal,-1,6,OTS514,990,10
+CVCL_1731,D-optimal,-1,7,LJI308,994,6
+CVCL_1731,D-optimal,-1,8,NG25,994,6
+CVCL_1731,D-optimal,-1,9,Futibatinib,990,10
+CVCL_1731,D-optimal,-1,10,LY-2584702 (tosylate salt),996,4
+CVCL_1731,D-optimal,-1,11,Adagrasib,997,3
+CVCL_1731,D-optimal,-1,12,Capmatinib,998,2
+CVCL_1731,D-optimal,-1,13,BI-78D3,996,4
+CVCL_1731,D-optimal,-1,14,IQ 1,994,6
+CVCL_1731,D-optimal,-1,15,Infigratinib,996,4
+CVCL_1731,D-optimal,-1,16,CP21R7,995,5
+CVCL_1731,D-optimal,-1,17,BI-3406,995,5
+CVCL_1731,D-optimal,-1,18,AZD2858,996,4
+CVCL_1731,D-optimal,-1,19,Encorafenib,998,2
+CVCL_1731,D-optimal,-1,20,Bimiralisib,996,4
+CVCL_1731,V-optimal,-1,1,Bortezomib,996,4
+CVCL_1731,V-optimal,-1,2,HI-TOPK-032,994,6
+CVCL_1731,V-optimal,-1,3,Ixazomib,995,5
+CVCL_1731,V-optimal,-1,4,Binimetinib,991,9
+CVCL_1731,V-optimal,-1,5,Alpelisib,991,9
+CVCL_1731,V-optimal,-1,6,OTS514,990,10
+CVCL_1731,V-optimal,-1,7,LJI308,994,6
+CVCL_1731,V-optimal,-1,8,NG25,994,6
+CVCL_1731,V-optimal,-1,9,Futibatinib,990,10
+CVCL_1731,V-optimal,-1,10,LY-2584702 (tosylate salt),996,4
+CVCL_1731,V-optimal,-1,11,Adagrasib,997,3
+CVCL_1731,V-optimal,-1,12,Capmatinib,998,2
+CVCL_1731,V-optimal,-1,13,BI-78D3,996,4
+CVCL_1731,V-optimal,-1,14,IQ 1,994,6
+CVCL_1731,V-optimal,-1,15,Infigratinib,996,4
+CVCL_1731,V-optimal,-1,16,CP21R7,995,5
+CVCL_1731,V-optimal,-1,17,BI-3406,995,5
+CVCL_1731,V-optimal,-1,18,AZD2858,996,4
+CVCL_1731,V-optimal,-1,19,Encorafenib,998,2
+CVCL_1731,V-optimal,-1,20,Bimiralisib,996,4

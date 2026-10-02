@@ -1,0 +1,11 @@
+context_index	Cell_ID_Cellosaur	cell_name	Organ
+0	CVCL_0023	A549	Lung
+1	CVCL_0218	COLO 205	Bowel
+2	CVCL_0320	HT-29	Bowel
+3	CVCL_0332	HS-578T	Breast
+4	CVCL_0399	LoVo	Bowel
+5	CVCL_0504	RKO	Bowel
+6	CVCL_0546	SW480	Bowel
+7	CVCL_1693	SHP-77	Lung
+8	CVCL_1717	SW1417	Bowel
+9	CVCL_1731	SW 900	Lung

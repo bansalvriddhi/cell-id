@@ -1,0 +1,94 @@
+{
+  "passed": true,
+  "synopsis_section_words": {
+    "Abstract": 250,
+    "Introduction & Objective": 126,
+    "Innovation": 80,
+    "Methodology": 215,
+    "Results & Conclusions": 119,
+    "Acknowledgement & References": 74
+  },
+  "pdfs": {
+    "Synopsis": {
+      "path": "report/Synopsis.pdf",
+      "pages": 2,
+      "bytes": 89675,
+      "sha256": "3cad7c19b7cbb97d161eac99a92ec214ec7a0df0ad9afbdaa642d43239aaa648",
+      "page_summary": [
+        {
+          "number": 1,
+          "text_words": 487,
+          "images": 0
+        },
+        {
+          "number": 2,
+          "text_words": 419,
+          "images": 0
+        }
+      ],
+      "anonymous": true
+    },
+    "Project_Paper": {
+      "path": "report/Project_Paper.pdf",
+      "pages": 10,
+      "bytes": 6430857,
+      "sha256": "ca51810bd51473f75d19bb1ef3eba1ffc2d6704a650df76a3552f2b3136ce16b",
+      "page_summary": [
+        {
+          "number": 1,
+          "text_words": 31,
+          "images": 0
+        },
+        {
+          "number": 2,
+          "text_words": 400,
+          "images": 0
+        },
+        {
+          "number": 3,
+          "text_words": 432,
+          "images": 0
+        },
+        {
+          "number": 4,
+          "text_words": 417,
+          "images": 1
+        },
+        {
+          "number": 5,
+          "text_words": 373,
+          "images": 1
+        },
+        {
+          "number": 6,
+          "text_words": 573,
+          "images": 0
+        },
+        {
+          "number": 7,
+          "text_words": 316,
+          "images": 1
+        },
+        {
+          "number": 8,
+          "text_words": 337,
+          "images": 1
+        },
+        {
+          "number": 9,
+          "text_words": 470,
+          "images": 0
+        },
+        {
+          "number": 10,
+          "text_words": 268,
+          "images": 0
+        }
+      ],
+      "anonymous": true
+    }
+  },
+  "math": "typeset subscripts and superscripts checked in final PDF text",
+  "figure_usage": "four colored conceptual/measured figures in project paper; none in synopsis",
+  "limits": "layout, text, word counts, anonymity and recorded evidence; independent study eligibility and guide/video require applicant confirmation"
+}
